@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --ignore \"./data\" server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "KaiNagar",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "cryptr": "^6.0.3",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0"
+  }
+}
