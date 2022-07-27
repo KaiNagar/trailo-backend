@@ -1,5 +1,6 @@
 const boardService = require("./board.service.js");
 const logger = require("../../services/logger.service");
+const { broadcast } = require('../../services/socket.service.js')
 
 // GET LIST
 async function getBoards(req, res) {
@@ -31,6 +32,7 @@ async function addBoard(req, res) {
   try {
     const board = req.body;
     const addedBoard = await boardService.add(board);
+    broadcast({ type: 'something-changed', boardId: board._id })
     console.log(addedBoard);
     return res.json(addedBoard);
   } catch (err) {

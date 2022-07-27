@@ -427,6 +427,25 @@
 7/27/2022, 10:03:34 AM - DEBUG - Getting Boards
 7/27/2022, 10:05:31 AM - INFO - Req was made
 7/27/2022, 10:05:31 AM - DEBUG - Getting Boards
+<<<<<<< HEAD
+7/27/2022, 4:09:56 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:20:46 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:24:05 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:24:17 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:24:47 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:30:02 PM - INFO - Req was made
+7/27/2022, 4:30:02 PM - DEBUG - Getting Boards
+7/27/2022, 4:30:16 PM - INFO - Req was made
+7/27/2022, 4:30:16 PM - DEBUG - Getting Boards
+7/27/2022, 4:30:24 PM - INFO - Req was made
+7/27/2022, 4:30:24 PM - DEBUG - Getting Boards
+7/27/2022, 4:30:47 PM - INFO - Req was made
+7/27/2022, 4:30:47 PM - DEBUG - Getting Boards
+7/27/2022, 4:30:59 PM - INFO - Req was made
+7/27/2022, 4:30:59 PM - DEBUG - Getting Boards
+7/27/2022, 4:31:59 PM - INFO - Req was made
+7/27/2022, 4:31:59 PM - DEBUG - Getting Boards
+=======
 7/27/2022, 10:16:35 AM - INFO - Server is running on port: 5173
 7/27/2022, 10:17:42 AM - INFO - Req was made
 7/27/2022, 10:17:42 AM - DEBUG - Getting Boards
@@ -529,6 +548,7 @@
 7/27/2022, 4:31:54 PM - DEBUG - Getting Boards
 7/27/2022, 4:32:00 PM - INFO - Req was made
 7/27/2022, 4:32:00 PM - DEBUG - Getting Boards
+<<<<<<< HEAD
 7/27/2022, 4:41:47 PM - INFO - Server is running on port: 5173
 7/27/2022, 4:42:23 PM - INFO - Req was made
 7/27/2022, 4:42:23 PM - DEBUG - Getting Boards
@@ -964,3 +984,552 @@
 7/28/2022, 12:58:45 AM - DEBUG - Getting Boards
 7/28/2022, 12:58:47 AM - INFO - Req was made
 7/28/2022, 12:58:47 AM - DEBUG - Getting Boards
+=======
+>>>>>>> 5154207dade621cd5ce7ae379c1258bd911b9c31
+7/27/2022, 4:40:18 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:40:43 PM - INFO - Req was made
+7/27/2022, 4:40:43 PM - DEBUG - Getting Boards
+7/27/2022, 4:52:23 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:52:38 PM - INFO - Req was made
+7/27/2022, 4:52:38 PM - DEBUG - Getting Boards
+7/27/2022, 5:17:25 PM - INFO - Server is running on port: 5173
+7/27/2022, 5:17:52 PM - INFO - Req was made
+7/27/2022, 5:17:52 PM - DEBUG - Getting Boards
+7/27/2022, 5:43:33 PM - INFO - Req was made
+7/27/2022, 5:43:33 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:34 PM - INFO - Req was made
+7/27/2022, 5:45:34 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:44 PM - INFO - Req was made
+7/27/2022, 5:45:44 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:46 PM - INFO - Req was made
+7/27/2022, 5:45:46 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:48 PM - INFO - Req was made
+7/27/2022, 5:45:48 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:52 PM - INFO - Req was made
+7/27/2022, 5:45:52 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:56 PM - INFO - Req was made
+7/27/2022, 5:45:56 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:00 PM - INFO - Req was made
+7/27/2022, 5:46:00 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:05 PM - INFO - Req was made
+7/27/2022, 5:46:05 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:08 PM - INFO - Req was made
+7/27/2022, 5:46:08 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:10 PM - INFO - Req was made
+7/27/2022, 5:46:10 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:11 PM - INFO - Req was made
+7/27/2022, 5:46:11 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:13 PM - INFO - Req was made
+7/27/2022, 5:46:13 PM - DEBUG - Getting Boards
+7/27/2022, 6:35:33 PM - INFO - Server is running on port: 5173
+7/27/2022, 6:38:03 PM - INFO - Server is running on port: 5173
+7/27/2022, 6:38:29 PM - INFO - Req was made
+7/27/2022, 6:38:29 PM - DEBUG - Getting Boards
+7/27/2022, 6:38:38 PM - INFO - Req was made
+7/27/2022, 6:38:38 PM - DEBUG - Getting Boards
+7/27/2022, 6:38:57 PM - INFO - Req was made
+7/27/2022, 6:38:57 PM - DEBUG - Getting Boards
+7/27/2022, 6:39:31 PM - INFO - Req was made
+7/27/2022, 6:39:31 PM - DEBUG - Getting Boards
+7/27/2022, 6:39:31 PM - ERROR - Failed to update board | {}
+7/27/2022, 6:39:40 PM - ERROR - while finding board L5bjj3zZ | {}
+7/27/2022, 6:39:40 PM - ERROR - Failed to get board | {}
+7/27/2022, 6:40:16 PM - INFO - Req was made
+7/27/2022, 6:40:16 PM - DEBUG - Getting Boards
+7/27/2022, 6:40:16 PM - ERROR - Failed to update board | {}
+7/27/2022, 6:40:18 PM - ERROR - while finding board C7L6d7KZ | {}
+7/27/2022, 6:40:18 PM - ERROR - Failed to get board | {}
+7/27/2022, 6:40:30 PM - ERROR - while finding board C7L6d7KZ | {}
+7/27/2022, 6:40:30 PM - ERROR - Failed to get board | {}
+7/27/2022, 6:40:35 PM - INFO - Req was made
+7/27/2022, 6:40:35 PM - DEBUG - Getting Boards
+7/27/2022, 6:40:45 PM - INFO - Req was made
+7/27/2022, 6:40:45 PM - DEBUG - Getting Boards
+7/27/2022, 6:40:45 PM - ERROR - Failed to update board | {}
+7/27/2022, 6:43:04 PM - INFO - Req was made
+7/27/2022, 6:43:04 PM - DEBUG - Getting Boards
+7/27/2022, 6:43:13 PM - INFO - Req was made
+7/27/2022, 6:43:13 PM - DEBUG - Getting Boards
+7/27/2022, 6:43:25 PM - INFO - Req was made
+7/27/2022, 6:43:25 PM - DEBUG - Getting Boards
+7/27/2022, 7:11:22 PM - INFO - Server is running on port: 5173
+7/27/2022, 7:11:27 PM - INFO - Req was made
+7/27/2022, 7:11:27 PM - DEBUG - Getting Boards
+7/27/2022, 7:11:34 PM - INFO - Req was made
+7/27/2022, 7:11:34 PM - DEBUG - Getting Boards
+7/27/2022, 7:11:40 PM - INFO - Req was made
+7/27/2022, 7:11:40 PM - DEBUG - Getting Boards
+7/27/2022, 7:20:38 PM - INFO - Req was made
+7/27/2022, 7:20:38 PM - DEBUG - Getting Boards
+7/27/2022, 7:21:03 PM - INFO - Req was made
+7/27/2022, 7:21:03 PM - DEBUG - Getting Boards
+7/27/2022, 7:21:48 PM - INFO - Req was made
+7/27/2022, 7:21:48 PM - DEBUG - Getting Boards
+7/27/2022, 7:21:55 PM - INFO - Req was made
+7/27/2022, 7:21:55 PM - DEBUG - Getting Boards
+7/27/2022, 7:25:37 PM - INFO - Req was made
+7/27/2022, 7:25:37 PM - DEBUG - Getting Boards
+7/27/2022, 7:40:09 PM - INFO - Req was made
+7/27/2022, 7:40:09 PM - DEBUG - Getting Boards
+7/27/2022, 7:40:20 PM - INFO - Req was made
+7/27/2022, 7:40:20 PM - DEBUG - Getting Boards
+7/27/2022, 7:40:45 PM - INFO - Req was made
+7/27/2022, 7:40:45 PM - DEBUG - Getting Boards
+7/27/2022, 8:25:07 PM - INFO - Req was made
+7/27/2022, 8:25:07 PM - DEBUG - Getting Boards
+7/27/2022, 8:25:19 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:25:19 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:26:44 PM - INFO - Req was made
+7/27/2022, 8:26:44 PM - DEBUG - Getting Boards
+7/27/2022, 8:27:13 PM - INFO - Req was made
+7/27/2022, 8:27:13 PM - DEBUG - Getting Boards
+7/27/2022, 8:27:28 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:27:28 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:30:24 PM - INFO - Req was made
+7/27/2022, 8:30:24 PM - DEBUG - Getting Boards
+7/27/2022, 8:30:55 PM - INFO - Req was made
+7/27/2022, 8:30:55 PM - DEBUG - Getting Boards
+7/27/2022, 8:51:36 PM - INFO - Req was made
+7/27/2022, 8:51:36 PM - DEBUG - Getting Boards
+7/27/2022, 8:51:45 PM - INFO - Req was made
+7/27/2022, 8:51:45 PM - DEBUG - Getting Boards
+7/27/2022, 8:53:50 PM - INFO - Req was made
+7/27/2022, 8:53:50 PM - DEBUG - Getting Boards
+7/27/2022, 8:54:17 PM - INFO - Req was made
+7/27/2022, 8:54:17 PM - DEBUG - Getting Boards
+7/27/2022, 8:54:28 PM - INFO - Req was made
+7/27/2022, 8:54:28 PM - DEBUG - Getting Boards
+7/27/2022, 8:55:16 PM - INFO - Req was made
+7/27/2022, 8:55:16 PM - DEBUG - Getting Boards
+7/27/2022, 8:55:32 PM - INFO - Req was made
+7/27/2022, 8:55:32 PM - DEBUG - Getting Boards
+7/27/2022, 8:56:01 PM - INFO - Req was made
+7/27/2022, 8:56:01 PM - DEBUG - Getting Boards
+7/27/2022, 8:56:11 PM - INFO - Req was made
+7/27/2022, 8:56:11 PM - DEBUG - Getting Boards
+7/27/2022, 8:56:21 PM - INFO - Req was made
+7/27/2022, 8:56:21 PM - DEBUG - Getting Boards
+7/27/2022, 8:56:27 PM - INFO - Req was made
+7/27/2022, 8:56:27 PM - DEBUG - Getting Boards
+7/27/2022, 8:57:26 PM - INFO - Req was made
+7/27/2022, 8:57:26 PM - DEBUG - Getting Boards
+7/27/2022, 8:57:27 PM - INFO - Req was made
+7/27/2022, 8:57:27 PM - DEBUG - Getting Boards
+7/27/2022, 9:31:02 PM - INFO - Server is running on port: 5173
+7/27/2022, 9:31:09 PM - INFO - Req was made
+7/27/2022, 9:31:09 PM - DEBUG - Getting Boards
+7/27/2022, 9:40:11 PM - INFO - Req was made
+7/27/2022, 9:40:11 PM - DEBUG - Getting Boards
+7/27/2022, 9:44:54 PM - INFO - Req was made
+7/27/2022, 9:44:54 PM - DEBUG - Getting Boards
+7/27/2022, 9:45:02 PM - INFO - Req was made
+7/27/2022, 9:45:02 PM - DEBUG - Getting Boards
+7/27/2022, 9:45:12 PM - INFO - Req was made
+7/27/2022, 9:45:12 PM - DEBUG - Getting Boards
+7/27/2022, 9:52:39 PM - INFO - Req was made
+7/27/2022, 9:52:39 PM - DEBUG - Getting Boards
+7/27/2022, 9:52:50 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:52:50 PM - ERROR - Failed to get board | {}
+7/27/2022, 9:52:53 PM - INFO - Req was made
+7/27/2022, 9:52:53 PM - DEBUG - Getting Boards
+7/27/2022, 9:53:18 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:53:18 PM - ERROR - Failed to get board | {}
+7/27/2022, 9:54:06 PM - INFO - Req was made
+7/27/2022, 9:54:06 PM - DEBUG - Getting Boards
+7/27/2022, 9:54:15 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:54:15 PM - ERROR - Failed to get board | {}
+7/27/2022, 9:54:17 PM - INFO - Req was made
+7/27/2022, 9:54:17 PM - DEBUG - Getting Boards
+7/27/2022, 9:54:51 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:54:51 PM - ERROR - Failed to get board | {}
+7/27/2022, 9:54:53 PM - INFO - Req was made
+7/27/2022, 9:54:53 PM - DEBUG - Getting Boards
+7/27/2022, 9:54:55 PM - INFO - Req was made
+7/27/2022, 9:54:55 PM - DEBUG - Getting Boards
+7/27/2022, 9:56:39 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:56:39 PM - ERROR - Failed to get board | {}
+7/27/2022, 9:56:40 PM - INFO - Req was made
+7/27/2022, 9:56:40 PM - DEBUG - Getting Boards
+7/27/2022, 9:58:06 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:58:06 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:05:25 PM - INFO - Req was made
+7/27/2022, 10:05:25 PM - DEBUG - Getting Boards
+7/27/2022, 10:05:31 PM - INFO - Req was made
+7/27/2022, 10:05:31 PM - DEBUG - Getting Boards
+7/27/2022, 10:06:20 PM - INFO - Req was made
+7/27/2022, 10:06:20 PM - DEBUG - Getting Boards
+7/27/2022, 10:07:37 PM - INFO - Req was made
+7/27/2022, 10:07:37 PM - DEBUG - Getting Boards
+7/27/2022, 10:07:46 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:07:46 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:08:43 PM - INFO - Req was made
+7/27/2022, 10:08:43 PM - DEBUG - Getting Boards
+7/27/2022, 10:08:43 PM - INFO - Req was made
+7/27/2022, 10:08:43 PM - DEBUG - Getting Boards
+7/27/2022, 10:08:51 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:08:51 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:09:05 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:09:05 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:09:10 PM - INFO - Req was made
+7/27/2022, 10:09:10 PM - DEBUG - Getting Boards
+7/27/2022, 10:09:34 PM - INFO - Req was made
+7/27/2022, 10:09:34 PM - DEBUG - Getting Boards
+7/27/2022, 10:18:01 PM - INFO - Server is running on port: 5173
+7/27/2022, 10:22:51 PM - INFO - Req was made
+7/27/2022, 10:22:51 PM - DEBUG - Getting Boards
+7/27/2022, 10:22:59 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:22:59 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:23:01 PM - INFO - Req was made
+7/27/2022, 10:23:01 PM - DEBUG - Getting Boards
+7/27/2022, 10:25:31 PM - INFO - Req was made
+7/27/2022, 10:25:31 PM - DEBUG - Getting Boards
+7/27/2022, 10:25:31 PM - INFO - Req was made
+7/27/2022, 10:25:31 PM - DEBUG - Getting Boards
+7/27/2022, 10:25:36 PM - INFO - Req was made
+7/27/2022, 10:25:36 PM - DEBUG - Getting Boards
+7/27/2022, 10:25:40 PM - INFO - Req was made
+7/27/2022, 10:25:40 PM - DEBUG - Getting Boards
+7/27/2022, 10:25:43 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:25:43 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:25:44 PM - INFO - Req was made
+7/27/2022, 10:25:44 PM - DEBUG - Getting Boards
+7/27/2022, 10:26:00 PM - INFO - Req was made
+7/27/2022, 10:26:00 PM - DEBUG - Getting Boards
+7/27/2022, 10:26:15 PM - INFO - Req was made
+7/27/2022, 10:26:15 PM - DEBUG - Getting Boards
+7/27/2022, 10:26:16 PM - INFO - Req was made
+7/27/2022, 10:26:16 PM - DEBUG - Getting Boards
+7/27/2022, 10:27:48 PM - INFO - Req was made
+7/27/2022, 10:27:48 PM - DEBUG - Getting Boards
+7/27/2022, 10:27:52 PM - INFO - Req was made
+7/27/2022, 10:27:52 PM - DEBUG - Getting Boards
+7/27/2022, 10:28:00 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:28:00 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:28:17 PM - INFO - Req was made
+7/27/2022, 10:28:17 PM - DEBUG - Getting Boards
+7/27/2022, 10:28:24 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:28:24 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:28:26 PM - INFO - Req was made
+7/27/2022, 10:28:26 PM - DEBUG - Getting Boards
+7/27/2022, 10:28:41 PM - INFO - Req was made
+7/27/2022, 10:28:41 PM - DEBUG - Getting Boards
+7/27/2022, 10:28:41 PM - INFO - Req was made
+7/27/2022, 10:28:41 PM - DEBUG - Getting Boards
+7/27/2022, 10:29:47 PM - INFO - Req was made
+7/27/2022, 10:29:47 PM - DEBUG - Getting Boards
+7/27/2022, 10:29:47 PM - INFO - Req was made
+7/27/2022, 10:29:47 PM - DEBUG - Getting Boards
+7/27/2022, 10:31:17 PM - INFO - Req was made
+7/27/2022, 10:31:17 PM - DEBUG - Getting Boards
+7/27/2022, 10:31:17 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:31:17 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:31:19 PM - INFO - Req was made
+7/27/2022, 10:31:19 PM - DEBUG - Getting Boards
+7/27/2022, 10:31:28 PM - INFO - Req was made
+7/27/2022, 10:31:28 PM - DEBUG - Getting Boards
+7/27/2022, 10:34:21 PM - INFO - Server is running on port: 5173
+7/27/2022, 10:34:45 PM - INFO - Req was made
+7/27/2022, 10:34:45 PM - DEBUG - Getting Boards
+7/27/2022, 10:34:45 PM - INFO - Req was made
+7/27/2022, 10:34:45 PM - DEBUG - Getting Boards
+7/27/2022, 10:35:45 PM - INFO - Req was made
+7/27/2022, 10:35:45 PM - DEBUG - Getting Boards
+7/27/2022, 10:35:45 PM - INFO - Req was made
+7/27/2022, 10:35:45 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:30 PM - INFO - Req was made
+7/27/2022, 10:50:30 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:30 PM - INFO - Req was made
+7/27/2022, 10:50:30 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:41 PM - INFO - Req was made
+7/27/2022, 10:50:41 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:43 PM - INFO - Req was made
+7/27/2022, 10:50:43 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:49 PM - INFO - Req was made
+7/27/2022, 10:50:49 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:57 PM - INFO - Req was made
+7/27/2022, 10:50:57 PM - DEBUG - Getting Boards
+7/27/2022, 10:51:22 PM - INFO - Req was made
+7/27/2022, 10:51:22 PM - DEBUG - Getting Boards
+7/27/2022, 10:51:24 PM - INFO - Req was made
+7/27/2022, 10:51:24 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:17 PM - INFO - Req was made
+7/27/2022, 10:52:17 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:17 PM - INFO - Req was made
+7/27/2022, 10:52:17 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:38 PM - INFO - Req was made
+7/27/2022, 10:52:38 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:38 PM - INFO - Req was made
+7/27/2022, 10:52:38 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:48 PM - INFO - Req was made
+7/27/2022, 10:52:48 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:51 PM - INFO - Req was made
+7/27/2022, 10:52:51 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:52 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:52:52 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:52:56 PM - INFO - Req was made
+7/27/2022, 10:52:56 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:58 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:52:58 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:52:59 PM - INFO - Req was made
+7/27/2022, 10:52:59 PM - DEBUG - Getting Boards
+7/27/2022, 10:53:02 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:53:02 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:53:03 PM - INFO - Req was made
+7/27/2022, 10:53:03 PM - DEBUG - Getting Boards
+7/27/2022, 10:53:07 PM - INFO - Req was made
+7/27/2022, 10:53:07 PM - DEBUG - Getting Boards
+7/27/2022, 10:53:55 PM - INFO - Req was made
+7/27/2022, 10:53:55 PM - DEBUG - Getting Boards
+7/27/2022, 10:53:55 PM - INFO - Req was made
+7/27/2022, 10:53:55 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:07 PM - INFO - Req was made
+7/27/2022, 10:54:07 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:09 PM - INFO - Req was made
+7/27/2022, 10:54:09 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:17 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:54:17 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:54:21 PM - INFO - Req was made
+7/27/2022, 10:54:21 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:22 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:54:22 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:54:23 PM - INFO - Req was made
+7/27/2022, 10:54:23 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:42 PM - INFO - Req was made
+7/27/2022, 10:54:42 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:42 PM - INFO - Req was made
+7/27/2022, 10:54:42 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:47 PM - INFO - Req was made
+7/27/2022, 10:54:47 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:47 PM - INFO - Req was made
+7/27/2022, 10:54:47 PM - DEBUG - Getting Boards
+7/27/2022, 10:55:06 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:55:06 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:55:08 PM - INFO - Req was made
+7/27/2022, 10:55:08 PM - DEBUG - Getting Boards
+7/27/2022, 10:55:11 PM - INFO - Req was made
+7/27/2022, 10:55:11 PM - DEBUG - Getting Boards
+7/27/2022, 10:56:33 PM - INFO - Req was made
+7/27/2022, 10:56:33 PM - DEBUG - Getting Boards
+7/27/2022, 10:56:33 PM - INFO - Req was made
+7/27/2022, 10:56:33 PM - DEBUG - Getting Boards
+7/27/2022, 10:57:32 PM - INFO - Req was made
+7/27/2022, 10:57:32 PM - DEBUG - Getting Boards
+7/27/2022, 10:57:32 PM - INFO - Req was made
+7/27/2022, 10:57:32 PM - DEBUG - Getting Boards
+7/27/2022, 10:59:12 PM - INFO - Req was made
+7/27/2022, 10:59:12 PM - DEBUG - Getting Boards
+7/27/2022, 10:59:24 PM - INFO - Req was made
+7/27/2022, 10:59:24 PM - DEBUG - Getting Boards
+7/27/2022, 10:59:28 PM - INFO - Req was made
+7/27/2022, 10:59:28 PM - DEBUG - Getting Boards
+7/27/2022, 10:59:46 PM - INFO - Req was made
+7/27/2022, 10:59:46 PM - DEBUG - Getting Boards
+7/27/2022, 11:03:03 PM - INFO - Req was made
+7/27/2022, 11:03:03 PM - DEBUG - Getting Boards
+7/27/2022, 11:03:03 PM - INFO - Req was made
+7/27/2022, 11:03:03 PM - DEBUG - Getting Boards
+7/27/2022, 11:03:10 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:03:10 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:03:25 PM - INFO - Req was made
+7/27/2022, 11:03:25 PM - DEBUG - Getting Boards
+7/27/2022, 11:03:28 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:03:28 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:03:29 PM - INFO - Req was made
+7/27/2022, 11:03:29 PM - DEBUG - Getting Boards
+7/27/2022, 11:03:42 PM - INFO - Req was made
+7/27/2022, 11:03:42 PM - DEBUG - Getting Boards
+7/27/2022, 11:07:15 PM - INFO - Req was made
+7/27/2022, 11:07:15 PM - DEBUG - Getting Boards
+7/27/2022, 11:07:18 PM - INFO - Req was made
+7/27/2022, 11:07:18 PM - DEBUG - Getting Boards
+7/27/2022, 11:07:54 PM - INFO - Req was made
+7/27/2022, 11:07:54 PM - DEBUG - Getting Boards
+7/27/2022, 11:07:56 PM - INFO - Req was made
+7/27/2022, 11:07:57 PM - DEBUG - Getting Boards
+7/27/2022, 11:12:13 PM - INFO - Req was made
+7/27/2022, 11:12:13 PM - DEBUG - Getting Boards
+7/27/2022, 11:12:24 PM - INFO - Req was made
+7/27/2022, 11:12:24 PM - DEBUG - Getting Boards
+7/27/2022, 11:12:27 PM - INFO - Req was made
+7/27/2022, 11:12:27 PM - DEBUG - Getting Boards
+7/27/2022, 11:12:37 PM - INFO - Req was made
+7/27/2022, 11:12:37 PM - DEBUG - Getting Boards
+7/27/2022, 11:20:28 PM - INFO - Req was made
+7/27/2022, 11:20:28 PM - DEBUG - Getting Boards
+7/27/2022, 11:20:30 PM - INFO - Req was made
+7/27/2022, 11:20:30 PM - DEBUG - Getting Boards
+7/27/2022, 11:20:57 PM - INFO - Req was made
+7/27/2022, 11:20:57 PM - DEBUG - Getting Boards
+7/27/2022, 11:21:12 PM - INFO - Req was made
+7/27/2022, 11:21:12 PM - DEBUG - Getting Boards
+7/27/2022, 11:21:25 PM - INFO - Req was made
+7/27/2022, 11:21:25 PM - DEBUG - Getting Boards
+7/27/2022, 11:21:31 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:21:31 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:21:33 PM - INFO - Req was made
+7/27/2022, 11:21:33 PM - DEBUG - Getting Boards
+7/27/2022, 11:23:01 PM - INFO - Req was made
+7/27/2022, 11:23:01 PM - DEBUG - Getting Boards
+7/27/2022, 11:23:03 PM - INFO - Req was made
+7/27/2022, 11:23:03 PM - DEBUG - Getting Boards
+7/27/2022, 11:23:22 PM - INFO - Req was made
+7/27/2022, 11:23:22 PM - DEBUG - Getting Boards
+7/27/2022, 11:25:50 PM - INFO - Req was made
+7/27/2022, 11:25:50 PM - DEBUG - Getting Boards
+7/27/2022, 11:25:50 PM - INFO - Req was made
+7/27/2022, 11:25:50 PM - DEBUG - Getting Boards
+7/27/2022, 11:28:06 PM - INFO - Req was made
+7/27/2022, 11:28:06 PM - DEBUG - Getting Boards
+7/27/2022, 11:28:06 PM - INFO - Req was made
+7/27/2022, 11:28:06 PM - DEBUG - Getting Boards
+7/27/2022, 11:42:51 PM - INFO - Server is running on port: 5173
+7/27/2022, 11:44:13 PM - INFO - Req was made
+7/27/2022, 11:44:13 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:13 PM - INFO - Req was made
+7/27/2022, 11:44:13 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:25 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:44:25 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:44:35 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:44:35 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:44:37 PM - INFO - Req was made
+7/27/2022, 11:44:37 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:39 PM - INFO - Req was made
+7/27/2022, 11:44:39 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:41 PM - INFO - Req was made
+7/27/2022, 11:44:41 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:46 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:44:46 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:44:48 PM - INFO - Req was made
+7/27/2022, 11:44:48 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:57 PM - INFO - Req was made
+7/27/2022, 11:44:57 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:57 PM - INFO - Broadcasting event: something-changed
+7/27/2022, 11:44:57 PM - INFO - Emit to all
+7/27/2022, 11:45:19 PM - INFO - Req was made
+7/27/2022, 11:45:19 PM - DEBUG - Getting Boards
+7/27/2022, 11:45:54 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:45:54 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:45:56 PM - INFO - Req was made
+7/27/2022, 11:45:56 PM - DEBUG - Getting Boards
+7/27/2022, 11:46:00 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:46:00 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:46:02 PM - INFO - Req was made
+7/27/2022, 11:46:02 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:03 PM - INFO - Req was made
+7/27/2022, 11:48:03 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:04 PM - INFO - Req was made
+7/27/2022, 11:48:04 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:13 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:48:13 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:48:16 PM - INFO - Req was made
+7/27/2022, 11:48:16 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:18 PM - INFO - Req was made
+7/27/2022, 11:48:18 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:33 PM - INFO - Req was made
+7/27/2022, 11:48:33 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:33 PM - INFO - Broadcasting event: something-changed
+7/27/2022, 11:48:33 PM - INFO - Emit to all
+7/27/2022, 11:48:42 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:48:42 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:48:43 PM - INFO - Req was made
+7/27/2022, 11:48:43 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:48 PM - INFO - Req was made
+7/27/2022, 11:48:48 PM - DEBUG - Getting Boards
+7/27/2022, 11:49:12 PM - INFO - Req was made
+7/27/2022, 11:49:12 PM - DEBUG - Getting Boards
+7/27/2022, 11:49:12 PM - INFO - Req was made
+7/27/2022, 11:49:12 PM - DEBUG - Getting Boards
+7/27/2022, 11:49:52 PM - INFO - Req was made
+7/27/2022, 11:49:52 PM - DEBUG - Getting Boards
+7/27/2022, 11:49:53 PM - INFO - Req was made
+7/27/2022, 11:49:53 PM - DEBUG - Getting Boards
+7/27/2022, 11:49:59 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:49:59 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:50:02 PM - INFO - Req was made
+7/27/2022, 11:50:02 PM - DEBUG - Getting Boards
+7/27/2022, 11:50:06 PM - INFO - Req was made
+7/27/2022, 11:50:06 PM - DEBUG - Getting Boards
+7/27/2022, 11:50:12 PM - INFO - Req was made
+7/27/2022, 11:50:12 PM - DEBUG - Getting Boards
+7/27/2022, 11:50:13 PM - INFO - Broadcasting event: something-changed
+7/27/2022, 11:50:13 PM - INFO - Emit to all
+7/27/2022, 11:50:19 PM - INFO - Req was made
+7/27/2022, 11:50:19 PM - DEBUG - Getting Boards
+7/27/2022, 11:50:20 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:50:20 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:50:35 PM - INFO - Req was made
+7/27/2022, 11:50:35 PM - DEBUG - Getting Boards
+7/27/2022, 11:53:51 PM - INFO - Req was made
+7/27/2022, 11:53:51 PM - DEBUG - Getting Boards
+7/27/2022, 11:53:55 PM - INFO - Req was made
+7/27/2022, 11:53:55 PM - DEBUG - Getting Boards
+7/27/2022, 11:55:50 PM - INFO - Req was made
+7/27/2022, 11:55:50 PM - DEBUG - Getting Boards
+7/27/2022, 11:55:53 PM - INFO - Req was made
+7/27/2022, 11:55:53 PM - DEBUG - Getting Boards
+7/27/2022, 11:56:08 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:56:08 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:56:09 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:56:09 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:56:15 PM - INFO - Req was made
+7/27/2022, 11:56:15 PM - DEBUG - Getting Boards
+7/27/2022, 11:56:16 PM - INFO - Req was made
+7/27/2022, 11:56:16 PM - DEBUG - Getting Boards
+7/27/2022, 11:56:32 PM - INFO - Req was made
+7/27/2022, 11:56:32 PM - DEBUG - Getting Boards
+7/27/2022, 11:56:33 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:56:33 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:56:35 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:56:35 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:56:36 PM - INFO - Req was made
+7/27/2022, 11:56:36 PM - DEBUG - Getting Boards
+7/27/2022, 11:56:38 PM - INFO - Req was made
+7/27/2022, 11:56:38 PM - DEBUG - Getting Boards
+7/28/2022, 12:13:51 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:14:08 AM - INFO - Req was made
+7/28/2022, 12:14:08 AM - DEBUG - Getting Boards
+7/28/2022, 12:14:09 AM - INFO - Req was made
+7/28/2022, 12:14:09 AM - DEBUG - Getting Boards
+7/28/2022, 12:29:04 AM - INFO - Req was made
+7/28/2022, 12:29:04 AM - DEBUG - Getting Boards
+7/28/2022, 12:29:04 AM - INFO - Req was made
+7/28/2022, 12:29:04 AM - DEBUG - Getting Boards
+7/28/2022, 12:30:59 AM - INFO - Req was made
+7/28/2022, 12:30:59 AM - DEBUG - Getting Boards
+7/28/2022, 12:33:13 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:43:24 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:44:13 AM - ERROR - while finding board undefined | {}
+7/28/2022, 12:44:13 AM - ERROR - Failed to get board | {}
+7/28/2022, 12:44:13 AM - INFO - Req was made
+7/28/2022, 12:44:13 AM - DEBUG - Getting Boards
+7/28/2022, 12:44:22 AM - INFO - Req was made
+7/28/2022, 12:44:22 AM - DEBUG - Getting Boards
+7/28/2022, 12:46:36 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:48:29 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:48:36 AM - INFO - Req was made
+7/28/2022, 12:48:36 AM - DEBUG - Getting Boards
+7/28/2022, 12:48:48 AM - INFO - Req was made
+7/28/2022, 12:48:48 AM - DEBUG - Getting Boards
+7/28/2022, 12:48:54 AM - ERROR - while finding board undefined | {}
+7/28/2022, 12:48:54 AM - ERROR - Failed to get board | {}
+7/28/2022, 12:48:58 AM - INFO - Req was made
+7/28/2022, 12:48:58 AM - DEBUG - Getting Boards
+7/28/2022, 12:51:09 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:55:51 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:56:12 AM - ERROR - while finding board undefined | {}
+7/28/2022, 12:56:12 AM - ERROR - Failed to get board | {}
+7/28/2022, 12:56:13 AM - INFO - Req was made
+7/28/2022, 12:56:13 AM - DEBUG - Getting Boards
+7/28/2022, 12:56:14 AM - INFO - Req was made
+7/28/2022, 12:56:14 AM - DEBUG - Getting Boards
+7/28/2022, 12:57:36 AM - ERROR - while finding board undefined | {}
+7/28/2022, 12:57:36 AM - ERROR - Failed to get board | {}
+7/28/2022, 12:57:38 AM - ERROR - while finding board undefined | {}
+7/28/2022, 12:57:38 AM - ERROR - Failed to get board | {}
+7/28/2022, 12:57:40 AM - INFO - Req was made
+7/28/2022, 12:57:40 AM - DEBUG - Getting Boards
+7/28/2022, 12:57:42 AM - INFO - Req was made
+7/28/2022, 12:57:42 AM - DEBUG - Getting Boards
+7/28/2022, 12:57:51 AM - INFO - Req was made
+7/28/2022, 12:57:51 AM - DEBUG - Getting Boards
+>>>>>>> 55a20f2e640a3001a59dba549df5bcb6a111d2bf

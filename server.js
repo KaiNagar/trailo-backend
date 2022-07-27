@@ -5,11 +5,22 @@ const path = require('path')
 
 const app = express()
 const http = require('http').createServer(app)
+const expressSession = require('express-session')
 
 // Express App Config
 app.use(cookieParser())
 app.use(express.json())
 app.use(express.static('public'))
+
+// Express App Config
+const session = expressSession({
+  secret: 'coding is amazing',
+  resave: false,
+  saveUninitialized: true,
+  cookie: { secure: false },
+})
+app.use(express.json())
+app.use(session)
 
 if (process.env.NODE_ENV === 'production') {
   // Express serve static files on production environment
@@ -33,12 +44,16 @@ const authRoutes = require('./api/auth/auth.routes')
 const userRoutes = require('./api/user/user.routes')
 const boardRoutes = require('./api/board/board.routes')
 const reviewRoutes = require('./api/review/review.routes')
+const { setupSocketAPI } = require('./services/socket.service')
+
 
 // routes
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/board', boardRoutes)
 app.use('/api/review', reviewRoutes)
+setupSocketAPI(http)
+
 
 // Make every server-side-route to match the index.html
 // so when requesting http://localhost:3030/index.html/board/123 it will still respond with
