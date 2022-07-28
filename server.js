@@ -33,6 +33,8 @@ if (process.env.NODE_ENV === 'production') {
       'http://127.0.0.1:8080',
       'http://localhost:5173',
       'http://127.0.0.1:5173',
+      'http://localhost:5174',
+      'http://127.0.0.1:5174',
       'http://localhost:3030',
       ''
     ],
@@ -45,7 +47,7 @@ const authRoutes = require('./api/auth/auth.routes')
 const userRoutes = require('./api/user/user.routes')
 const boardRoutes = require('./api/board/board.routes')
 const reviewRoutes = require('./api/review/review.routes')
-const { setupSocketAPI } = require('./services/socket.service')
+// const { setupSocketAPI } = require('./services/socket.service')
 
 
 // routes
@@ -53,7 +55,7 @@ app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/board', boardRoutes)
 app.use('/api/review', reviewRoutes)
-setupSocketAPI(http)
+// setupSocketAPI(http)
 
 
 // Make every server-side-route to match the index.html
