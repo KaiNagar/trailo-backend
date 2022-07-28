@@ -4207,3 +4207,34 @@
 7/29/2022, 12:32:08 AM - DEBUG - Getting Boards
 7/29/2022, 12:32:08 AM - INFO - New connected socket [id: ErNLN4ZLwTConfHNAAAN]
 >>>>>>> 292523b3b6b3b34b3322e926aae251af4fb27611
+7/29/2022, 12:44:35 AM - INFO - Server is running on port: 5173
+7/29/2022, 12:44:38 AM - INFO - Req was made
+7/29/2022, 12:44:38 AM - DEBUG - Getting Boards
+7/29/2022, 12:44:41 AM - ERROR - while finding board undefined | {}
+7/29/2022, 12:44:41 AM - ERROR - Failed to get board | {}
+7/29/2022, 12:44:47 AM - INFO - Req was made
+7/29/2022, 12:44:47 AM - DEBUG - Getting Boards
+7/29/2022, 12:44:53 AM - ERROR - while finding board undefined | {}
+7/29/2022, 12:44:53 AM - ERROR - Failed to get board | {}
+7/29/2022, 12:44:56 AM - ERROR - while finding board undefined | {}
+7/29/2022, 12:44:56 AM - ERROR - Failed to get board | {}
+7/29/2022, 12:45:13 AM - ERROR - while finding board undefined | {}
+7/29/2022, 12:45:13 AM - ERROR - Failed to get board | {}
+7/29/2022, 12:45:16 AM - INFO - Req was made
+7/29/2022, 12:45:16 AM - DEBUG - Getting Boards
+7/29/2022, 12:46:14 AM - INFO - Req was made
+7/29/2022, 12:46:14 AM - DEBUG - Getting Boards
+7/29/2022, 12:46:23 AM - INFO - Req was made
+7/29/2022, 12:46:23 AM - DEBUG - Getting Boards
+7/29/2022, 12:49:28 AM - INFO - Req was made
+7/29/2022, 12:49:28 AM - DEBUG - Getting Boards
+7/29/2022, 12:51:56 AM - INFO - Req was made
+7/29/2022, 12:51:56 AM - DEBUG - Getting Boards
+7/29/2022, 12:52:13 AM - INFO - Server is running on port: 5173
+7/29/2022, 12:52:15 AM - INFO - Server is running on port: 5173
+7/29/2022, 12:52:19 AM - INFO - Req was made
+7/29/2022, 12:52:19 AM - DEBUG - Getting Boards
+7/29/2022, 12:54:14 AM - ERROR - while finding board undefined | {}
+7/29/2022, 12:54:14 AM - ERROR - Failed to get board | {}
+7/29/2022, 12:54:23 AM - ERROR - while finding board undefined | {}
+7/29/2022, 12:54:23 AM - ERROR - Failed to get board | {}
