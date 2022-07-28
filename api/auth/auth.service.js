@@ -14,24 +14,24 @@ async function login(username, password) {
   if (!user) throw new Error('Invalid username or password')
   // TODO: un-comment for real login
   const match = await bcrypt.compare(password, user.password)
-  console.log(password, user.password)
   if (!match) return Promise.reject('Invalid username or password')
 
   delete user.password
   return user
 }
 
-async function signup(username, password, fullname, isAdmin) {
+async function signup(username, password, email) {
+  console.log(username, password, email);
   const saltRounds = 10
 
   logger.debug(
-    `auth.service - signup with username: ${username}, fullname: ${fullname}`,
+    `auth.service - signup with username: ${username}, email: ${email}`,
   )
-  if (!username || !password || !fullname)
-    return Promise.reject('fullname, username and password are required!')
-
+  if (!username || !password || !email)
+    return Promise.reject('email, username and password are required!')
+    
   const hash = await bcrypt.hash(password, saltRounds)
-  return userService.add({ username, password: hash, fullname, isAdmin })
+  return userService.add({ username, password: hash, email, isAdmin:true , avatar:{} })
 }
 
 function getLoginToken(user) {

@@ -427,6 +427,7 @@
 7/27/2022, 10:03:34 AM - DEBUG - Getting Boards
 7/27/2022, 10:05:31 AM - INFO - Req was made
 7/27/2022, 10:05:31 AM - DEBUG - Getting Boards
+<<<<<<< HEAD
 7/27/2022, 10:20:30 AM - INFO - Server is running on port: 5173
 7/27/2022, 10:20:42 AM - INFO - Server is running on port: 5173
 7/27/2022, 10:21:37 AM - INFO - Server is running on port: 5173
@@ -518,3 +519,2503 @@
 7/28/2022, 3:52:41 PM - DEBUG - Getting Boards
 7/28/2022, 3:52:56 PM - INFO - Req was made
 7/28/2022, 3:52:56 PM - DEBUG - Getting Boards
+=======
+<<<<<<< HEAD
+7/27/2022, 4:09:56 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:20:46 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:24:05 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:24:17 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:24:47 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:30:02 PM - INFO - Req was made
+7/27/2022, 4:30:02 PM - DEBUG - Getting Boards
+7/27/2022, 4:30:16 PM - INFO - Req was made
+7/27/2022, 4:30:16 PM - DEBUG - Getting Boards
+7/27/2022, 4:30:24 PM - INFO - Req was made
+7/27/2022, 4:30:24 PM - DEBUG - Getting Boards
+7/27/2022, 4:30:47 PM - INFO - Req was made
+7/27/2022, 4:30:47 PM - DEBUG - Getting Boards
+7/27/2022, 4:30:59 PM - INFO - Req was made
+7/27/2022, 4:30:59 PM - DEBUG - Getting Boards
+7/27/2022, 4:31:59 PM - INFO - Req was made
+7/27/2022, 4:31:59 PM - DEBUG - Getting Boards
+=======
+7/27/2022, 10:16:35 AM - INFO - Server is running on port: 5173
+7/27/2022, 10:17:42 AM - INFO - Req was made
+7/27/2022, 10:17:42 AM - DEBUG - Getting Boards
+7/27/2022, 10:20:58 AM - INFO - Req was made
+7/27/2022, 10:20:58 AM - DEBUG - Getting Boards
+7/27/2022, 10:24:05 AM - INFO - Req was made
+7/27/2022, 10:24:05 AM - DEBUG - Getting Boards
+7/27/2022, 10:46:40 AM - INFO - Req was made
+7/27/2022, 10:46:40 AM - DEBUG - Getting Boards
+7/27/2022, 12:15:59 PM - INFO - Req was made
+7/27/2022, 12:15:59 PM - DEBUG - Getting Boards
+7/27/2022, 12:21:22 PM - INFO - Req was made
+7/27/2022, 12:21:22 PM - DEBUG - Getting Boards
+7/27/2022, 12:23:27 PM - INFO - Req was made
+7/27/2022, 12:23:27 PM - DEBUG - Getting Boards
+7/27/2022, 12:24:23 PM - INFO - Req was made
+7/27/2022, 12:24:23 PM - DEBUG - Getting Boards
+7/27/2022, 12:25:03 PM - INFO - Req was made
+7/27/2022, 12:25:03 PM - DEBUG - Getting Boards
+7/27/2022, 12:25:28 PM - INFO - Req was made
+7/27/2022, 12:25:28 PM - DEBUG - Getting Boards
+7/27/2022, 12:25:57 PM - INFO - Req was made
+7/27/2022, 12:25:57 PM - DEBUG - Getting Boards
+7/27/2022, 12:29:58 PM - INFO - Req was made
+7/27/2022, 12:29:58 PM - DEBUG - Getting Boards
+7/27/2022, 1:23:12 PM - INFO - Server is running on port: 5173
+7/27/2022, 1:23:26 PM - INFO - Server is running on port: 5173
+7/27/2022, 1:25:09 PM - INFO - Req was made
+7/27/2022, 1:25:09 PM - DEBUG - Getting Boards
+7/27/2022, 1:28:49 PM - INFO - Req was made
+7/27/2022, 1:28:49 PM - DEBUG - Getting Boards
+7/27/2022, 2:59:19 PM - INFO - Req was made
+7/27/2022, 2:59:19 PM - DEBUG - Getting Boards
+7/27/2022, 3:27:15 PM - INFO - Req was made
+7/27/2022, 3:27:15 PM - DEBUG - Getting Boards
+7/27/2022, 3:38:22 PM - INFO - Req was made
+7/27/2022, 3:38:22 PM - DEBUG - Getting Boards
+7/27/2022, 3:39:05 PM - INFO - Req was made
+7/27/2022, 3:39:05 PM - DEBUG - Getting Boards
+7/27/2022, 3:39:54 PM - INFO - Req was made
+7/27/2022, 3:39:54 PM - DEBUG - Getting Boards
+7/27/2022, 3:41:39 PM - INFO - Req was made
+7/27/2022, 3:41:39 PM - DEBUG - Getting Boards
+7/27/2022, 3:43:12 PM - INFO - Req was made
+7/27/2022, 3:43:12 PM - DEBUG - Getting Boards
+7/27/2022, 3:43:14 PM - INFO - Req was made
+7/27/2022, 3:43:14 PM - DEBUG - Getting Boards
+7/27/2022, 3:43:17 PM - INFO - Req was made
+7/27/2022, 3:43:17 PM - DEBUG - Getting Boards
+7/27/2022, 3:43:25 PM - INFO - Req was made
+7/27/2022, 3:43:25 PM - DEBUG - Getting Boards
+7/27/2022, 3:43:52 PM - INFO - Req was made
+7/27/2022, 3:43:52 PM - DEBUG - Getting Boards
+7/27/2022, 3:43:58 PM - INFO - Req was made
+7/27/2022, 3:43:58 PM - DEBUG - Getting Boards
+7/27/2022, 3:44:01 PM - INFO - Req was made
+7/27/2022, 3:44:01 PM - DEBUG - Getting Boards
+7/27/2022, 3:44:54 PM - INFO - Req was made
+7/27/2022, 3:44:54 PM - DEBUG - Getting Boards
+7/27/2022, 3:45:03 PM - INFO - Req was made
+7/27/2022, 3:45:03 PM - DEBUG - Getting Boards
+7/27/2022, 3:45:36 PM - INFO - Req was made
+7/27/2022, 3:45:36 PM - DEBUG - Getting Boards
+7/27/2022, 3:46:15 PM - INFO - Req was made
+7/27/2022, 3:46:15 PM - DEBUG - Getting Boards
+7/27/2022, 3:46:45 PM - INFO - Req was made
+7/27/2022, 3:46:45 PM - DEBUG - Getting Boards
+7/27/2022, 3:46:55 PM - INFO - Req was made
+7/27/2022, 3:46:55 PM - DEBUG - Getting Boards
+7/27/2022, 3:49:09 PM - INFO - Req was made
+7/27/2022, 3:49:09 PM - DEBUG - Getting Boards
+7/27/2022, 3:50:25 PM - INFO - Req was made
+7/27/2022, 3:50:25 PM - DEBUG - Getting Boards
+7/27/2022, 3:50:35 PM - INFO - Req was made
+7/27/2022, 3:50:35 PM - DEBUG - Getting Boards
+7/27/2022, 3:51:27 PM - INFO - Req was made
+7/27/2022, 3:51:27 PM - DEBUG - Getting Boards
+7/27/2022, 3:52:28 PM - INFO - Req was made
+7/27/2022, 3:52:28 PM - DEBUG - Getting Boards
+7/27/2022, 3:58:30 PM - INFO - Req was made
+7/27/2022, 3:58:30 PM - DEBUG - Getting Boards
+7/27/2022, 4:20:11 PM - INFO - Req was made
+7/27/2022, 4:20:11 PM - DEBUG - Getting Boards
+7/27/2022, 4:22:51 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:22:56 PM - INFO - Req was made
+7/27/2022, 4:22:56 PM - DEBUG - Getting Boards
+7/27/2022, 4:23:19 PM - INFO - Req was made
+7/27/2022, 4:23:19 PM - DEBUG - Getting Boards
+7/27/2022, 4:30:19 PM - INFO - Req was made
+7/27/2022, 4:30:19 PM - DEBUG - Getting Boards
+7/27/2022, 4:30:42 PM - INFO - Req was made
+7/27/2022, 4:30:42 PM - DEBUG - Getting Boards
+7/27/2022, 4:30:59 PM - INFO - Req was made
+7/27/2022, 4:30:59 PM - DEBUG - Getting Boards
+7/27/2022, 4:31:33 PM - INFO - Req was made
+7/27/2022, 4:31:33 PM - DEBUG - Getting Boards
+7/27/2022, 4:31:48 PM - INFO - Req was made
+7/27/2022, 4:31:48 PM - DEBUG - Getting Boards
+7/27/2022, 4:31:54 PM - INFO - Req was made
+7/27/2022, 4:31:54 PM - DEBUG - Getting Boards
+7/27/2022, 4:32:00 PM - INFO - Req was made
+7/27/2022, 4:32:00 PM - DEBUG - Getting Boards
+<<<<<<< HEAD
+7/27/2022, 4:41:47 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:42:23 PM - INFO - Req was made
+7/27/2022, 4:42:23 PM - DEBUG - Getting Boards
+7/27/2022, 4:51:01 PM - INFO - Req was made
+7/27/2022, 4:51:01 PM - DEBUG - Getting Boards
+7/27/2022, 4:51:04 PM - INFO - Req was made
+7/27/2022, 4:51:04 PM - DEBUG - Getting Boards
+7/27/2022, 4:53:30 PM - INFO - Req was made
+7/27/2022, 4:53:30 PM - DEBUG - Getting Boards
+7/27/2022, 5:24:34 PM - INFO - Req was made
+7/27/2022, 5:24:34 PM - DEBUG - Getting Boards
+7/27/2022, 5:26:33 PM - INFO - Req was made
+7/27/2022, 5:26:33 PM - DEBUG - Getting Boards
+7/27/2022, 5:30:43 PM - INFO - Req was made
+7/27/2022, 5:30:43 PM - DEBUG - Getting Boards
+7/27/2022, 5:31:06 PM - INFO - Req was made
+7/27/2022, 5:31:06 PM - DEBUG - Getting Boards
+7/27/2022, 5:31:17 PM - INFO - Req was made
+7/27/2022, 5:31:17 PM - DEBUG - Getting Boards
+7/27/2022, 5:32:59 PM - INFO - Req was made
+7/27/2022, 5:32:59 PM - DEBUG - Getting Boards
+7/27/2022, 5:32:59 PM - ERROR - Failed to update board | {}
+7/27/2022, 5:33:08 PM - INFO - Req was made
+7/27/2022, 5:33:08 PM - DEBUG - Getting Boards
+7/27/2022, 5:33:08 PM - ERROR - Failed to update board | {}
+7/27/2022, 5:33:11 PM - INFO - Req was made
+7/27/2022, 5:33:11 PM - DEBUG - Getting Boards
+7/27/2022, 5:33:22 PM - INFO - Req was made
+7/27/2022, 5:33:22 PM - DEBUG - Getting Boards
+7/27/2022, 5:33:22 PM - ERROR - Failed to update board | {}
+7/27/2022, 5:33:51 PM - INFO - Req was made
+7/27/2022, 5:33:51 PM - DEBUG - Getting Boards
+7/27/2022, 5:33:57 PM - INFO - Req was made
+7/27/2022, 5:33:57 PM - DEBUG - Getting Boards
+7/27/2022, 5:37:05 PM - INFO - Req was made
+7/27/2022, 5:37:05 PM - DEBUG - Getting Boards
+7/27/2022, 5:37:59 PM - INFO - Req was made
+7/27/2022, 5:37:59 PM - DEBUG - Getting Boards
+7/27/2022, 5:41:40 PM - INFO - Req was made
+7/27/2022, 5:41:40 PM - DEBUG - Getting Boards
+7/27/2022, 5:42:05 PM - INFO - Req was made
+7/27/2022, 5:42:05 PM - DEBUG - Getting Boards
+7/27/2022, 5:43:23 PM - INFO - Req was made
+7/27/2022, 5:43:23 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:18 PM - INFO - Req was made
+7/27/2022, 5:46:18 PM - DEBUG - Getting Boards
+7/27/2022, 5:49:26 PM - INFO - Req was made
+7/27/2022, 5:49:26 PM - DEBUG - Getting Boards
+7/27/2022, 5:49:35 PM - INFO - Req was made
+7/27/2022, 5:49:35 PM - DEBUG - Getting Boards
+7/27/2022, 5:49:41 PM - INFO - Req was made
+7/27/2022, 5:49:41 PM - DEBUG - Getting Boards
+7/27/2022, 5:50:15 PM - INFO - Req was made
+7/27/2022, 5:50:15 PM - DEBUG - Getting Boards
+7/27/2022, 5:51:57 PM - INFO - Req was made
+7/27/2022, 5:51:57 PM - DEBUG - Getting Boards
+7/27/2022, 5:52:09 PM - INFO - Req was made
+7/27/2022, 5:52:09 PM - DEBUG - Getting Boards
+7/27/2022, 5:52:22 PM - INFO - Req was made
+7/27/2022, 5:52:22 PM - DEBUG - Getting Boards
+7/27/2022, 5:53:01 PM - INFO - Req was made
+7/27/2022, 5:53:01 PM - DEBUG - Getting Boards
+7/27/2022, 5:53:21 PM - INFO - Req was made
+7/27/2022, 5:53:21 PM - DEBUG - Getting Boards
+7/27/2022, 5:53:31 PM - INFO - Req was made
+7/27/2022, 5:53:31 PM - DEBUG - Getting Boards
+7/27/2022, 5:55:26 PM - INFO - Req was made
+7/27/2022, 5:55:26 PM - DEBUG - Getting Boards
+7/27/2022, 5:55:51 PM - INFO - Req was made
+7/27/2022, 5:55:51 PM - DEBUG - Getting Boards
+7/27/2022, 5:56:12 PM - INFO - Req was made
+7/27/2022, 5:56:12 PM - DEBUG - Getting Boards
+7/27/2022, 5:59:50 PM - INFO - Req was made
+7/27/2022, 5:59:50 PM - DEBUG - Getting Boards
+7/27/2022, 5:59:56 PM - INFO - Req was made
+7/27/2022, 5:59:56 PM - DEBUG - Getting Boards
+7/27/2022, 6:00:00 PM - INFO - Req was made
+7/27/2022, 6:00:00 PM - DEBUG - Getting Boards
+7/27/2022, 6:00:03 PM - INFO - Req was made
+7/27/2022, 6:00:03 PM - DEBUG - Getting Boards
+7/27/2022, 6:10:22 PM - INFO - Server is running on port: 5173
+7/27/2022, 6:10:58 PM - ERROR - while finding board A1SEvteV | {}
+7/27/2022, 6:10:58 PM - ERROR - Failed to get board | {}
+7/27/2022, 6:11:01 PM - INFO - Req was made
+7/27/2022, 6:11:01 PM - DEBUG - Getting Boards
+7/27/2022, 6:11:41 PM - INFO - Req was made
+7/27/2022, 6:11:41 PM - DEBUG - Getting Boards
+7/27/2022, 6:12:01 PM - INFO - Req was made
+7/27/2022, 6:12:01 PM - DEBUG - Getting Boards
+7/27/2022, 6:44:19 PM - INFO - Req was made
+7/27/2022, 6:44:19 PM - DEBUG - Getting Boards
+7/27/2022, 6:44:28 PM - INFO - Req was made
+7/27/2022, 6:44:28 PM - DEBUG - Getting Boards
+7/27/2022, 6:44:32 PM - INFO - Req was made
+7/27/2022, 6:44:32 PM - DEBUG - Getting Boards
+7/27/2022, 6:44:34 PM - INFO - Req was made
+7/27/2022, 6:44:34 PM - DEBUG - Getting Boards
+7/27/2022, 6:45:24 PM - INFO - Req was made
+7/27/2022, 6:45:24 PM - DEBUG - Getting Boards
+7/27/2022, 6:45:48 PM - INFO - Req was made
+7/27/2022, 6:45:48 PM - DEBUG - Getting Boards
+7/27/2022, 6:48:24 PM - INFO - Req was made
+7/27/2022, 6:48:24 PM - DEBUG - Getting Boards
+7/27/2022, 6:53:07 PM - INFO - Req was made
+7/27/2022, 6:53:07 PM - DEBUG - Getting Boards
+7/27/2022, 6:53:39 PM - INFO - Req was made
+7/27/2022, 6:53:39 PM - DEBUG - Getting Boards
+7/27/2022, 6:58:04 PM - INFO - Req was made
+7/27/2022, 6:58:04 PM - DEBUG - Getting Boards
+7/27/2022, 7:02:06 PM - INFO - Req was made
+7/27/2022, 7:02:06 PM - DEBUG - Getting Boards
+7/27/2022, 7:04:05 PM - INFO - Req was made
+7/27/2022, 7:04:05 PM - DEBUG - Getting Boards
+7/27/2022, 7:05:11 PM - INFO - Req was made
+7/27/2022, 7:05:11 PM - DEBUG - Getting Boards
+7/27/2022, 7:05:32 PM - INFO - Req was made
+7/27/2022, 7:05:32 PM - DEBUG - Getting Boards
+7/27/2022, 7:06:09 PM - INFO - Req was made
+7/27/2022, 7:06:09 PM - DEBUG - Getting Boards
+7/27/2022, 7:07:53 PM - INFO - Req was made
+7/27/2022, 7:07:53 PM - DEBUG - Getting Boards
+7/27/2022, 7:08:12 PM - INFO - Req was made
+7/27/2022, 7:08:12 PM - DEBUG - Getting Boards
+7/27/2022, 7:11:29 PM - INFO - Req was made
+7/27/2022, 7:11:29 PM - DEBUG - Getting Boards
+7/27/2022, 7:14:01 PM - INFO - Req was made
+7/27/2022, 7:14:01 PM - DEBUG - Getting Boards
+7/27/2022, 7:16:41 PM - INFO - Req was made
+7/27/2022, 7:16:41 PM - DEBUG - Getting Boards
+7/27/2022, 7:22:01 PM - INFO - Req was made
+7/27/2022, 7:22:01 PM - DEBUG - Getting Boards
+7/27/2022, 7:22:13 PM - INFO - Req was made
+7/27/2022, 7:22:13 PM - DEBUG - Getting Boards
+7/27/2022, 7:28:43 PM - INFO - Req was made
+7/27/2022, 7:28:43 PM - DEBUG - Getting Boards
+7/27/2022, 7:39:58 PM - INFO - Req was made
+7/27/2022, 7:39:58 PM - DEBUG - Getting Boards
+7/27/2022, 7:40:12 PM - INFO - Req was made
+7/27/2022, 7:40:12 PM - DEBUG - Getting Boards
+7/27/2022, 7:40:39 PM - INFO - Req was made
+7/27/2022, 7:40:39 PM - DEBUG - Getting Boards
+7/27/2022, 7:40:51 PM - INFO - Req was made
+7/27/2022, 7:40:51 PM - DEBUG - Getting Boards
+7/27/2022, 7:44:23 PM - INFO - Req was made
+7/27/2022, 7:44:23 PM - DEBUG - Getting Boards
+7/27/2022, 7:56:10 PM - INFO - Req was made
+7/27/2022, 7:56:10 PM - DEBUG - Getting Boards
+7/27/2022, 7:58:09 PM - INFO - Req was made
+7/27/2022, 7:58:09 PM - DEBUG - Getting Boards
+7/27/2022, 8:01:06 PM - INFO - Req was made
+7/27/2022, 8:01:06 PM - DEBUG - Getting Boards
+7/27/2022, 8:01:48 PM - INFO - Req was made
+7/27/2022, 8:01:48 PM - DEBUG - Getting Boards
+7/27/2022, 8:02:29 PM - INFO - Req was made
+7/27/2022, 8:02:29 PM - DEBUG - Getting Boards
+7/27/2022, 8:04:36 PM - INFO - Req was made
+7/27/2022, 8:04:36 PM - DEBUG - Getting Boards
+7/27/2022, 8:05:22 PM - INFO - Req was made
+7/27/2022, 8:05:22 PM - DEBUG - Getting Boards
+7/27/2022, 8:05:51 PM - INFO - Req was made
+7/27/2022, 8:05:51 PM - DEBUG - Getting Boards
+7/27/2022, 8:05:54 PM - INFO - Req was made
+7/27/2022, 8:05:54 PM - DEBUG - Getting Boards
+7/27/2022, 8:06:00 PM - INFO - Req was made
+7/27/2022, 8:06:00 PM - DEBUG - Getting Boards
+7/27/2022, 8:07:45 PM - INFO - Req was made
+7/27/2022, 8:07:45 PM - DEBUG - Getting Boards
+7/27/2022, 8:08:49 PM - INFO - Req was made
+7/27/2022, 8:08:49 PM - DEBUG - Getting Boards
+7/27/2022, 8:12:01 PM - INFO - Req was made
+7/27/2022, 8:12:01 PM - DEBUG - Getting Boards
+7/27/2022, 8:14:39 PM - INFO - Req was made
+7/27/2022, 8:14:39 PM - DEBUG - Getting Boards
+7/27/2022, 8:15:31 PM - INFO - Req was made
+7/27/2022, 8:15:31 PM - DEBUG - Getting Boards
+7/27/2022, 8:17:22 PM - INFO - Req was made
+7/27/2022, 8:17:22 PM - DEBUG - Getting Boards
+7/27/2022, 8:17:56 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:17:56 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:18:26 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:18:26 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:18:46 PM - INFO - Req was made
+7/27/2022, 8:18:46 PM - DEBUG - Getting Boards
+7/27/2022, 8:22:06 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:22:06 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:23:05 PM - INFO - Req was made
+7/27/2022, 8:23:05 PM - DEBUG - Getting Boards
+7/27/2022, 8:23:10 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:23:10 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:23:21 PM - INFO - Req was made
+7/27/2022, 8:23:21 PM - DEBUG - Getting Boards
+7/27/2022, 8:36:29 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:36:29 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:36:31 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:36:31 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:36:39 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:36:39 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:36:39 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:36:39 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:36:41 PM - INFO - Req was made
+7/27/2022, 8:36:41 PM - DEBUG - Getting Boards
+7/27/2022, 8:36:41 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:36:41 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:36:42 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:36:42 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:36:42 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:36:42 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:36:43 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:36:43 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:36:43 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:36:43 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:36:48 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:36:48 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:36:48 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:36:48 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:37:04 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:37:04 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:37:07 PM - INFO - Req was made
+7/27/2022, 8:37:07 PM - DEBUG - Getting Boards
+7/27/2022, 8:37:07 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:37:07 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:37:07 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:37:07 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:37:07 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:37:07 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:37:23 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:37:23 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:37:25 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:37:25 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:37:28 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:37:28 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:37:30 PM - INFO - Req was made
+7/27/2022, 8:37:30 PM - DEBUG - Getting Boards
+7/27/2022, 8:37:30 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:37:30 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:37:32 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:37:32 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:45:01 PM - INFO - Req was made
+7/27/2022, 8:45:01 PM - DEBUG - Getting Boards
+7/27/2022, 8:51:58 PM - INFO - Req was made
+7/27/2022, 8:51:58 PM - DEBUG - Getting Boards
+7/27/2022, 8:52:35 PM - INFO - Req was made
+7/27/2022, 8:52:35 PM - DEBUG - Getting Boards
+7/27/2022, 8:52:56 PM - INFO - Req was made
+7/27/2022, 8:52:56 PM - DEBUG - Getting Boards
+7/27/2022, 8:53:00 PM - INFO - Req was made
+7/27/2022, 8:53:00 PM - DEBUG - Getting Boards
+7/27/2022, 8:53:01 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:53:01 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:53:03 PM - INFO - Req was made
+7/27/2022, 8:53:03 PM - DEBUG - Getting Boards
+7/27/2022, 8:53:06 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:53:06 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:53:26 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:53:26 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:53:27 PM - INFO - Req was made
+7/27/2022, 8:53:27 PM - DEBUG - Getting Boards
+7/27/2022, 8:55:04 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:55:04 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:55:17 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:55:17 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:55:29 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:55:29 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:55:32 PM - INFO - Req was made
+7/27/2022, 8:55:32 PM - DEBUG - Getting Boards
+7/27/2022, 8:56:09 PM - INFO - Req was made
+7/27/2022, 8:56:09 PM - DEBUG - Getting Boards
+7/27/2022, 8:58:27 PM - INFO - Req was made
+7/27/2022, 8:58:27 PM - DEBUG - Getting Boards
+7/27/2022, 8:58:56 PM - INFO - Req was made
+7/27/2022, 8:58:56 PM - DEBUG - Getting Boards
+7/27/2022, 8:59:20 PM - INFO - Req was made
+7/27/2022, 8:59:20 PM - DEBUG - Getting Boards
+7/27/2022, 8:59:30 PM - INFO - Req was made
+7/27/2022, 8:59:30 PM - DEBUG - Getting Boards
+7/27/2022, 9:01:09 PM - INFO - Req was made
+7/27/2022, 9:01:09 PM - DEBUG - Getting Boards
+7/27/2022, 9:01:32 PM - INFO - Req was made
+7/27/2022, 9:01:32 PM - DEBUG - Getting Boards
+7/27/2022, 9:03:20 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:03:20 PM - ERROR - Failed to get board | {}
+7/27/2022, 9:22:33 PM - INFO - Req was made
+7/27/2022, 9:22:33 PM - DEBUG - Getting Boards
+7/27/2022, 9:24:53 PM - INFO - Req was made
+7/27/2022, 9:24:53 PM - DEBUG - Getting Boards
+7/27/2022, 9:25:29 PM - INFO - Req was made
+7/27/2022, 9:25:29 PM - DEBUG - Getting Boards
+7/27/2022, 9:26:57 PM - INFO - Req was made
+7/27/2022, 9:26:57 PM - DEBUG - Getting Boards
+7/27/2022, 9:27:21 PM - INFO - Req was made
+7/27/2022, 9:27:21 PM - DEBUG - Getting Boards
+7/27/2022, 9:28:03 PM - INFO - Req was made
+7/27/2022, 9:28:03 PM - DEBUG - Getting Boards
+7/27/2022, 9:29:57 PM - INFO - Req was made
+7/27/2022, 9:29:57 PM - DEBUG - Getting Boards
+7/27/2022, 9:31:54 PM - INFO - Req was made
+7/27/2022, 9:31:54 PM - DEBUG - Getting Boards
+7/27/2022, 9:32:24 PM - INFO - Req was made
+7/27/2022, 9:32:24 PM - DEBUG - Getting Boards
+7/27/2022, 9:33:25 PM - INFO - Req was made
+7/27/2022, 9:33:25 PM - DEBUG - Getting Boards
+7/27/2022, 9:36:34 PM - INFO - Req was made
+7/27/2022, 9:36:34 PM - DEBUG - Getting Boards
+7/27/2022, 9:52:42 PM - INFO - Req was made
+7/27/2022, 9:52:42 PM - DEBUG - Getting Boards
+7/27/2022, 9:54:38 PM - INFO - Req was made
+7/27/2022, 9:54:38 PM - DEBUG - Getting Boards
+7/27/2022, 10:02:15 PM - INFO - Req was made
+7/27/2022, 10:02:15 PM - DEBUG - Getting Boards
+7/27/2022, 10:04:33 PM - INFO - Req was made
+7/27/2022, 10:04:33 PM - DEBUG - Getting Boards
+7/27/2022, 10:13:39 PM - INFO - Req was made
+7/27/2022, 10:13:39 PM - DEBUG - Getting Boards
+7/27/2022, 10:29:37 PM - INFO - Req was made
+7/27/2022, 10:29:37 PM - DEBUG - Getting Boards
+7/27/2022, 10:30:30 PM - INFO - Req was made
+7/27/2022, 10:30:30 PM - DEBUG - Getting Boards
+7/27/2022, 10:45:31 PM - INFO - Req was made
+7/27/2022, 10:45:31 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:00 PM - INFO - Req was made
+7/27/2022, 10:52:00 PM - DEBUG - Getting Boards
+7/27/2022, 10:59:58 PM - INFO - Req was made
+7/27/2022, 10:59:58 PM - DEBUG - Getting Boards
+7/27/2022, 11:00:15 PM - INFO - Req was made
+7/27/2022, 11:00:15 PM - DEBUG - Getting Boards
+7/27/2022, 11:04:55 PM - INFO - Req was made
+7/27/2022, 11:04:55 PM - DEBUG - Getting Boards
+7/27/2022, 11:07:07 PM - INFO - Req was made
+7/27/2022, 11:07:07 PM - DEBUG - Getting Boards
+7/27/2022, 11:10:08 PM - INFO - Req was made
+7/27/2022, 11:10:08 PM - DEBUG - Getting Boards
+7/27/2022, 11:11:19 PM - INFO - Req was made
+7/27/2022, 11:11:19 PM - DEBUG - Getting Boards
+7/27/2022, 11:15:02 PM - INFO - Req was made
+7/27/2022, 11:15:02 PM - DEBUG - Getting Boards
+7/27/2022, 11:17:59 PM - INFO - Req was made
+7/27/2022, 11:17:59 PM - DEBUG - Getting Boards
+7/27/2022, 11:21:04 PM - INFO - Req was made
+7/27/2022, 11:21:04 PM - DEBUG - Getting Boards
+7/27/2022, 11:24:52 PM - INFO - Req was made
+7/27/2022, 11:24:52 PM - DEBUG - Getting Boards
+7/27/2022, 11:25:32 PM - INFO - Req was made
+7/27/2022, 11:25:32 PM - DEBUG - Getting Boards
+7/27/2022, 11:25:51 PM - INFO - Req was made
+7/27/2022, 11:25:51 PM - DEBUG - Getting Boards
+7/27/2022, 11:26:03 PM - INFO - Req was made
+7/27/2022, 11:26:03 PM - DEBUG - Getting Boards
+7/27/2022, 11:26:13 PM - INFO - Req was made
+7/27/2022, 11:26:13 PM - DEBUG - Getting Boards
+7/27/2022, 11:29:09 PM - INFO - Req was made
+7/27/2022, 11:29:09 PM - DEBUG - Getting Boards
+7/27/2022, 11:30:00 PM - INFO - Req was made
+7/27/2022, 11:30:00 PM - DEBUG - Getting Boards
+7/27/2022, 11:33:31 PM - INFO - Req was made
+7/27/2022, 11:33:31 PM - DEBUG - Getting Boards
+7/27/2022, 11:35:19 PM - INFO - Req was made
+7/27/2022, 11:35:19 PM - DEBUG - Getting Boards
+7/27/2022, 11:37:55 PM - INFO - Req was made
+7/27/2022, 11:37:55 PM - DEBUG - Getting Boards
+7/27/2022, 11:42:45 PM - INFO - Req was made
+7/27/2022, 11:42:45 PM - DEBUG - Getting Boards
+7/27/2022, 11:49:40 PM - INFO - Req was made
+7/27/2022, 11:49:40 PM - DEBUG - Getting Boards
+7/27/2022, 11:50:08 PM - INFO - Req was made
+7/27/2022, 11:50:08 PM - DEBUG - Getting Boards
+7/27/2022, 11:50:18 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:50:18 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:50:20 PM - INFO - Req was made
+7/27/2022, 11:50:20 PM - DEBUG - Getting Boards
+7/27/2022, 11:54:06 PM - INFO - Req was made
+7/27/2022, 11:54:06 PM - DEBUG - Getting Boards
+7/27/2022, 11:54:18 PM - INFO - Req was made
+7/27/2022, 11:54:18 PM - DEBUG - Getting Boards
+7/27/2022, 11:54:56 PM - INFO - Req was made
+7/27/2022, 11:54:56 PM - DEBUG - Getting Boards
+7/27/2022, 11:59:27 PM - INFO - Req was made
+7/27/2022, 11:59:27 PM - DEBUG - Getting Boards
+7/28/2022, 12:00:38 AM - INFO - Req was made
+7/28/2022, 12:00:38 AM - DEBUG - Getting Boards
+7/28/2022, 12:04:10 AM - INFO - Req was made
+7/28/2022, 12:04:10 AM - DEBUG - Getting Boards
+7/28/2022, 12:06:35 AM - INFO - Req was made
+7/28/2022, 12:06:35 AM - DEBUG - Getting Boards
+7/28/2022, 12:12:29 AM - INFO - Req was made
+7/28/2022, 12:12:29 AM - DEBUG - Getting Boards
+7/28/2022, 12:12:46 AM - INFO - Req was made
+7/28/2022, 12:12:46 AM - DEBUG - Getting Boards
+7/28/2022, 12:13:02 AM - ERROR - while finding board undefined | {}
+7/28/2022, 12:13:02 AM - ERROR - Failed to get board | {}
+7/28/2022, 12:13:03 AM - INFO - Req was made
+7/28/2022, 12:13:03 AM - DEBUG - Getting Boards
+7/28/2022, 12:14:56 AM - INFO - Req was made
+7/28/2022, 12:14:56 AM - DEBUG - Getting Boards
+7/28/2022, 12:22:01 AM - INFO - Req was made
+7/28/2022, 12:22:01 AM - DEBUG - Getting Boards
+7/28/2022, 12:22:24 AM - INFO - Req was made
+7/28/2022, 12:22:24 AM - DEBUG - Getting Boards
+7/28/2022, 12:23:55 AM - INFO - Req was made
+7/28/2022, 12:23:55 AM - DEBUG - Getting Boards
+7/28/2022, 12:23:58 AM - INFO - Req was made
+7/28/2022, 12:23:58 AM - DEBUG - Getting Boards
+7/28/2022, 12:24:14 AM - INFO - Req was made
+7/28/2022, 12:24:14 AM - DEBUG - Getting Boards
+7/28/2022, 12:24:37 AM - INFO - Req was made
+7/28/2022, 12:24:37 AM - DEBUG - Getting Boards
+7/28/2022, 12:24:40 AM - INFO - Req was made
+7/28/2022, 12:24:40 AM - DEBUG - Getting Boards
+7/28/2022, 12:24:45 AM - INFO - Req was made
+7/28/2022, 12:24:45 AM - DEBUG - Getting Boards
+7/28/2022, 12:25:12 AM - INFO - Req was made
+7/28/2022, 12:25:12 AM - DEBUG - Getting Boards
+7/28/2022, 12:25:24 AM - INFO - Req was made
+7/28/2022, 12:25:24 AM - DEBUG - Getting Boards
+7/28/2022, 12:25:50 AM - INFO - Req was made
+7/28/2022, 12:25:50 AM - DEBUG - Getting Boards
+7/28/2022, 12:26:20 AM - INFO - Req was made
+7/28/2022, 12:26:20 AM - DEBUG - Getting Boards
+7/28/2022, 12:26:33 AM - INFO - Req was made
+7/28/2022, 12:26:33 AM - DEBUG - Getting Boards
+7/28/2022, 12:26:46 AM - INFO - Req was made
+7/28/2022, 12:26:46 AM - DEBUG - Getting Boards
+7/28/2022, 12:43:33 AM - INFO - Req was made
+7/28/2022, 12:43:33 AM - DEBUG - Getting Boards
+7/28/2022, 12:54:46 AM - INFO - Req was made
+7/28/2022, 12:54:46 AM - DEBUG - Getting Boards
+7/28/2022, 12:54:52 AM - INFO - Req was made
+7/28/2022, 12:54:52 AM - DEBUG - Getting Boards
+7/28/2022, 12:56:40 AM - INFO - Req was made
+7/28/2022, 12:56:40 AM - DEBUG - Getting Boards
+7/28/2022, 12:56:46 AM - INFO - Req was made
+7/28/2022, 12:56:46 AM - DEBUG - Getting Boards
+7/28/2022, 12:58:45 AM - INFO - Req was made
+7/28/2022, 12:58:45 AM - DEBUG - Getting Boards
+7/28/2022, 12:58:47 AM - INFO - Req was made
+7/28/2022, 12:58:47 AM - DEBUG - Getting Boards
+=======
+>>>>>>> 5154207dade621cd5ce7ae379c1258bd911b9c31
+7/27/2022, 4:40:18 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:40:43 PM - INFO - Req was made
+7/27/2022, 4:40:43 PM - DEBUG - Getting Boards
+7/27/2022, 4:52:23 PM - INFO - Server is running on port: 5173
+7/27/2022, 4:52:38 PM - INFO - Req was made
+7/27/2022, 4:52:38 PM - DEBUG - Getting Boards
+7/27/2022, 5:17:25 PM - INFO - Server is running on port: 5173
+7/27/2022, 5:17:52 PM - INFO - Req was made
+7/27/2022, 5:17:52 PM - DEBUG - Getting Boards
+7/27/2022, 5:43:33 PM - INFO - Req was made
+7/27/2022, 5:43:33 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:34 PM - INFO - Req was made
+7/27/2022, 5:45:34 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:44 PM - INFO - Req was made
+7/27/2022, 5:45:44 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:46 PM - INFO - Req was made
+7/27/2022, 5:45:46 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:48 PM - INFO - Req was made
+7/27/2022, 5:45:48 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:52 PM - INFO - Req was made
+7/27/2022, 5:45:52 PM - DEBUG - Getting Boards
+7/27/2022, 5:45:56 PM - INFO - Req was made
+7/27/2022, 5:45:56 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:00 PM - INFO - Req was made
+7/27/2022, 5:46:00 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:05 PM - INFO - Req was made
+7/27/2022, 5:46:05 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:08 PM - INFO - Req was made
+7/27/2022, 5:46:08 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:10 PM - INFO - Req was made
+7/27/2022, 5:46:10 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:11 PM - INFO - Req was made
+7/27/2022, 5:46:11 PM - DEBUG - Getting Boards
+7/27/2022, 5:46:13 PM - INFO - Req was made
+7/27/2022, 5:46:13 PM - DEBUG - Getting Boards
+7/27/2022, 6:35:33 PM - INFO - Server is running on port: 5173
+7/27/2022, 6:38:03 PM - INFO - Server is running on port: 5173
+7/27/2022, 6:38:29 PM - INFO - Req was made
+7/27/2022, 6:38:29 PM - DEBUG - Getting Boards
+7/27/2022, 6:38:38 PM - INFO - Req was made
+7/27/2022, 6:38:38 PM - DEBUG - Getting Boards
+7/27/2022, 6:38:57 PM - INFO - Req was made
+7/27/2022, 6:38:57 PM - DEBUG - Getting Boards
+7/27/2022, 6:39:31 PM - INFO - Req was made
+7/27/2022, 6:39:31 PM - DEBUG - Getting Boards
+7/27/2022, 6:39:31 PM - ERROR - Failed to update board | {}
+7/27/2022, 6:39:40 PM - ERROR - while finding board L5bjj3zZ | {}
+7/27/2022, 6:39:40 PM - ERROR - Failed to get board | {}
+7/27/2022, 6:40:16 PM - INFO - Req was made
+7/27/2022, 6:40:16 PM - DEBUG - Getting Boards
+7/27/2022, 6:40:16 PM - ERROR - Failed to update board | {}
+7/27/2022, 6:40:18 PM - ERROR - while finding board C7L6d7KZ | {}
+7/27/2022, 6:40:18 PM - ERROR - Failed to get board | {}
+7/27/2022, 6:40:30 PM - ERROR - while finding board C7L6d7KZ | {}
+7/27/2022, 6:40:30 PM - ERROR - Failed to get board | {}
+7/27/2022, 6:40:35 PM - INFO - Req was made
+7/27/2022, 6:40:35 PM - DEBUG - Getting Boards
+7/27/2022, 6:40:45 PM - INFO - Req was made
+7/27/2022, 6:40:45 PM - DEBUG - Getting Boards
+7/27/2022, 6:40:45 PM - ERROR - Failed to update board | {}
+7/27/2022, 6:43:04 PM - INFO - Req was made
+7/27/2022, 6:43:04 PM - DEBUG - Getting Boards
+7/27/2022, 6:43:13 PM - INFO - Req was made
+7/27/2022, 6:43:13 PM - DEBUG - Getting Boards
+7/27/2022, 6:43:25 PM - INFO - Req was made
+7/27/2022, 6:43:25 PM - DEBUG - Getting Boards
+7/27/2022, 7:11:22 PM - INFO - Server is running on port: 5173
+7/27/2022, 7:11:27 PM - INFO - Req was made
+7/27/2022, 7:11:27 PM - DEBUG - Getting Boards
+7/27/2022, 7:11:34 PM - INFO - Req was made
+7/27/2022, 7:11:34 PM - DEBUG - Getting Boards
+7/27/2022, 7:11:40 PM - INFO - Req was made
+7/27/2022, 7:11:40 PM - DEBUG - Getting Boards
+7/27/2022, 7:20:38 PM - INFO - Req was made
+7/27/2022, 7:20:38 PM - DEBUG - Getting Boards
+7/27/2022, 7:21:03 PM - INFO - Req was made
+7/27/2022, 7:21:03 PM - DEBUG - Getting Boards
+7/27/2022, 7:21:48 PM - INFO - Req was made
+7/27/2022, 7:21:48 PM - DEBUG - Getting Boards
+7/27/2022, 7:21:55 PM - INFO - Req was made
+7/27/2022, 7:21:55 PM - DEBUG - Getting Boards
+7/27/2022, 7:25:37 PM - INFO - Req was made
+7/27/2022, 7:25:37 PM - DEBUG - Getting Boards
+7/27/2022, 7:40:09 PM - INFO - Req was made
+7/27/2022, 7:40:09 PM - DEBUG - Getting Boards
+7/27/2022, 7:40:20 PM - INFO - Req was made
+7/27/2022, 7:40:20 PM - DEBUG - Getting Boards
+7/27/2022, 7:40:45 PM - INFO - Req was made
+7/27/2022, 7:40:45 PM - DEBUG - Getting Boards
+7/27/2022, 8:25:07 PM - INFO - Req was made
+7/27/2022, 8:25:07 PM - DEBUG - Getting Boards
+7/27/2022, 8:25:19 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:25:19 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:26:44 PM - INFO - Req was made
+7/27/2022, 8:26:44 PM - DEBUG - Getting Boards
+7/27/2022, 8:27:13 PM - INFO - Req was made
+7/27/2022, 8:27:13 PM - DEBUG - Getting Boards
+7/27/2022, 8:27:28 PM - ERROR - while finding board undefined | {}
+7/27/2022, 8:27:28 PM - ERROR - Failed to get board | {}
+7/27/2022, 8:30:24 PM - INFO - Req was made
+7/27/2022, 8:30:24 PM - DEBUG - Getting Boards
+7/27/2022, 8:30:55 PM - INFO - Req was made
+7/27/2022, 8:30:55 PM - DEBUG - Getting Boards
+7/27/2022, 8:51:36 PM - INFO - Req was made
+7/27/2022, 8:51:36 PM - DEBUG - Getting Boards
+7/27/2022, 8:51:45 PM - INFO - Req was made
+7/27/2022, 8:51:45 PM - DEBUG - Getting Boards
+7/27/2022, 8:53:50 PM - INFO - Req was made
+7/27/2022, 8:53:50 PM - DEBUG - Getting Boards
+7/27/2022, 8:54:17 PM - INFO - Req was made
+7/27/2022, 8:54:17 PM - DEBUG - Getting Boards
+7/27/2022, 8:54:28 PM - INFO - Req was made
+7/27/2022, 8:54:28 PM - DEBUG - Getting Boards
+7/27/2022, 8:55:16 PM - INFO - Req was made
+7/27/2022, 8:55:16 PM - DEBUG - Getting Boards
+7/27/2022, 8:55:32 PM - INFO - Req was made
+7/27/2022, 8:55:32 PM - DEBUG - Getting Boards
+7/27/2022, 8:56:01 PM - INFO - Req was made
+7/27/2022, 8:56:01 PM - DEBUG - Getting Boards
+7/27/2022, 8:56:11 PM - INFO - Req was made
+7/27/2022, 8:56:11 PM - DEBUG - Getting Boards
+7/27/2022, 8:56:21 PM - INFO - Req was made
+7/27/2022, 8:56:21 PM - DEBUG - Getting Boards
+7/27/2022, 8:56:27 PM - INFO - Req was made
+7/27/2022, 8:56:27 PM - DEBUG - Getting Boards
+7/27/2022, 8:57:26 PM - INFO - Req was made
+7/27/2022, 8:57:26 PM - DEBUG - Getting Boards
+7/27/2022, 8:57:27 PM - INFO - Req was made
+7/27/2022, 8:57:27 PM - DEBUG - Getting Boards
+7/27/2022, 9:31:02 PM - INFO - Server is running on port: 5173
+7/27/2022, 9:31:09 PM - INFO - Req was made
+7/27/2022, 9:31:09 PM - DEBUG - Getting Boards
+7/27/2022, 9:40:11 PM - INFO - Req was made
+7/27/2022, 9:40:11 PM - DEBUG - Getting Boards
+7/27/2022, 9:44:54 PM - INFO - Req was made
+7/27/2022, 9:44:54 PM - DEBUG - Getting Boards
+7/27/2022, 9:45:02 PM - INFO - Req was made
+7/27/2022, 9:45:02 PM - DEBUG - Getting Boards
+7/27/2022, 9:45:12 PM - INFO - Req was made
+7/27/2022, 9:45:12 PM - DEBUG - Getting Boards
+7/27/2022, 9:52:39 PM - INFO - Req was made
+7/27/2022, 9:52:39 PM - DEBUG - Getting Boards
+7/27/2022, 9:52:50 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:52:50 PM - ERROR - Failed to get board | {}
+7/27/2022, 9:52:53 PM - INFO - Req was made
+7/27/2022, 9:52:53 PM - DEBUG - Getting Boards
+7/27/2022, 9:53:18 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:53:18 PM - ERROR - Failed to get board | {}
+7/27/2022, 9:54:06 PM - INFO - Req was made
+7/27/2022, 9:54:06 PM - DEBUG - Getting Boards
+7/27/2022, 9:54:15 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:54:15 PM - ERROR - Failed to get board | {}
+7/27/2022, 9:54:17 PM - INFO - Req was made
+7/27/2022, 9:54:17 PM - DEBUG - Getting Boards
+7/27/2022, 9:54:51 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:54:51 PM - ERROR - Failed to get board | {}
+7/27/2022, 9:54:53 PM - INFO - Req was made
+7/27/2022, 9:54:53 PM - DEBUG - Getting Boards
+7/27/2022, 9:54:55 PM - INFO - Req was made
+7/27/2022, 9:54:55 PM - DEBUG - Getting Boards
+7/27/2022, 9:56:39 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:56:39 PM - ERROR - Failed to get board | {}
+7/27/2022, 9:56:40 PM - INFO - Req was made
+7/27/2022, 9:56:40 PM - DEBUG - Getting Boards
+7/27/2022, 9:58:06 PM - ERROR - while finding board undefined | {}
+7/27/2022, 9:58:06 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:05:25 PM - INFO - Req was made
+7/27/2022, 10:05:25 PM - DEBUG - Getting Boards
+7/27/2022, 10:05:31 PM - INFO - Req was made
+7/27/2022, 10:05:31 PM - DEBUG - Getting Boards
+7/27/2022, 10:06:20 PM - INFO - Req was made
+7/27/2022, 10:06:20 PM - DEBUG - Getting Boards
+7/27/2022, 10:07:37 PM - INFO - Req was made
+7/27/2022, 10:07:37 PM - DEBUG - Getting Boards
+7/27/2022, 10:07:46 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:07:46 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:08:43 PM - INFO - Req was made
+7/27/2022, 10:08:43 PM - DEBUG - Getting Boards
+7/27/2022, 10:08:43 PM - INFO - Req was made
+7/27/2022, 10:08:43 PM - DEBUG - Getting Boards
+7/27/2022, 10:08:51 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:08:51 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:09:05 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:09:05 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:09:10 PM - INFO - Req was made
+7/27/2022, 10:09:10 PM - DEBUG - Getting Boards
+7/27/2022, 10:09:34 PM - INFO - Req was made
+7/27/2022, 10:09:34 PM - DEBUG - Getting Boards
+7/27/2022, 10:18:01 PM - INFO - Server is running on port: 5173
+7/27/2022, 10:22:51 PM - INFO - Req was made
+7/27/2022, 10:22:51 PM - DEBUG - Getting Boards
+7/27/2022, 10:22:59 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:22:59 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:23:01 PM - INFO - Req was made
+7/27/2022, 10:23:01 PM - DEBUG - Getting Boards
+7/27/2022, 10:25:31 PM - INFO - Req was made
+7/27/2022, 10:25:31 PM - DEBUG - Getting Boards
+7/27/2022, 10:25:31 PM - INFO - Req was made
+7/27/2022, 10:25:31 PM - DEBUG - Getting Boards
+7/27/2022, 10:25:36 PM - INFO - Req was made
+7/27/2022, 10:25:36 PM - DEBUG - Getting Boards
+7/27/2022, 10:25:40 PM - INFO - Req was made
+7/27/2022, 10:25:40 PM - DEBUG - Getting Boards
+7/27/2022, 10:25:43 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:25:43 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:25:44 PM - INFO - Req was made
+7/27/2022, 10:25:44 PM - DEBUG - Getting Boards
+7/27/2022, 10:26:00 PM - INFO - Req was made
+7/27/2022, 10:26:00 PM - DEBUG - Getting Boards
+7/27/2022, 10:26:15 PM - INFO - Req was made
+7/27/2022, 10:26:15 PM - DEBUG - Getting Boards
+7/27/2022, 10:26:16 PM - INFO - Req was made
+7/27/2022, 10:26:16 PM - DEBUG - Getting Boards
+7/27/2022, 10:27:48 PM - INFO - Req was made
+7/27/2022, 10:27:48 PM - DEBUG - Getting Boards
+7/27/2022, 10:27:52 PM - INFO - Req was made
+7/27/2022, 10:27:52 PM - DEBUG - Getting Boards
+7/27/2022, 10:28:00 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:28:00 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:28:17 PM - INFO - Req was made
+7/27/2022, 10:28:17 PM - DEBUG - Getting Boards
+7/27/2022, 10:28:24 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:28:24 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:28:26 PM - INFO - Req was made
+7/27/2022, 10:28:26 PM - DEBUG - Getting Boards
+7/27/2022, 10:28:41 PM - INFO - Req was made
+7/27/2022, 10:28:41 PM - DEBUG - Getting Boards
+7/27/2022, 10:28:41 PM - INFO - Req was made
+7/27/2022, 10:28:41 PM - DEBUG - Getting Boards
+7/27/2022, 10:29:47 PM - INFO - Req was made
+7/27/2022, 10:29:47 PM - DEBUG - Getting Boards
+7/27/2022, 10:29:47 PM - INFO - Req was made
+7/27/2022, 10:29:47 PM - DEBUG - Getting Boards
+7/27/2022, 10:31:17 PM - INFO - Req was made
+7/27/2022, 10:31:17 PM - DEBUG - Getting Boards
+7/27/2022, 10:31:17 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:31:17 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:31:19 PM - INFO - Req was made
+7/27/2022, 10:31:19 PM - DEBUG - Getting Boards
+7/27/2022, 10:31:28 PM - INFO - Req was made
+7/27/2022, 10:31:28 PM - DEBUG - Getting Boards
+7/27/2022, 10:34:21 PM - INFO - Server is running on port: 5173
+7/27/2022, 10:34:45 PM - INFO - Req was made
+7/27/2022, 10:34:45 PM - DEBUG - Getting Boards
+7/27/2022, 10:34:45 PM - INFO - Req was made
+7/27/2022, 10:34:45 PM - DEBUG - Getting Boards
+7/27/2022, 10:35:45 PM - INFO - Req was made
+7/27/2022, 10:35:45 PM - DEBUG - Getting Boards
+7/27/2022, 10:35:45 PM - INFO - Req was made
+7/27/2022, 10:35:45 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:30 PM - INFO - Req was made
+7/27/2022, 10:50:30 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:30 PM - INFO - Req was made
+7/27/2022, 10:50:30 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:41 PM - INFO - Req was made
+7/27/2022, 10:50:41 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:43 PM - INFO - Req was made
+7/27/2022, 10:50:43 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:49 PM - INFO - Req was made
+7/27/2022, 10:50:49 PM - DEBUG - Getting Boards
+7/27/2022, 10:50:57 PM - INFO - Req was made
+7/27/2022, 10:50:57 PM - DEBUG - Getting Boards
+7/27/2022, 10:51:22 PM - INFO - Req was made
+7/27/2022, 10:51:22 PM - DEBUG - Getting Boards
+7/27/2022, 10:51:24 PM - INFO - Req was made
+7/27/2022, 10:51:24 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:17 PM - INFO - Req was made
+7/27/2022, 10:52:17 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:17 PM - INFO - Req was made
+7/27/2022, 10:52:17 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:38 PM - INFO - Req was made
+7/27/2022, 10:52:38 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:38 PM - INFO - Req was made
+7/27/2022, 10:52:38 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:48 PM - INFO - Req was made
+7/27/2022, 10:52:48 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:51 PM - INFO - Req was made
+7/27/2022, 10:52:51 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:52 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:52:52 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:52:56 PM - INFO - Req was made
+7/27/2022, 10:52:56 PM - DEBUG - Getting Boards
+7/27/2022, 10:52:58 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:52:58 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:52:59 PM - INFO - Req was made
+7/27/2022, 10:52:59 PM - DEBUG - Getting Boards
+7/27/2022, 10:53:02 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:53:02 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:53:03 PM - INFO - Req was made
+7/27/2022, 10:53:03 PM - DEBUG - Getting Boards
+7/27/2022, 10:53:07 PM - INFO - Req was made
+7/27/2022, 10:53:07 PM - DEBUG - Getting Boards
+7/27/2022, 10:53:55 PM - INFO - Req was made
+7/27/2022, 10:53:55 PM - DEBUG - Getting Boards
+7/27/2022, 10:53:55 PM - INFO - Req was made
+7/27/2022, 10:53:55 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:07 PM - INFO - Req was made
+7/27/2022, 10:54:07 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:09 PM - INFO - Req was made
+7/27/2022, 10:54:09 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:17 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:54:17 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:54:21 PM - INFO - Req was made
+7/27/2022, 10:54:21 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:22 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:54:22 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:54:23 PM - INFO - Req was made
+7/27/2022, 10:54:23 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:42 PM - INFO - Req was made
+7/27/2022, 10:54:42 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:42 PM - INFO - Req was made
+7/27/2022, 10:54:42 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:47 PM - INFO - Req was made
+7/27/2022, 10:54:47 PM - DEBUG - Getting Boards
+7/27/2022, 10:54:47 PM - INFO - Req was made
+7/27/2022, 10:54:47 PM - DEBUG - Getting Boards
+7/27/2022, 10:55:06 PM - ERROR - while finding board undefined | {}
+7/27/2022, 10:55:06 PM - ERROR - Failed to get board | {}
+7/27/2022, 10:55:08 PM - INFO - Req was made
+7/27/2022, 10:55:08 PM - DEBUG - Getting Boards
+7/27/2022, 10:55:11 PM - INFO - Req was made
+7/27/2022, 10:55:11 PM - DEBUG - Getting Boards
+7/27/2022, 10:56:33 PM - INFO - Req was made
+7/27/2022, 10:56:33 PM - DEBUG - Getting Boards
+7/27/2022, 10:56:33 PM - INFO - Req was made
+7/27/2022, 10:56:33 PM - DEBUG - Getting Boards
+7/27/2022, 10:57:32 PM - INFO - Req was made
+7/27/2022, 10:57:32 PM - DEBUG - Getting Boards
+7/27/2022, 10:57:32 PM - INFO - Req was made
+7/27/2022, 10:57:32 PM - DEBUG - Getting Boards
+7/27/2022, 10:59:12 PM - INFO - Req was made
+7/27/2022, 10:59:12 PM - DEBUG - Getting Boards
+7/27/2022, 10:59:24 PM - INFO - Req was made
+7/27/2022, 10:59:24 PM - DEBUG - Getting Boards
+7/27/2022, 10:59:28 PM - INFO - Req was made
+7/27/2022, 10:59:28 PM - DEBUG - Getting Boards
+7/27/2022, 10:59:46 PM - INFO - Req was made
+7/27/2022, 10:59:46 PM - DEBUG - Getting Boards
+7/27/2022, 11:03:03 PM - INFO - Req was made
+7/27/2022, 11:03:03 PM - DEBUG - Getting Boards
+7/27/2022, 11:03:03 PM - INFO - Req was made
+7/27/2022, 11:03:03 PM - DEBUG - Getting Boards
+7/27/2022, 11:03:10 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:03:10 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:03:25 PM - INFO - Req was made
+7/27/2022, 11:03:25 PM - DEBUG - Getting Boards
+7/27/2022, 11:03:28 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:03:28 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:03:29 PM - INFO - Req was made
+7/27/2022, 11:03:29 PM - DEBUG - Getting Boards
+7/27/2022, 11:03:42 PM - INFO - Req was made
+7/27/2022, 11:03:42 PM - DEBUG - Getting Boards
+7/27/2022, 11:07:15 PM - INFO - Req was made
+7/27/2022, 11:07:15 PM - DEBUG - Getting Boards
+7/27/2022, 11:07:18 PM - INFO - Req was made
+7/27/2022, 11:07:18 PM - DEBUG - Getting Boards
+7/27/2022, 11:07:54 PM - INFO - Req was made
+7/27/2022, 11:07:54 PM - DEBUG - Getting Boards
+7/27/2022, 11:07:56 PM - INFO - Req was made
+7/27/2022, 11:07:57 PM - DEBUG - Getting Boards
+7/27/2022, 11:12:13 PM - INFO - Req was made
+7/27/2022, 11:12:13 PM - DEBUG - Getting Boards
+7/27/2022, 11:12:24 PM - INFO - Req was made
+7/27/2022, 11:12:24 PM - DEBUG - Getting Boards
+7/27/2022, 11:12:27 PM - INFO - Req was made
+7/27/2022, 11:12:27 PM - DEBUG - Getting Boards
+7/27/2022, 11:12:37 PM - INFO - Req was made
+7/27/2022, 11:12:37 PM - DEBUG - Getting Boards
+7/27/2022, 11:20:28 PM - INFO - Req was made
+7/27/2022, 11:20:28 PM - DEBUG - Getting Boards
+7/27/2022, 11:20:30 PM - INFO - Req was made
+7/27/2022, 11:20:30 PM - DEBUG - Getting Boards
+7/27/2022, 11:20:57 PM - INFO - Req was made
+7/27/2022, 11:20:57 PM - DEBUG - Getting Boards
+7/27/2022, 11:21:12 PM - INFO - Req was made
+7/27/2022, 11:21:12 PM - DEBUG - Getting Boards
+7/27/2022, 11:21:25 PM - INFO - Req was made
+7/27/2022, 11:21:25 PM - DEBUG - Getting Boards
+7/27/2022, 11:21:31 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:21:31 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:21:33 PM - INFO - Req was made
+7/27/2022, 11:21:33 PM - DEBUG - Getting Boards
+7/27/2022, 11:23:01 PM - INFO - Req was made
+7/27/2022, 11:23:01 PM - DEBUG - Getting Boards
+7/27/2022, 11:23:03 PM - INFO - Req was made
+7/27/2022, 11:23:03 PM - DEBUG - Getting Boards
+7/27/2022, 11:23:22 PM - INFO - Req was made
+7/27/2022, 11:23:22 PM - DEBUG - Getting Boards
+7/27/2022, 11:25:50 PM - INFO - Req was made
+7/27/2022, 11:25:50 PM - DEBUG - Getting Boards
+7/27/2022, 11:25:50 PM - INFO - Req was made
+7/27/2022, 11:25:50 PM - DEBUG - Getting Boards
+7/27/2022, 11:28:06 PM - INFO - Req was made
+7/27/2022, 11:28:06 PM - DEBUG - Getting Boards
+7/27/2022, 11:28:06 PM - INFO - Req was made
+7/27/2022, 11:28:06 PM - DEBUG - Getting Boards
+7/27/2022, 11:42:51 PM - INFO - Server is running on port: 5173
+7/27/2022, 11:44:13 PM - INFO - Req was made
+7/27/2022, 11:44:13 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:13 PM - INFO - Req was made
+7/27/2022, 11:44:13 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:25 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:44:25 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:44:35 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:44:35 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:44:37 PM - INFO - Req was made
+7/27/2022, 11:44:37 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:39 PM - INFO - Req was made
+7/27/2022, 11:44:39 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:41 PM - INFO - Req was made
+7/27/2022, 11:44:41 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:46 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:44:46 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:44:48 PM - INFO - Req was made
+7/27/2022, 11:44:48 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:57 PM - INFO - Req was made
+7/27/2022, 11:44:57 PM - DEBUG - Getting Boards
+7/27/2022, 11:44:57 PM - INFO - Broadcasting event: something-changed
+7/27/2022, 11:44:57 PM - INFO - Emit to all
+7/27/2022, 11:45:19 PM - INFO - Req was made
+7/27/2022, 11:45:19 PM - DEBUG - Getting Boards
+7/27/2022, 11:45:54 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:45:54 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:45:56 PM - INFO - Req was made
+7/27/2022, 11:45:56 PM - DEBUG - Getting Boards
+7/27/2022, 11:46:00 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:46:00 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:46:02 PM - INFO - Req was made
+7/27/2022, 11:46:02 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:03 PM - INFO - Req was made
+7/27/2022, 11:48:03 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:04 PM - INFO - Req was made
+7/27/2022, 11:48:04 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:13 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:48:13 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:48:16 PM - INFO - Req was made
+7/27/2022, 11:48:16 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:18 PM - INFO - Req was made
+7/27/2022, 11:48:18 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:33 PM - INFO - Req was made
+7/27/2022, 11:48:33 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:33 PM - INFO - Broadcasting event: something-changed
+7/27/2022, 11:48:33 PM - INFO - Emit to all
+7/27/2022, 11:48:42 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:48:42 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:48:43 PM - INFO - Req was made
+7/27/2022, 11:48:43 PM - DEBUG - Getting Boards
+7/27/2022, 11:48:48 PM - INFO - Req was made
+7/27/2022, 11:48:48 PM - DEBUG - Getting Boards
+7/27/2022, 11:49:12 PM - INFO - Req was made
+7/27/2022, 11:49:12 PM - DEBUG - Getting Boards
+7/27/2022, 11:49:12 PM - INFO - Req was made
+7/27/2022, 11:49:12 PM - DEBUG - Getting Boards
+7/27/2022, 11:49:52 PM - INFO - Req was made
+7/27/2022, 11:49:52 PM - DEBUG - Getting Boards
+7/27/2022, 11:49:53 PM - INFO - Req was made
+7/27/2022, 11:49:53 PM - DEBUG - Getting Boards
+7/27/2022, 11:49:59 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:49:59 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:50:02 PM - INFO - Req was made
+7/27/2022, 11:50:02 PM - DEBUG - Getting Boards
+7/27/2022, 11:50:06 PM - INFO - Req was made
+7/27/2022, 11:50:06 PM - DEBUG - Getting Boards
+7/27/2022, 11:50:12 PM - INFO - Req was made
+7/27/2022, 11:50:12 PM - DEBUG - Getting Boards
+7/27/2022, 11:50:13 PM - INFO - Broadcasting event: something-changed
+7/27/2022, 11:50:13 PM - INFO - Emit to all
+7/27/2022, 11:50:19 PM - INFO - Req was made
+7/27/2022, 11:50:19 PM - DEBUG - Getting Boards
+7/27/2022, 11:50:20 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:50:20 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:50:35 PM - INFO - Req was made
+7/27/2022, 11:50:35 PM - DEBUG - Getting Boards
+7/27/2022, 11:53:51 PM - INFO - Req was made
+7/27/2022, 11:53:51 PM - DEBUG - Getting Boards
+7/27/2022, 11:53:55 PM - INFO - Req was made
+7/27/2022, 11:53:55 PM - DEBUG - Getting Boards
+7/27/2022, 11:55:50 PM - INFO - Req was made
+7/27/2022, 11:55:50 PM - DEBUG - Getting Boards
+7/27/2022, 11:55:53 PM - INFO - Req was made
+7/27/2022, 11:55:53 PM - DEBUG - Getting Boards
+7/27/2022, 11:56:08 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:56:08 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:56:09 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:56:09 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:56:15 PM - INFO - Req was made
+7/27/2022, 11:56:15 PM - DEBUG - Getting Boards
+7/27/2022, 11:56:16 PM - INFO - Req was made
+7/27/2022, 11:56:16 PM - DEBUG - Getting Boards
+7/27/2022, 11:56:32 PM - INFO - Req was made
+7/27/2022, 11:56:32 PM - DEBUG - Getting Boards
+7/27/2022, 11:56:33 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:56:33 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:56:35 PM - ERROR - while finding board undefined | {}
+7/27/2022, 11:56:35 PM - ERROR - Failed to get board | {}
+7/27/2022, 11:56:36 PM - INFO - Req was made
+7/27/2022, 11:56:36 PM - DEBUG - Getting Boards
+7/27/2022, 11:56:38 PM - INFO - Req was made
+7/27/2022, 11:56:38 PM - DEBUG - Getting Boards
+7/28/2022, 12:13:51 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:14:08 AM - INFO - Req was made
+7/28/2022, 12:14:08 AM - DEBUG - Getting Boards
+7/28/2022, 12:14:09 AM - INFO - Req was made
+7/28/2022, 12:14:09 AM - DEBUG - Getting Boards
+7/28/2022, 12:29:04 AM - INFO - Req was made
+7/28/2022, 12:29:04 AM - DEBUG - Getting Boards
+7/28/2022, 12:29:04 AM - INFO - Req was made
+7/28/2022, 12:29:04 AM - DEBUG - Getting Boards
+7/28/2022, 12:30:59 AM - INFO - Req was made
+7/28/2022, 12:30:59 AM - DEBUG - Getting Boards
+7/28/2022, 12:33:13 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:43:24 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:44:13 AM - ERROR - while finding board undefined | {}
+7/28/2022, 12:44:13 AM - ERROR - Failed to get board | {}
+7/28/2022, 12:44:13 AM - INFO - Req was made
+7/28/2022, 12:44:13 AM - DEBUG - Getting Boards
+7/28/2022, 12:44:22 AM - INFO - Req was made
+7/28/2022, 12:44:22 AM - DEBUG - Getting Boards
+7/28/2022, 12:46:36 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:48:29 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:48:36 AM - INFO - Req was made
+7/28/2022, 12:48:36 AM - DEBUG - Getting Boards
+7/28/2022, 12:48:48 AM - INFO - Req was made
+7/28/2022, 12:48:48 AM - DEBUG - Getting Boards
+7/28/2022, 12:48:54 AM - ERROR - while finding board undefined | {}
+7/28/2022, 12:48:54 AM - ERROR - Failed to get board | {}
+7/28/2022, 12:48:58 AM - INFO - Req was made
+7/28/2022, 12:48:58 AM - DEBUG - Getting Boards
+7/28/2022, 12:51:09 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:55:51 AM - INFO - Server is running on port: 5173
+7/28/2022, 12:56:12 AM - ERROR - while finding board undefined | {}
+7/28/2022, 12:56:12 AM - ERROR - Failed to get board | {}
+7/28/2022, 12:56:13 AM - INFO - Req was made
+7/28/2022, 12:56:13 AM - DEBUG - Getting Boards
+7/28/2022, 12:56:14 AM - INFO - Req was made
+7/28/2022, 12:56:14 AM - DEBUG - Getting Boards
+7/28/2022, 12:57:36 AM - ERROR - while finding board undefined | {}
+7/28/2022, 12:57:36 AM - ERROR - Failed to get board | {}
+7/28/2022, 12:57:38 AM - ERROR - while finding board undefined | {}
+7/28/2022, 12:57:38 AM - ERROR - Failed to get board | {}
+7/28/2022, 12:57:40 AM - INFO - Req was made
+7/28/2022, 12:57:40 AM - DEBUG - Getting Boards
+7/28/2022, 12:57:42 AM - INFO - Req was made
+7/28/2022, 12:57:42 AM - DEBUG - Getting Boards
+7/28/2022, 12:57:51 AM - INFO - Req was made
+7/28/2022, 12:57:51 AM - DEBUG - Getting Boards
+>>>>>>> 55a20f2e640a3001a59dba549df5bcb6a111d2bf
+7/28/2022, 9:30:29 AM - INFO - Server is running on port: 5173
+7/28/2022, 9:33:28 AM - INFO - Server is running on port: 5173
+7/28/2022, 9:34:09 AM - INFO - Server is running on port: 5173
+7/28/2022, 9:35:59 AM - INFO - Server is running on port: 5173
+7/28/2022, 9:39:11 AM - INFO - Server is running on port: 5173
+7/28/2022, 9:43:22 AM - INFO - Server is running on port: 5173
+7/28/2022, 11:26:03 AM - INFO - Server is running on port: 5173
+7/28/2022, 11:29:00 AM - INFO - Req was made
+7/28/2022, 11:29:00 AM - DEBUG - Getting Boards
+7/28/2022, 11:29:42 AM - INFO - Req was made
+7/28/2022, 11:29:42 AM - DEBUG - Getting Boards
+7/28/2022, 11:30:11 AM - ERROR - while finding board undefined | {}
+7/28/2022, 11:30:11 AM - ERROR - Failed to get board | {}
+7/28/2022, 11:30:56 AM - ERROR - while finding board undefined | {}
+7/28/2022, 11:30:56 AM - ERROR - Failed to get board | {}
+7/28/2022, 11:37:06 AM - INFO - Req was made
+7/28/2022, 11:37:06 AM - DEBUG - Getting Boards
+7/28/2022, 11:37:53 AM - INFO - Req was made
+7/28/2022, 11:37:53 AM - DEBUG - Getting Boards
+7/28/2022, 11:41:24 AM - INFO - Req was made
+7/28/2022, 11:41:24 AM - DEBUG - Getting Boards
+7/28/2022, 11:41:38 AM - INFO - Req was made
+7/28/2022, 11:41:38 AM - DEBUG - Getting Boards
+7/28/2022, 11:41:43 AM - INFO - Req was made
+7/28/2022, 11:41:43 AM - DEBUG - Getting Boards
+7/28/2022, 11:42:00 AM - ERROR - while finding board undefined | {}
+7/28/2022, 11:42:00 AM - ERROR - Failed to get board | {}
+7/28/2022, 11:42:05 AM - ERROR - while finding board undefined | {}
+7/28/2022, 11:42:05 AM - ERROR - Failed to get board | {}
+7/28/2022, 11:42:38 AM - INFO - Req was made
+7/28/2022, 11:42:38 AM - DEBUG - Getting Boards
+7/28/2022, 11:42:39 AM - ERROR - while finding board undefined | {}
+7/28/2022, 11:42:39 AM - ERROR - Failed to get board | {}
+7/28/2022, 11:43:03 AM - INFO - Req was made
+7/28/2022, 11:43:03 AM - DEBUG - Getting Boards
+7/28/2022, 11:43:03 AM - ERROR - while finding board undefined | {}
+7/28/2022, 11:43:03 AM - ERROR - Failed to get board | {}
+7/28/2022, 11:43:07 AM - INFO - Req was made
+7/28/2022, 11:43:07 AM - DEBUG - Getting Boards
+7/28/2022, 11:43:35 AM - ERROR - while finding board undefined | {}
+7/28/2022, 11:43:35 AM - ERROR - Failed to get board | {}
+7/28/2022, 11:44:15 AM - INFO - Req was made
+7/28/2022, 11:44:15 AM - DEBUG - Getting Boards
+7/28/2022, 11:45:11 AM - INFO - Req was made
+7/28/2022, 11:45:11 AM - DEBUG - Getting Boards
+7/28/2022, 11:45:45 AM - INFO - Req was made
+7/28/2022, 11:45:45 AM - DEBUG - Getting Boards
+7/28/2022, 11:51:48 AM - INFO - Req was made
+7/28/2022, 11:51:48 AM - DEBUG - Getting Boards
+7/28/2022, 11:52:02 AM - INFO - Req was made
+7/28/2022, 11:52:02 AM - DEBUG - Getting Boards
+7/28/2022, 11:53:46 AM - INFO - Req was made
+7/28/2022, 11:53:46 AM - DEBUG - Getting Boards
+7/28/2022, 11:57:05 AM - INFO - Req was made
+7/28/2022, 11:57:05 AM - DEBUG - Getting Boards
+7/28/2022, 11:58:18 AM - INFO - Req was made
+7/28/2022, 11:58:18 AM - DEBUG - Getting Boards
+7/28/2022, 11:59:10 AM - INFO - Req was made
+7/28/2022, 11:59:10 AM - DEBUG - Getting Boards
+7/28/2022, 11:59:20 AM - INFO - Req was made
+7/28/2022, 11:59:20 AM - DEBUG - Getting Boards
+7/28/2022, 11:59:34 AM - INFO - Req was made
+7/28/2022, 11:59:34 AM - DEBUG - Getting Boards
+7/28/2022, 12:00:03 PM - INFO - Req was made
+7/28/2022, 12:00:03 PM - DEBUG - Getting Boards
+7/28/2022, 12:00:17 PM - INFO - Req was made
+7/28/2022, 12:00:17 PM - DEBUG - Getting Boards
+7/28/2022, 12:02:17 PM - INFO - Req was made
+7/28/2022, 12:02:17 PM - DEBUG - Getting Boards
+7/28/2022, 12:02:24 PM - ERROR - while finding board undefined | {}
+7/28/2022, 12:02:24 PM - ERROR - Failed to get board | {}
+7/28/2022, 12:02:28 PM - INFO - Req was made
+7/28/2022, 12:02:28 PM - DEBUG - Getting Boards
+7/28/2022, 12:09:24 PM - INFO - Req was made
+7/28/2022, 12:09:24 PM - DEBUG - Getting Boards
+7/28/2022, 12:09:40 PM - INFO - Req was made
+7/28/2022, 12:09:40 PM - DEBUG - Getting Boards
+7/28/2022, 12:09:51 PM - ERROR - while finding board undefined | {}
+7/28/2022, 12:09:51 PM - ERROR - Failed to get board | {}
+7/28/2022, 12:18:22 PM - INFO - Req was made
+7/28/2022, 12:18:22 PM - DEBUG - Getting Boards
+7/28/2022, 12:18:29 PM - ERROR - while finding board undefined | {}
+7/28/2022, 12:18:29 PM - ERROR - Failed to get board | {}
+7/28/2022, 12:18:31 PM - INFO - Req was made
+7/28/2022, 12:18:31 PM - DEBUG - Getting Boards
+7/28/2022, 1:13:03 PM - ERROR - while finding board undefined | {}
+7/28/2022, 1:13:03 PM - ERROR - Failed to get board | {}
+7/28/2022, 1:13:06 PM - INFO - Req was made
+7/28/2022, 1:13:06 PM - DEBUG - Getting Boards
+7/28/2022, 1:56:40 PM - ERROR - while finding board undefined | {}
+7/28/2022, 1:56:40 PM - ERROR - Failed to get board | {}
+7/28/2022, 1:56:46 PM - INFO - Req was made
+7/28/2022, 1:56:46 PM - DEBUG - Getting Boards
+7/28/2022, 1:57:07 PM - INFO - Req was made
+7/28/2022, 1:57:07 PM - DEBUG - Getting Boards
+7/28/2022, 2:35:08 PM - INFO - Req was made
+7/28/2022, 2:35:08 PM - DEBUG - Getting Boards
+7/28/2022, 2:41:04 PM - INFO - Req was made
+7/28/2022, 2:41:04 PM - DEBUG - Getting Boards
+7/28/2022, 2:41:04 PM - INFO - Req was made
+7/28/2022, 2:41:04 PM - DEBUG - Getting Boards
+7/28/2022, 2:43:30 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 2:43:30 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 2:43:30 PM - INFO - Req was made
+7/28/2022, 2:43:30 PM - DEBUG - Getting Boards
+7/28/2022, 2:43:30 PM - INFO - Req was made
+7/28/2022, 2:43:30 PM - DEBUG - Getting Boards
+7/28/2022, 2:45:20 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 2:45:20 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 2:45:20 PM - INFO - Req was made
+7/28/2022, 2:45:20 PM - DEBUG - Getting Boards
+7/28/2022, 2:45:20 PM - INFO - Req was made
+7/28/2022, 2:45:20 PM - DEBUG - Getting Boards
+7/28/2022, 2:51:46 PM - INFO - Server is running on port: 5173
+7/28/2022, 2:51:47 PM - INFO - New connected socket [id: n9yhWFtr9iNRnXc1AAAB]
+7/28/2022, 2:51:51 PM - INFO - New connected socket [id: uDNfjSFl1bJ7lcrDAAAD]
+7/28/2022, 2:52:17 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 2:52:17 PM - INFO - Req was made
+7/28/2022, 2:52:17 PM - DEBUG - Getting Boards
+7/28/2022, 2:52:17 PM - INFO - New connected socket [id: cUf8RLqBMw4OSAH7AAAF]
+7/28/2022, 2:52:18 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 2:52:19 PM - INFO - Req was made
+7/28/2022, 2:52:19 PM - DEBUG - Getting Boards
+7/28/2022, 2:52:19 PM - INFO - New connected socket [id: InQWhnWS98qFjNENAAAH]
+7/28/2022, 2:58:38 PM - INFO - Server is running on port: 5173
+7/28/2022, 2:58:39 PM - INFO - New connected socket [id: WxsuM0uow-zfgXAGAAAB]
+7/28/2022, 2:58:39 PM - INFO - New connected socket [id: mvTOWHPnSRMFmoE3AAAD]
+7/28/2022, 2:58:54 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 2:59:05 PM - INFO - Server is running on port: 5173
+7/28/2022, 2:59:06 PM - INFO - New connected socket [id: 4fOKWQp4ocmYOQMbAAAB]
+7/28/2022, 2:59:31 PM - ERROR - while finding board undefined | {}
+7/28/2022, 2:59:31 PM - ERROR - Failed to get board | {}
+7/28/2022, 2:59:35 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 2:59:35 PM - INFO - Req was made
+7/28/2022, 2:59:36 PM - DEBUG - Getting Boards
+7/28/2022, 2:59:36 PM - INFO - New connected socket [id: m5VXWsz_90YepYvMAAAD]
+7/28/2022, 2:59:52 PM - INFO - Req was made
+7/28/2022, 2:59:52 PM - DEBUG - Getting Boards
+7/28/2022, 2:59:52 PM - INFO - New connected socket [id: uII_KBQZYFLdBBsyAAAF]
+7/28/2022, 3:03:02 PM - INFO - Server is running on port: 5173
+7/28/2022, 3:03:03 PM - INFO - New connected socket [id: cbgQzM6MWvvq_XN4AAAB]
+7/28/2022, 3:03:03 PM - INFO - New connected socket [id: HUvvlEtifBM3HoxfAAAD]
+7/28/2022, 3:05:35 PM - INFO - Server is running on port: 5173
+7/28/2022, 3:05:37 PM - INFO - New connected socket [id: -PZOlPLlamZXH4v7AAAC]
+7/28/2022, 3:05:37 PM - INFO - New connected socket [id: dPwJlSPYuUvuaH30AAAD]
+7/28/2022, 3:06:28 PM - INFO - Server is running on port: 5173
+7/28/2022, 3:06:30 PM - INFO - New connected socket [id: 610PyRvGaS697J9iAAAC]
+7/28/2022, 3:06:30 PM - INFO - New connected socket [id: 4Ha6rtfQZeE6HgIeAAAD]
+7/28/2022, 3:44:31 PM - INFO - Req was made
+7/28/2022, 3:44:31 PM - DEBUG - Getting Boards
+7/28/2022, 3:44:31 PM - INFO - Req was made
+7/28/2022, 3:44:31 PM - DEBUG - Getting Boards
+7/28/2022, 3:45:41 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 3:45:41 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 3:45:41 PM - INFO - Req was made
+7/28/2022, 3:45:41 PM - DEBUG - Getting Boards
+7/28/2022, 3:45:41 PM - INFO - New connected socket [id: q6lIqvdge9dkAX4QAAAG]
+7/28/2022, 3:45:41 PM - INFO - Req was made
+7/28/2022, 3:45:41 PM - DEBUG - Getting Boards
+7/28/2022, 3:45:41 PM - INFO - New connected socket [id: JJqSG5HyemoY196-AAAH]
+7/28/2022, 3:45:48 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 3:45:48 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 3:45:49 PM - INFO - Req was made
+7/28/2022, 3:45:49 PM - DEBUG - Getting Boards
+7/28/2022, 3:45:49 PM - INFO - Req was made
+7/28/2022, 3:45:49 PM - DEBUG - Getting Boards
+7/28/2022, 3:45:49 PM - INFO - New connected socket [id: ttc3ZofdLCREqlrdAAAK]
+7/28/2022, 3:45:49 PM - INFO - New connected socket [id: z-RPF2UUQsjCqyoYAAAL]
+7/28/2022, 3:47:09 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 3:47:09 PM - INFO - Req was made
+7/28/2022, 3:47:09 PM - DEBUG - Getting Boards
+7/28/2022, 3:47:09 PM - INFO - New connected socket [id: aKyEXEMoDICVNNXMAAAN]
+7/28/2022, 3:47:32 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 3:47:33 PM - INFO - Req was made
+7/28/2022, 3:47:33 PM - DEBUG - Getting Boards
+7/28/2022, 3:47:33 PM - INFO - New connected socket [id: w1AzAyihLE240M6cAAAP]
+7/28/2022, 3:47:33 PM - ERROR - while finding board undefined | {}
+7/28/2022, 3:47:33 PM - ERROR - Failed to get board | {}
+7/28/2022, 3:51:50 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 3:51:51 PM - INFO - Req was made
+7/28/2022, 3:51:51 PM - DEBUG - Getting Boards
+7/28/2022, 3:51:51 PM - INFO - New connected socket [id: rla7Jg21AVBOpGrAAAAR]
+7/28/2022, 3:51:55 PM - ERROR - while finding board undefined | {}
+7/28/2022, 3:51:55 PM - ERROR - Failed to get board | {}
+7/28/2022, 3:53:55 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 3:53:56 PM - INFO - Req was made
+7/28/2022, 3:53:57 PM - DEBUG - Getting Boards
+7/28/2022, 3:53:57 PM - INFO - New connected socket [id: a3wgGN7PuAaYSNUEAAAT]
+7/28/2022, 3:54:07 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 3:54:08 PM - INFO - Req was made
+7/28/2022, 3:54:08 PM - DEBUG - Getting Boards
+7/28/2022, 3:54:08 PM - INFO - New connected socket [id: fqcIjcKNWnL_wyBkAAAV]
+7/28/2022, 3:55:34 PM - ERROR - while finding board undefined | {}
+7/28/2022, 3:55:34 PM - ERROR - Failed to get board | {}
+7/28/2022, 3:55:36 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 3:55:37 PM - INFO - Req was made
+7/28/2022, 3:55:37 PM - DEBUG - Getting Boards
+7/28/2022, 3:55:37 PM - INFO - New connected socket [id: ed92c0rYrN2SlGwzAAAX]
+7/28/2022, 3:56:51 PM - ERROR - while finding board undefined | {}
+7/28/2022, 3:56:51 PM - ERROR - Failed to get board | {}
+7/28/2022, 3:56:52 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 3:56:55 PM - INFO - Req was made
+7/28/2022, 3:56:55 PM - DEBUG - Getting Boards
+7/28/2022, 3:56:55 PM - INFO - New connected socket [id: o1WP6hYtG3YLmXM0AAAZ]
+>>>>>>> 9d4086dc46249aadf3a8489e2124f97551bb5579
+7/28/2022, 4:21:20 PM - INFO - Server is running on port: 5173
+7/28/2022, 4:21:20 PM - INFO - New connected socket [id: mJh9djD3WLXf6ebsAAAB]
+7/28/2022, 4:21:20 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:21:47 PM - INFO - Server is running on port: 5173
+7/28/2022, 4:22:44 PM - INFO - Req was made
+7/28/2022, 4:22:44 PM - DEBUG - Getting Boards
+7/28/2022, 4:22:45 PM - INFO - New connected socket [id: Gw-aLEklKjRZv_JiAAAB]
+7/28/2022, 4:27:44 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:27:45 PM - INFO - Req was made
+7/28/2022, 4:27:45 PM - DEBUG - Getting Boards
+7/28/2022, 4:27:46 PM - INFO - New connected socket [id: XvAN1fnZtXFQyERpAAAD]
+7/28/2022, 4:31:12 PM - ERROR - while finding board undefined | {}
+7/28/2022, 4:31:12 PM - ERROR - Failed to get board | {}
+7/28/2022, 4:31:15 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:31:16 PM - INFO - Req was made
+7/28/2022, 4:31:16 PM - DEBUG - Getting Boards
+7/28/2022, 4:31:16 PM - INFO - New connected socket [id: rM8tAU6Y12pVHlOXAAAF]
+7/28/2022, 4:31:34 PM - INFO - Req was made
+7/28/2022, 4:31:34 PM - DEBUG - Getting Boards
+7/28/2022, 4:34:28 PM - INFO - Broadcasting event: something-changed
+7/28/2022, 4:34:28 PM - INFO - Broadcast to all excluding user: undefined
+7/28/2022, 4:34:39 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:34:40 PM - INFO - Req was made
+7/28/2022, 4:34:40 PM - DEBUG - Getting Boards
+7/28/2022, 4:34:40 PM - INFO - New connected socket [id: rj4rPYoEciZDCaZRAAAH]
+7/28/2022, 4:34:44 PM - INFO - Broadcasting event: something-changed
+7/28/2022, 4:34:44 PM - INFO - Broadcast to all excluding user: undefined
+7/28/2022, 4:34:48 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:34:49 PM - INFO - Req was made
+7/28/2022, 4:34:49 PM - DEBUG - Getting Boards
+7/28/2022, 4:34:49 PM - INFO - New connected socket [id: yepJoCNLsecl94HtAAAJ]
+7/28/2022, 4:39:33 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:39:34 PM - INFO - Req was made
+7/28/2022, 4:39:34 PM - DEBUG - Getting Boards
+7/28/2022, 4:39:34 PM - INFO - New connected socket [id: cYFI8sOmxWLIXjSYAAAL]
+7/28/2022, 4:39:38 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:39:39 PM - INFO - Req was made
+7/28/2022, 4:39:39 PM - DEBUG - Getting Boards
+7/28/2022, 4:39:39 PM - INFO - New connected socket [id: VGwTQFaBFI_LwcCQAAAN]
+7/28/2022, 4:39:45 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:39:46 PM - INFO - Req was made
+7/28/2022, 4:39:46 PM - DEBUG - Getting Boards
+7/28/2022, 4:39:46 PM - INFO - New connected socket [id: 6fS-xdoAzHUTKy2PAAAP]
+7/28/2022, 4:39:56 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:39:57 PM - INFO - Req was made
+7/28/2022, 4:39:57 PM - DEBUG - Getting Boards
+7/28/2022, 4:39:58 PM - INFO - New connected socket [id: 6liq9E_nqCRFAL9rAAAR]
+7/28/2022, 4:41:13 PM - INFO - Req was made
+7/28/2022, 4:41:13 PM - DEBUG - Getting Boards
+7/28/2022, 4:42:28 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:42:29 PM - INFO - Req was made
+7/28/2022, 4:42:29 PM - DEBUG - Getting Boards
+7/28/2022, 4:42:29 PM - INFO - New connected socket [id: ARcIGrB6FZ3XvDrgAAAT]
+7/28/2022, 4:42:35 PM - INFO - Broadcasting event: something-changed
+7/28/2022, 4:42:35 PM - INFO - Broadcast to all excluding user: undefined
+7/28/2022, 4:42:53 PM - ERROR - while finding board undefined | {}
+7/28/2022, 4:42:53 PM - ERROR - Failed to get board | {}
+7/28/2022, 4:47:05 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:48:19 PM - INFO - Req was made
+7/28/2022, 4:48:19 PM - DEBUG - Getting Boards
+7/28/2022, 4:48:19 PM - INFO - New connected socket [id: bVyiH5sZZrc-yeRRAAAV]
+7/28/2022, 4:48:41 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 4:48:42 PM - INFO - Req was made
+7/28/2022, 4:48:42 PM - DEBUG - Getting Boards
+7/28/2022, 4:48:43 PM - INFO - New connected socket [id: I6foTs9O9t1Rdl9zAAAX]
+7/28/2022, 4:49:45 PM - ERROR - while finding board undefined | {}
+7/28/2022, 4:49:45 PM - ERROR - Failed to get board | {}
+7/28/2022, 5:01:29 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:01:29 PM - INFO - New connected socket [id: i1qYaoyoGbTr9K36AAAB]
+7/28/2022, 5:01:33 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:01:34 PM - INFO - New connected socket [id: ZRhmJmFrwreSCiFkAAAB]
+7/28/2022, 5:02:07 PM - INFO - Req was made
+7/28/2022, 5:02:07 PM - DEBUG - Getting Boards
+7/28/2022, 5:02:26 PM - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+7/28/2022, 5:02:26 PM - ERROR - Failed to signup fullname, username and password are required!
+7/28/2022, 5:02:50 PM - DEBUG - auth.service - signup with username: Rimonaldo, fullname: undefined
+7/28/2022, 5:02:50 PM - ERROR - Failed to signup fullname, username and password are required!
+7/28/2022, 5:03:45 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:03:47 PM - INFO - New connected socket [id: iyqBHrYwJmLj-30XAAAB]
+7/28/2022, 5:03:56 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:03:58 PM - INFO - New connected socket [id: 575A6GARFUjCGHVbAAAB]
+7/28/2022, 5:04:01 PM - DEBUG - auth.service - signup with username: Rimonaldo, fullname: Rimons2804@gmail.com
+7/28/2022, 5:04:02 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo","password":"$2b$10$HMwwbvlLqFl2qRc./kDqWeb9/YqFPQ61/UXjde4f/MwpAOC6ur0j.","fullname":"Rimons2804@gmail.com","score":1000,"_id":"62e29752b21586217a1499b7"}
+7/28/2022, 5:04:02 PM - DEBUG - auth.service - login with username: Rimonaldo
+7/28/2022, 5:04:03 PM - ERROR - Failed to signup Error: data and hash arguments required
+7/28/2022, 5:04:12 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:04:13 PM - INFO - New connected socket [id: uaxIqwNsufi8tTzhAAAB]
+7/28/2022, 5:04:21 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:04:21 PM - INFO - New connected socket [id: iK4cqzZ-svLV1gDTAAAB]
+7/28/2022, 5:04:39 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:04:39 PM - DEBUG - auth.service - signup with username: Rimonaldo, fullname: Rimons2804@gmail.com
+7/28/2022, 5:04:40 PM - INFO - New connected socket [id: 9u36psJXpquL9BXHAAAB]
+7/28/2022, 5:04:40 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo","password":"$2b$10$qTSq71MpJXRROUrGxM95NeAKyoNHhh.ASRTDS9/OrZXeGsI5wUtw2","fullname":"Rimons2804@gmail.com","score":1000,"_id":"62e297781d48f77cdf1bc160"}
+7/28/2022, 5:04:40 PM - DEBUG - auth.service - login with username: Rimonaldo
+7/28/2022, 5:04:40 PM - ERROR - Failed to signup Error: data and hash arguments required
+7/28/2022, 5:04:45 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:04:47 PM - INFO - New connected socket [id: Tz5f5hxQPCeYIvT6AAAB]
+7/28/2022, 5:04:48 PM - DEBUG - auth.service - signup with username: Rimonaldo, fullname: Rimons2804@gmail.com
+7/28/2022, 5:04:49 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo","password":"$2b$10$qTr0MZL12Cm2MBy06EvzpekpHdT2PsVcSETzjbouIH7tsUZLHTSPi","fullname":"Rimons2804@gmail.com","score":1000,"_id":"62e29781ddd38318ca87a396"}
+7/28/2022, 5:04:49 PM - DEBUG - auth.service - login with username: Rimonaldo
+7/28/2022, 5:04:49 PM - ERROR - Failed to signup Error: data and hash arguments required
+7/28/2022, 5:05:20 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:05:20 PM - INFO - New connected socket [id: 7FidjMQHwZsIkCIMAAAB]
+7/28/2022, 5:05:22 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:05:24 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:05:24 PM - INFO - New connected socket [id: 9pVGfoXZrGE5N9VLAAAB]
+7/28/2022, 5:05:48 PM - DEBUG - auth.service - signup with username: Rimonaldo, fullname: Rimons2804@gmail.com
+7/28/2022, 5:05:50 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo","password":"$2b$10$XFjIoRFEmRYigYxtqMEm/OdWlkijofwrMW4l15FbIEUiyWPZ/40/q","fullname":"Rimons2804@gmail.com","score":1000,"_id":"62e297bd6f02074f0f78f0e6"}
+7/28/2022, 5:05:50 PM - DEBUG - auth.service - login with username: Rimonaldo
+7/28/2022, 5:05:50 PM - ERROR - Failed to signup Error: data and hash arguments required
+7/28/2022, 5:08:12 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:08:14 PM - INFO - New connected socket [id: QbzBQ1dRhUaAHKhXAAAB]
+7/28/2022, 5:08:14 PM - DEBUG - auth.service - signup with username: Rimonaldo, fullname: Rimons2804@gmail.com
+7/28/2022, 5:08:15 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo","password":"$2b$10$sDLUNIP9Wlh/n1CgqJvnHOBTvV8Q4LVc9zteZjczEZFdMBSa758Nu","fullname":"Rimons2804@gmail.com","score":1000,"_id":"62e2984f2b16eb352f45fa25"}
+7/28/2022, 5:08:16 PM - DEBUG - auth.service - login with username: Rimonaldo
+7/28/2022, 5:08:16 PM - ERROR - Failed to signup Error: data and hash arguments required
+7/28/2022, 5:09:29 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:09:30 PM - INFO - New connected socket [id: keNTpUalBNqtV94XAAAB]
+7/28/2022, 5:09:30 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:09:32 PM - INFO - New connected socket [id: ks4VuZMWSiQtzNP3AAAB]
+7/28/2022, 5:09:33 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:09:34 PM - INFO - New connected socket [id: T6kX7aCqdNwx7QveAAAB]
+7/28/2022, 5:09:39 PM - DEBUG - auth.service - signup with username: Rimonaldo, fullname: Rimons2804@gmail.com
+7/28/2022, 5:09:46 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo","password":"$2b$10$I8v9xkZqnBqMY0lBIrIDceKBvCvzDfjmsOJmImxNdU4lNF7uPZl5K","fullname":"Rimons2804@gmail.com","score":1000,"_id":"62e298aaf7982e54a84e41da"}
+7/28/2022, 5:09:46 PM - DEBUG - auth.service - login with username: Rimonaldo
+7/28/2022, 5:09:46 PM - ERROR - Failed to signup Error: data and hash arguments required
+7/28/2022, 5:12:06 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:12:06 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$bxBaw92YmQJiGvgwII.mIOjbJzpQ1csjCH1x63hMxHXRUJ7piHrAO","fullname":"Rimons2804@gmail.com","score":1000,"_id":"62e29936f7982e54a84e41db"}
+7/28/2022, 5:12:06 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:12:07 PM - INFO - User login:  | {"_id":"62e29936f7982e54a84e41db","username":"Rimonaldo123","fullname":"Rimons2804@gmail.com","isAdmin":null,"score":1000}
+7/28/2022, 5:12:36 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:12:36 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$4ILabljfjtxAndyK0BSdj.1gjuaKL9LFwF7UEzheIIwaNTt43c5yS","fullname":"Rimons2804@gmail.com","score":1000,"_id":"62e29954f7982e54a84e41dc"}
+7/28/2022, 5:12:36 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:12:36 PM - INFO - User login:  | {"_id":"62e29954f7982e54a84e41dc","username":"Rimonaldo123","fullname":"Rimons2804@gmail.com","isAdmin":null,"score":1000}
+7/28/2022, 5:12:46 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:12:46 PM - INFO - New connected socket [id: jitt0608uLjorjubAAAB]
+7/28/2022, 5:13:06 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:13:07 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$LJijNHKmFFqzFsTkBDwE5uWJ30.0EI.wCjTD3Lx22EHHe0gbPD7Ui","fullname":"Rimons2804@gmail.com","score":1000,"_id":"62e299730123ea7f1f39ceb3"}
+7/28/2022, 5:13:07 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:13:08 PM - INFO - User login:  | {"_id":"62e299730123ea7f1f39ceb3","username":"Rimonaldo123","fullname":"Rimons2804@gmail.com","isAdmin":null,"score":1000}
+7/28/2022, 5:13:52 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:13:53 PM - INFO - New connected socket [id: DnIUz30euKd722g5AAAB]
+7/28/2022, 5:14:00 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:14:01 PM - INFO - New connected socket [id: HbOcgCzsB6Qlw0BvAAAB]
+7/28/2022, 5:14:06 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:14:07 PM - INFO - New connected socket [id: VGMPfO2GQu79tSIkAAAB]
+7/28/2022, 5:14:18 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:14:18 PM - INFO - New connected socket [id: SUb4kD38AYp7_QzAAAAB]
+7/28/2022, 5:14:23 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:14:24 PM - INFO - New connected socket [id: l-PcKyO-I1VrbqDAAAAB]
+7/28/2022, 5:14:27 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:14:27 PM - INFO - New connected socket [id: nDD1VcvrkEwS61gpAAAB]
+7/28/2022, 5:14:29 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:14:30 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$PRyY1ZWVPZsXY61RGLJLAe3LqklAebhYdRpj3A0moAee4hw2cZOLu","_id":"62e299c6dbae6c076f82afa4"}
+7/28/2022, 5:14:30 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:14:31 PM - INFO - User login:  | {"_id":"62e299730123ea7f1f39ceb3","username":"Rimonaldo123","fullname":"Rimons2804@gmail.com","isAdmin":null,"score":1000}
+7/28/2022, 5:15:33 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:15:33 PM - INFO - New connected socket [id: houaJpwRwECAK4o6AAAB]
+7/28/2022, 5:15:48 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:15:48 PM - INFO - New connected socket [id: IUXLgmP9-xVl1RvzAAAB]
+7/28/2022, 5:15:58 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:15:59 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$B9RkdstaiQFU6nYE4fEpz.fUfFCkPpt5Q2suHUkGm2X/tYLjkVvnG","_id":"62e29a1f73c8515aaa40e4d9"}
+7/28/2022, 5:15:59 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:15:59 PM - INFO - User login:  | {"_id":"62e29a1f73c8515aaa40e4d9","username":"Rimonaldo123","email":null,"isAdmin":null,"avatar":null}
+7/28/2022, 5:17:31 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:17:32 PM - INFO - New connected socket [id: MTbigEizNiDU2HMzAAAB]
+7/28/2022, 5:17:43 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:17:44 PM - INFO - New connected socket [id: pdxQIHTa3bQJHHKEAAAB]
+7/28/2022, 5:18:00 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:18:00 PM - INFO - New connected socket [id: P-Q0Ldv47xDtZRTyAAAB]
+7/28/2022, 5:18:12 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:18:13 PM - INFO - New connected socket [id: cknriFo3bA_Cyz8BAAAB]
+7/28/2022, 5:18:14 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:18:14 PM - INFO - New connected socket [id: BUoztd7y-UT5W91fAAAB]
+7/28/2022, 5:18:17 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:18:18 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$oqaKsaDQizmo6sJNjRGGP.33.XADgeDsU.eYn.nnz9U5ZJM9/Z7di","email":"Rimons2804@gmail.com","_id":"62e29aaa6997e8781247f041"}
+7/28/2022, 5:18:18 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:18:19 PM - INFO - User login:  | {"_id":"62e29a1f73c8515aaa40e4d9","username":"Rimonaldo123","email":null,"isAdmin":null,"avatar":null}
+7/28/2022, 5:19:15 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:19:15 PM - INFO - New connected socket [id: IJzT-5_3e9C7wQATAAAB]
+7/28/2022, 5:19:25 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: undefined
+7/28/2022, 5:19:25 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 5:19:28 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:19:30 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$LaVxUgK8VYbdvCd2PNwbqOE6uc2jRk6dgrYWYakL/PV179kX/AOI2","email":"Rimons2804@gmail.com","_id":"62e29af25901f169ad6a2097"}
+7/28/2022, 5:19:30 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:19:30 PM - INFO - User login:  | {"_id":"62e29a1f73c8515aaa40e4d9","username":"Rimonaldo123","email":null,"isAdmin":null,"avatar":null}
+7/28/2022, 5:20:03 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:20:03 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$ln5q.JjsyQcOdCsd.RIvhOkrtlTmZDUTHfgCPvo3XB4WfcsHwZZcS","email":"Rimons2804@gmail.com","isAdmin":true,"_id":"62e29b135901f169ad6a2098"}
+7/28/2022, 5:20:03 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:20:04 PM - INFO - User login:  | {"_id":"62e29a1f73c8515aaa40e4d9","username":"Rimonaldo123","email":null,"isAdmin":null,"avatar":null}
+7/28/2022, 5:21:23 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:21:24 PM - INFO - New connected socket [id: bnW9MRoXkItRFbmHAAAB]
+7/28/2022, 5:21:38 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:21:39 PM - INFO - New connected socket [id: JD8-ebIchDvzOFENAAAB]
+7/28/2022, 5:21:53 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:21:55 PM - INFO - New connected socket [id: kdiKCFFJQhOQvWzeAAAB]
+7/28/2022, 5:22:00 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:22:01 PM - INFO - New connected socket [id: Hd5pYBaj8DRaySXcAAAB]
+7/28/2022, 5:22:02 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:22:02 PM - INFO - New connected socket [id: nUJs0pQUTKUL7ykeAAAB]
+7/28/2022, 5:22:04 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:22:05 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$NN/TyFMSd/2TRdaPYUQQRusHHWWE2SWBLTIutIuI8Rp9oLqY6P/ES","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"},"_id":"62e29b8d1eb46d748528c701"}
+7/28/2022, 5:22:05 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:22:05 PM - INFO - User login:  | {"_id":"62e29a1f73c8515aaa40e4d9","username":"Rimonaldo123","email":null,"isAdmin":null,"avatar":null}
+7/28/2022, 5:27:36 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:27:37 PM - INFO - New connected socket [id: qOxLvwPPgz8JEsDaAAAB]
+7/28/2022, 5:28:31 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:28:32 PM - INFO - New connected socket [id: 3Hy98GDFupR-4QkVAAAB]
+7/28/2022, 5:28:37 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:28:39 PM - INFO - New connected socket [id: vN1TAFnyeF6PpUfUAAAB]
+7/28/2022, 5:28:51 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:28:53 PM - INFO - New connected socket [id: 9OhPuz-Pxeeuqz0bAAAB]
+7/28/2022, 5:28:58 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:29:00 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$mMR5vLXH6gHoD6MYCvxNSuFiriuEDPG8yb/M9AkziMrwKL2gsgviW","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"},"_id":"62e29d2cab743167f5aa9846"}
+7/28/2022, 5:29:00 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:29:00 PM - INFO - User login:  | {"_id":"62e29a1f73c8515aaa40e4d9","username":"Rimonaldo123","email":null,"isAdmin":null,"avatar":null}
+7/28/2022, 5:32:19 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:32:19 PM - INFO - New connected socket [id: WMKc0idjNimp4VITAAAB]
+7/28/2022, 5:32:20 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: undefined
+7/28/2022, 5:32:20 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 5:32:31 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:32:31 PM - INFO - New connected socket [id: s0MZcLM9UdOgWpfmAAAB]
+7/28/2022, 5:32:33 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:32:34 PM - INFO - New connected socket [id: 9XRZ87HrE5q5lHQ_AAAB]
+7/28/2022, 5:32:36 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:32:38 PM - INFO - New connected socket [id: ofzocRmrNpgsC0xoAAAB]
+7/28/2022, 5:32:40 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:32:41 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$0x1EippIS3iNssPU3ESnLuj83Zb3/EujPk1O0S2Ue4Y.VCUwyueMy","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"},"_id":"62e29e09b59656eb934297db"}
+7/28/2022, 5:32:41 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:32:42 PM - INFO - User login:  | {"_id":"62e29a1f73c8515aaa40e4d9","username":"Rimonaldo123","email":null,"isAdmin":null,"avatar":null}
+7/28/2022, 5:32:58 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:33:00 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:33:00 PM - INFO - New connected socket [id: yZSk_scEghqixWiwAAAB]
+7/28/2022, 5:33:04 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:33:05 PM - INFO - New connected socket [id: InxkA-w3k5wyOfFzAAAB]
+7/28/2022, 5:33:06 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:33:07 PM - INFO - New connected socket [id: Np8YohVki-Q4L9S9AAAB]
+7/28/2022, 5:33:07 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:33:08 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$UI9VtRMpIOJAjZS0Z367RuYPQWWW7/qRqimgOkFMfh1tLHlT3Ii.y","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"},"_id":"62e29e248c122cd4c398958c"}
+7/28/2022, 5:33:08 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:33:09 PM - INFO - User login:  | {"_id":"62e29a1f73c8515aaa40e4d9","username":"Rimonaldo123","email":null,"isAdmin":null,"avatar":null}
+7/28/2022, 5:36:08 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:36:09 PM - INFO - New connected socket [id: XHfHn8Nair2-rURFAAAB]
+7/28/2022, 5:36:14 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:36:14 PM - INFO - New connected socket [id: zjTMoLufwHTS_UGfAAAB]
+7/28/2022, 5:36:50 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:36:52 PM - INFO - New connected socket [id: Ab78-JGtFy0BijAJAAAB]
+7/28/2022, 5:37:04 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:37:05 PM - INFO - New connected socket [id: jpHQzaKaO077hQMlAAAB]
+7/28/2022, 5:37:07 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:37:08 PM - INFO - New connected socket [id: RJ1PK1Dnl2-sWn-CAAAB]
+7/28/2022, 5:37:12 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:37:13 PM - INFO - New connected socket [id: vpkcl6NnjHvDlR8AAAAB]
+7/28/2022, 5:37:14 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:37:15 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$ZwYA2bc2DK4wgbiO/rwlCutZW2yoDREYY5dUJeyLi1WiZrgrYpPSK","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"},"_id":"62e29f1bde35d7d21ddaad1a"}
+7/28/2022, 5:37:15 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:37:56 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:37:56 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$vKoUWUM0t8UBw03eZUv.TOm9NKqgZHMr99CUWjWfQG1SCmswcIBFS","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"},"_id":"62e29f44de35d7d21ddaad1b"}
+7/28/2022, 5:37:56 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:40:02 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:40:03 PM - INFO - New connected socket [id: l18CB3Ue-FTX6_vQAAAB]
+7/28/2022, 5:40:10 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:40:12 PM - INFO - New connected socket [id: OWt85k83bntW7ANAAAAB]
+7/28/2022, 5:40:12 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:40:14 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$Q7dUJ3PJ6GhheLFnjyjwV.fdHOvL0tzvVGIntysTHK1PDW0jz3pb6","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"},"_id":"62e29fceace04e38e117c662"}
+7/28/2022, 5:40:14 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:40:14 PM - ERROR - Failed to signup Error: data and hash arguments required
+7/28/2022, 5:40:29 PM - INFO - Server is running on port: 5173
+7/28/2022, 5:40:30 PM - INFO - New connected socket [id: --XfCpzM1ILjUsHRAAAB]
+7/28/2022, 5:40:30 PM - DEBUG - auth.service - signup with username: Rimonaldo123, fullname: Rimons2804@gmail.com
+7/28/2022, 5:40:31 PM - DEBUG - auth.route - new account created: {"username":"Rimonaldo123","password":"$2b$10$oGvU.TCicQS./NLcQ8o8feZrTv6Cdn0SxGUbGynndKSRrZCKSgOiS","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"},"_id":"62e29fdfe76d2b9101ecada9"}
+7/28/2022, 5:40:31 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 5:42:03 PM - DEBUG - auth.service - signup with username: Kaichuk, fullname: kaiNagar8@gmail.com
+7/28/2022, 5:42:04 PM - DEBUG - auth.route - new account created: {"username":"Kaichuk","password":"$2b$10$vToOP0dOF5p6DE1mzLMeOeVHG0u50d8hEjTJNr.bSi3QTI0Rnojka","email":"kaiNagar8@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#F5DD29"},"_id":"62e2a03be76d2b9101ecadaa"}
+7/28/2022, 5:42:04 PM - DEBUG - auth.service - login with username: Kaichuk
+7/28/2022, 5:42:54 PM - DEBUG - auth.service - signup with username: StavKot555, fullname: stavKot555@gmail.com
+7/28/2022, 5:42:54 PM - DEBUG - auth.route - new account created: {"username":"StavKot555","password":"$2b$10$uzAowYYJJVloBVCUe4iXO.P/Rnddw5g/VCA.ExjZbCDmexxK62916","email":"stavKot555@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#FFAF3F"},"_id":"62e2a06ee76d2b9101ecadab"}
+7/28/2022, 5:42:54 PM - DEBUG - auth.service - login with username: StavKot555
+7/28/2022, 6:04:33 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:04:33 PM - INFO - Req was made
+7/28/2022, 6:04:33 PM - DEBUG - Getting Boards
+7/28/2022, 6:04:33 PM - INFO - New connected socket [id: Fk63VZuOo4R_5qKDAAAD]
+7/28/2022, 6:06:55 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:06:56 PM - INFO - Req was made
+7/28/2022, 6:06:56 PM - DEBUG - Getting Boards
+7/28/2022, 6:06:56 PM - INFO - New connected socket [id: VtYSs6-3FFO2YwthAAAF]
+7/28/2022, 6:07:02 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:07:02 PM - INFO - Req was made
+7/28/2022, 6:07:02 PM - DEBUG - Getting Boards
+7/28/2022, 6:07:02 PM - INFO - New connected socket [id: NFcW6O7-4XxQbgKwAAAH]
+7/28/2022, 6:07:18 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:07:18 PM - INFO - Req was made
+7/28/2022, 6:07:18 PM - DEBUG - Getting Boards
+7/28/2022, 6:07:19 PM - INFO - New connected socket [id: xW7Dm8MbSSqiJQQZAAAJ]
+7/28/2022, 6:08:48 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:08:49 PM - INFO - Req was made
+7/28/2022, 6:08:49 PM - DEBUG - Getting Boards
+7/28/2022, 6:08:49 PM - INFO - New connected socket [id: dSkmO0ktjG4vXrHEAAAL]
+7/28/2022, 6:10:15 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:10:15 PM - INFO - Req was made
+7/28/2022, 6:10:15 PM - DEBUG - Getting Boards
+7/28/2022, 6:10:15 PM - INFO - New connected socket [id: A3Db1VH1sHHfsB1FAAAN]
+7/28/2022, 6:12:13 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:12:14 PM - INFO - Req was made
+7/28/2022, 6:12:14 PM - DEBUG - Getting Boards
+7/28/2022, 6:12:15 PM - INFO - New connected socket [id: FBN9ztw7UG7zfwTxAAAP]
+7/28/2022, 6:14:03 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:14:04 PM - INFO - Req was made
+7/28/2022, 6:14:04 PM - DEBUG - Getting Boards
+7/28/2022, 6:14:04 PM - INFO - New connected socket [id: RMTXccR_ywXGY1iBAAAR]
+7/28/2022, 6:14:08 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:14:08 PM - INFO - Req was made
+7/28/2022, 6:14:08 PM - DEBUG - Getting Boards
+7/28/2022, 6:14:08 PM - INFO - New connected socket [id: SJOlXAor_GhBhrViAAAT]
+7/28/2022, 6:14:12 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:14:15 PM - INFO - Req was made
+7/28/2022, 6:14:15 PM - DEBUG - Getting Boards
+7/28/2022, 6:14:15 PM - INFO - New connected socket [id: 4A_KVNBJMzDyx58WAAAV]
+7/28/2022, 6:14:26 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:14:27 PM - INFO - Req was made
+7/28/2022, 6:14:27 PM - DEBUG - Getting Boards
+7/28/2022, 6:14:27 PM - INFO - New connected socket [id: Ot_Ogqvh3gX5mh9DAAAX]
+7/28/2022, 6:14:41 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:14:42 PM - INFO - Req was made
+7/28/2022, 6:14:42 PM - DEBUG - Getting Boards
+7/28/2022, 6:14:42 PM - INFO - New connected socket [id: FC7UCtUAgtgLyaceAAAZ]
+7/28/2022, 6:15:07 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:15:08 PM - INFO - Req was made
+7/28/2022, 6:15:08 PM - DEBUG - Getting Boards
+7/28/2022, 6:15:08 PM - INFO - New connected socket [id: IH9k4JCHsGDxgwz_AAAb]
+7/28/2022, 6:15:16 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:15:17 PM - INFO - Req was made
+7/28/2022, 6:15:17 PM - DEBUG - Getting Boards
+7/28/2022, 6:15:17 PM - INFO - New connected socket [id: kWg22uvSK66qL0d-AAAd]
+7/28/2022, 6:15:20 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:15:20 PM - INFO - Req was made
+7/28/2022, 6:15:20 PM - DEBUG - Getting Boards
+7/28/2022, 6:15:20 PM - INFO - New connected socket [id: UaloTvs9zrj4w-n3AAAf]
+7/28/2022, 6:15:22 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:15:23 PM - INFO - Req was made
+7/28/2022, 6:15:23 PM - DEBUG - Getting Boards
+7/28/2022, 6:15:23 PM - INFO - New connected socket [id: IwP-Jp4qV8sgDUcuAAAh]
+7/28/2022, 6:15:25 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:15:26 PM - INFO - Req was made
+7/28/2022, 6:15:26 PM - DEBUG - Getting Boards
+7/28/2022, 6:15:26 PM - INFO - New connected socket [id: wOgMDykCOigRomtBAAAj]
+7/28/2022, 6:15:34 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:15:35 PM - INFO - Req was made
+7/28/2022, 6:15:35 PM - DEBUG - Getting Boards
+7/28/2022, 6:15:35 PM - INFO - New connected socket [id: TcmH7OCj_8jcYyHYAAAl]
+7/28/2022, 6:15:54 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:15:55 PM - INFO - Req was made
+7/28/2022, 6:15:55 PM - DEBUG - Getting Boards
+7/28/2022, 6:15:55 PM - INFO - New connected socket [id: e5QWnB7w-le9nBqBAAAn]
+7/28/2022, 6:15:59 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:15:59 PM - INFO - Req was made
+7/28/2022, 6:15:59 PM - DEBUG - Getting Boards
+7/28/2022, 6:15:59 PM - INFO - New connected socket [id: MO6xEcsdruudgXnPAAAp]
+7/28/2022, 6:16:10 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:16:10 PM - INFO - Req was made
+7/28/2022, 6:16:10 PM - DEBUG - Getting Boards
+7/28/2022, 6:16:11 PM - INFO - New connected socket [id: -itGN9UzYDysCyD2AAAr]
+7/28/2022, 6:16:11 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:16:12 PM - INFO - New connected socket [id: EBS1IJrbaMtFR2S-AAAt]
+7/28/2022, 6:19:54 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:19:55 PM - INFO - Req was made
+7/28/2022, 6:19:55 PM - DEBUG - Getting Boards
+7/28/2022, 6:19:55 PM - INFO - New connected socket [id: Xz4YU690xYcWWivKAAAv]
+7/28/2022, 6:21:57 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:21:58 PM - INFO - Req was made
+7/28/2022, 6:21:58 PM - DEBUG - Getting Boards
+7/28/2022, 6:21:58 PM - INFO - New connected socket [id: OC2D3ZeMXqygehy1AAAx]
+7/28/2022, 6:23:04 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:23:05 PM - INFO - Req was made
+7/28/2022, 6:23:05 PM - DEBUG - Getting Boards
+7/28/2022, 6:23:05 PM - INFO - New connected socket [id: m5Lgaly8ZX_Tp-i9AAAz]
+7/28/2022, 6:25:35 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:25:36 PM - INFO - Req was made
+7/28/2022, 6:25:36 PM - DEBUG - Getting Boards
+7/28/2022, 6:25:36 PM - INFO - New connected socket [id: yEtbNh1DlgnQboV2AAA1]
+7/28/2022, 6:25:44 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:25:45 PM - INFO - Req was made
+7/28/2022, 6:25:45 PM - DEBUG - Getting Boards
+7/28/2022, 6:25:45 PM - INFO - New connected socket [id: 4hhx3LdMRGaH_3O-AAA3]
+7/28/2022, 6:25:49 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:25:49 PM - INFO - Req was made
+7/28/2022, 6:25:49 PM - DEBUG - Getting Boards
+7/28/2022, 6:25:49 PM - INFO - New connected socket [id: jVkep2bU2FUkAgmzAAA5]
+7/28/2022, 6:27:53 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 6:27:54 PM - INFO - Req was made
+7/28/2022, 6:27:54 PM - DEBUG - Getting Boards
+7/28/2022, 6:27:54 PM - INFO - New connected socket [id: Hgw3jhEYJm_4DgNtAAA7]
+7/28/2022, 7:02:33 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:02:34 PM - INFO - Req was made
+7/28/2022, 7:02:34 PM - DEBUG - Getting Boards
+7/28/2022, 7:02:34 PM - INFO - New connected socket [id: duGfjaShSvSzTxiAAAA9]
+7/28/2022, 7:03:02 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:03:02 PM - INFO - Req was made
+7/28/2022, 7:03:02 PM - DEBUG - Getting Boards
+7/28/2022, 7:03:02 PM - INFO - New connected socket [id: uvqDlMdY9eF-mfQFAAA_]
+7/28/2022, 7:03:06 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:03:07 PM - INFO - Req was made
+7/28/2022, 7:03:07 PM - DEBUG - Getting Boards
+7/28/2022, 7:03:07 PM - INFO - New connected socket [id: qKhGlls0T1RiJOSxAABB]
+7/28/2022, 7:03:12 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:03:13 PM - INFO - Req was made
+7/28/2022, 7:03:13 PM - DEBUG - Getting Boards
+7/28/2022, 7:03:13 PM - INFO - New connected socket [id: fIazsI6ssdb5BDM5AABD]
+7/28/2022, 7:03:16 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:03:17 PM - INFO - Req was made
+7/28/2022, 7:03:17 PM - DEBUG - Getting Boards
+7/28/2022, 7:03:17 PM - INFO - New connected socket [id: vUZLeQ1Mx0aoBfOWAABF]
+7/28/2022, 7:03:42 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:03:43 PM - INFO - Req was made
+7/28/2022, 7:03:43 PM - DEBUG - Getting Boards
+7/28/2022, 7:03:43 PM - INFO - New connected socket [id: Lw70LVmkZwl2Ya0sAABH]
+7/28/2022, 7:08:17 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:08:18 PM - INFO - Req was made
+7/28/2022, 7:08:18 PM - DEBUG - Getting Boards
+7/28/2022, 7:08:18 PM - INFO - New connected socket [id: _NF5pw2uqIFYGt20AABJ]
+7/28/2022, 7:08:53 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:08:53 PM - INFO - Req was made
+7/28/2022, 7:08:53 PM - DEBUG - Getting Boards
+7/28/2022, 7:08:53 PM - INFO - New connected socket [id: h1VnVe2L7M21T2fgAABL]
+7/28/2022, 7:09:16 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:09:16 PM - INFO - Req was made
+7/28/2022, 7:09:16 PM - DEBUG - Getting Boards
+7/28/2022, 7:09:17 PM - INFO - New connected socket [id: F5ByGEuT4XnT0lRXAABN]
+7/28/2022, 7:09:18 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:09:19 PM - INFO - Req was made
+7/28/2022, 7:09:19 PM - DEBUG - Getting Boards
+7/28/2022, 7:09:19 PM - INFO - New connected socket [id: xbCfCQYpHhYXAI4QAABP]
+7/28/2022, 7:11:08 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:11:21 PM - INFO - Req was made
+7/28/2022, 7:11:21 PM - DEBUG - Getting Boards
+7/28/2022, 7:11:21 PM - INFO - New connected socket [id: IZ4CO266ug6VRdsdAABR]
+7/28/2022, 7:11:42 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:11:42 PM - INFO - Req was made
+7/28/2022, 7:11:42 PM - DEBUG - Getting Boards
+7/28/2022, 7:11:42 PM - INFO - New connected socket [id: WPQSKldkvx9_cdSzAABT]
+7/28/2022, 7:12:11 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:12:12 PM - INFO - Req was made
+7/28/2022, 7:12:12 PM - DEBUG - Getting Boards
+7/28/2022, 7:12:12 PM - INFO - New connected socket [id: OXM_xK8b0iNLa4rMAABV]
+7/28/2022, 7:12:14 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:12:14 PM - INFO - Req was made
+7/28/2022, 7:12:14 PM - DEBUG - Getting Boards
+7/28/2022, 7:12:15 PM - INFO - New connected socket [id: JOxs09Hne6cXmFdoAABX]
+7/28/2022, 7:12:17 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:12:17 PM - INFO - Req was made
+7/28/2022, 7:12:17 PM - DEBUG - Getting Boards
+7/28/2022, 7:12:17 PM - INFO - New connected socket [id: TZdH5pURofF8UbpCAABZ]
+7/28/2022, 7:12:20 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:12:20 PM - INFO - Req was made
+7/28/2022, 7:12:20 PM - DEBUG - Getting Boards
+7/28/2022, 7:12:21 PM - INFO - New connected socket [id: rA23idSTRR47J5-VAABb]
+7/28/2022, 7:16:59 PM - DEBUG - auth.service - login with username: StavKot555
+7/28/2022, 7:16:59 PM - INFO - User login:  | {"_id":"62e2a06ee76d2b9101ecadab","username":"StavKot555","email":"stavKot555@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#FFAF3F"}}
+7/28/2022, 7:17:14 PM - DEBUG - auth.service - login with username: rimonaldo
+7/28/2022, 7:17:14 PM - ERROR - Failed to Login Error: Invalid username or password
+7/28/2022, 7:17:18 PM - DEBUG - auth.service - login with username: rimonaldo123
+7/28/2022, 7:17:18 PM - ERROR - Failed to Login Error: Invalid username or password
+7/28/2022, 7:17:37 PM - DEBUG - auth.service - login with username: Kaichuk
+7/28/2022, 7:17:37 PM - INFO - User login:  | {"_id":"62e2a03be76d2b9101ecadaa","username":"Kaichuk","email":"kaiNagar8@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#F5DD29"}}
+7/28/2022, 7:17:45 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 7:17:45 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 7:18:58 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:20:57 PM - INFO - Req was made
+7/28/2022, 7:20:57 PM - DEBUG - Getting Boards
+7/28/2022, 7:20:57 PM - INFO - New connected socket [id: RGD5Z82sjtPmJMSgAABd]
+7/28/2022, 7:22:05 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:22:06 PM - INFO - Req was made
+7/28/2022, 7:22:06 PM - DEBUG - Getting Boards
+7/28/2022, 7:22:06 PM - INFO - New connected socket [id: Ka2VoJcSwQ2X3PK4AABf]
+7/28/2022, 7:26:41 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:26:41 PM - INFO - Req was made
+7/28/2022, 7:26:41 PM - DEBUG - Getting Boards
+7/28/2022, 7:26:41 PM - INFO - New connected socket [id: jC1LSMdZJ8VAyr6vAABh]
+7/28/2022, 7:27:15 PM - INFO - Req was made
+7/28/2022, 7:27:15 PM - DEBUG - Getting Boards
+7/28/2022, 7:27:16 PM - INFO - New connected socket [id: LdBsRS0y_lhCddrnAABj]
+7/28/2022, 7:30:28 PM - INFO - Server is running on port: 3030
+7/28/2022, 7:31:11 PM - INFO - Req was made
+7/28/2022, 7:31:11 PM - DEBUG - Getting Boards
+7/28/2022, 7:31:12 PM - INFO - Req was made
+7/28/2022, 7:31:12 PM - DEBUG - Getting Boards
+7/28/2022, 7:31:22 PM - ERROR - while finding board undefined | {}
+7/28/2022, 7:31:22 PM - ERROR - Failed to get board | {}
+7/28/2022, 7:31:27 PM - INFO - Req was made
+7/28/2022, 7:31:27 PM - DEBUG - Getting Boards
+7/28/2022, 7:32:04 PM - INFO - Req was made
+7/28/2022, 7:32:04 PM - DEBUG - Getting Boards
+7/28/2022, 7:32:29 PM - INFO - Server is running on port: 8080
+7/28/2022, 7:32:42 PM - INFO - Req was made
+7/28/2022, 7:32:42 PM - DEBUG - Getting Boards
+7/28/2022, 7:32:51 PM - ERROR - while finding board undefined | {}
+7/28/2022, 7:32:51 PM - ERROR - Failed to get board | {}
+7/28/2022, 7:33:25 PM - INFO - Server is running on port: 3030
+7/28/2022, 7:33:28 PM - INFO - Req was made
+7/28/2022, 7:33:28 PM - DEBUG - Getting Boards
+7/28/2022, 7:33:47 PM - INFO - Server is running on port: 5173
+7/28/2022, 7:33:48 PM - INFO - New connected socket [id: Pv3Ah8q3m66V_rnTAAAB]
+7/28/2022, 7:33:59 PM - INFO - Req was made
+7/28/2022, 7:33:59 PM - DEBUG - Getting Boards
+7/28/2022, 7:33:59 PM - INFO - New connected socket [id: OUCIJF_Zbp5uslocAAAD]
+7/28/2022, 7:34:03 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:34:47 PM - INFO - New connected socket [id: H271Qc8c-ENs1oSyAAAF]
+7/28/2022, 7:35:01 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:35:02 PM - INFO - Req was made
+7/28/2022, 7:35:02 PM - DEBUG - Getting Boards
+7/28/2022, 7:35:02 PM - INFO - New connected socket [id: 7bb2NHOB1b-_RI79AAAH]
+7/28/2022, 7:35:06 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:39:10 PM - INFO - Server is running on port: 5173
+7/28/2022, 7:39:13 PM - INFO - New connected socket [id: GU02QQpLCfUILvHuAAAB]
+7/28/2022, 7:39:13 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:39:14 PM - INFO - Req was made
+7/28/2022, 7:39:14 PM - DEBUG - Getting Boards
+7/28/2022, 7:39:14 PM - INFO - New connected socket [id: ad_U48C6EY3HaslIAAAD]
+7/28/2022, 7:39:32 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:39:33 PM - INFO - Req was made
+7/28/2022, 7:39:33 PM - DEBUG - Getting Boards
+7/28/2022, 7:39:33 PM - INFO - New connected socket [id: ZOLgvCH_UKhTdx03AAAF]
+7/28/2022, 7:39:59 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:40:00 PM - INFO - Req was made
+7/28/2022, 7:40:00 PM - DEBUG - Getting Boards
+7/28/2022, 7:40:00 PM - INFO - New connected socket [id: HDcIsiofFnvwNsxoAAAH]
+7/28/2022, 7:42:44 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:42:45 PM - INFO - Req was made
+7/28/2022, 7:42:45 PM - DEBUG - Getting Boards
+7/28/2022, 7:42:46 PM - INFO - New connected socket [id: VVuTcCzZzZZpDRSDAAAJ]
+7/28/2022, 7:42:55 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:42:56 PM - INFO - Req was made
+7/28/2022, 7:42:56 PM - DEBUG - Getting Boards
+7/28/2022, 7:42:56 PM - INFO - New connected socket [id: iDF9iqKBUpHio-zLAAAL]
+7/28/2022, 7:43:02 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:03 PM - INFO - Req was made
+7/28/2022, 7:43:03 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:03 PM - INFO - New connected socket [id: eCW19JeigLUKW1FVAAAN]
+7/28/2022, 7:43:10 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:10 PM - INFO - Req was made
+7/28/2022, 7:43:10 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:11 PM - INFO - New connected socket [id: c9HCj0t60PGjyRDLAAAP]
+7/28/2022, 7:43:18 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:19 PM - INFO - Req was made
+7/28/2022, 7:43:19 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:19 PM - INFO - New connected socket [id: fpWmCMyj_KUizzEwAAAR]
+7/28/2022, 7:43:24 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:25 PM - INFO - Req was made
+7/28/2022, 7:43:25 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:25 PM - INFO - New connected socket [id: AFvBG-a1ICR1iuq2AAAT]
+7/28/2022, 7:43:29 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:30 PM - INFO - Req was made
+7/28/2022, 7:43:30 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:30 PM - INFO - New connected socket [id: 1KgWbicyqR7HZo8fAAAV]
+7/28/2022, 7:43:31 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:32 PM - INFO - Req was made
+7/28/2022, 7:43:32 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:32 PM - INFO - New connected socket [id: iMHlD_TGn0DS-KRnAAAX]
+7/28/2022, 7:43:34 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:34 PM - INFO - Req was made
+7/28/2022, 7:43:34 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:34 PM - INFO - New connected socket [id: KHVUqsGFCxA2AELbAAAZ]
+7/28/2022, 7:43:35 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:36 PM - INFO - Req was made
+7/28/2022, 7:43:36 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:36 PM - INFO - New connected socket [id: -vaPZ_x83HQ-hvw-AAAb]
+7/28/2022, 7:43:38 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:38 PM - INFO - Req was made
+7/28/2022, 7:43:38 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:38 PM - INFO - New connected socket [id: UKlKbT3I4tkmFut1AAAd]
+7/28/2022, 7:43:40 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:41 PM - INFO - Req was made
+7/28/2022, 7:43:41 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:41 PM - INFO - New connected socket [id: VhNLXVtITiZ4YfTrAAAf]
+7/28/2022, 7:43:42 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:43 PM - INFO - Req was made
+7/28/2022, 7:43:43 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:43 PM - INFO - New connected socket [id: C5TjrwGGzzm1gtu9AAAh]
+7/28/2022, 7:43:44 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:44 PM - INFO - Req was made
+7/28/2022, 7:43:44 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:44 PM - INFO - New connected socket [id: xVQkJtSYWxGM0kuwAAAj]
+7/28/2022, 7:43:46 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:46 PM - INFO - Req was made
+7/28/2022, 7:43:46 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:47 PM - INFO - New connected socket [id: X74O_tSS2P-4lCzyAAAl]
+7/28/2022, 7:43:57 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:43:57 PM - INFO - Req was made
+7/28/2022, 7:43:57 PM - DEBUG - Getting Boards
+7/28/2022, 7:43:58 PM - INFO - New connected socket [id: G3sYUdS4xPMB9sVPAAAn]
+7/28/2022, 7:44:16 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:17 PM - INFO - Req was made
+7/28/2022, 7:44:17 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:17 PM - INFO - New connected socket [id: 6za5tH0ZSKscyEzLAAAp]
+7/28/2022, 7:44:19 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:19 PM - INFO - Req was made
+7/28/2022, 7:44:19 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:19 PM - INFO - New connected socket [id: 3Jic5y3Fwfp_K72NAAAr]
+7/28/2022, 7:44:25 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:26 PM - INFO - Req was made
+7/28/2022, 7:44:26 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:26 PM - INFO - New connected socket [id: Zi-JmrhI6bLutaRoAAAt]
+7/28/2022, 7:44:27 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:27 PM - INFO - Req was made
+7/28/2022, 7:44:27 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:28 PM - INFO - New connected socket [id: wEDlzBvgo02l6ltSAAAv]
+7/28/2022, 7:44:30 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:30 PM - INFO - Req was made
+7/28/2022, 7:44:30 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:30 PM - INFO - New connected socket [id: vLJJbNjRF6sdviEmAAAx]
+7/28/2022, 7:44:32 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:32 PM - INFO - Req was made
+7/28/2022, 7:44:32 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:32 PM - INFO - New connected socket [id: qRcghJkDMDSTnjfjAAAz]
+7/28/2022, 7:44:34 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:34 PM - INFO - Req was made
+7/28/2022, 7:44:34 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:34 PM - INFO - New connected socket [id: 3it0ef4UkX7GuQJRAAA1]
+7/28/2022, 7:44:36 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:36 PM - INFO - Req was made
+7/28/2022, 7:44:36 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:36 PM - INFO - New connected socket [id: 2gSeXYQFMEmGFqmyAAA3]
+7/28/2022, 7:44:38 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:39 PM - INFO - Req was made
+7/28/2022, 7:44:39 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:39 PM - INFO - New connected socket [id: IBjgW2zaUOnb9DDmAAA5]
+7/28/2022, 7:44:40 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:40 PM - INFO - Req was made
+7/28/2022, 7:44:40 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:40 PM - INFO - New connected socket [id: uDfUhighawHEZvmMAAA7]
+7/28/2022, 7:44:41 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:42 PM - INFO - Req was made
+7/28/2022, 7:44:42 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:42 PM - INFO - New connected socket [id: 5EppXkD0Oj3zDslSAAA9]
+7/28/2022, 7:44:43 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:43 PM - INFO - Req was made
+7/28/2022, 7:44:43 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:44 PM - INFO - New connected socket [id: WScj8E1L7jwRXcuOAAA_]
+7/28/2022, 7:44:49 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:44:50 PM - INFO - Req was made
+7/28/2022, 7:44:50 PM - DEBUG - Getting Boards
+7/28/2022, 7:44:50 PM - INFO - New connected socket [id: gVIN5M_xh9mAMD6xAABB]
+7/28/2022, 7:46:29 PM - INFO - Req was made
+7/28/2022, 7:46:29 PM - DEBUG - Getting Boards
+7/28/2022, 7:46:29 PM - INFO - New connected socket [id: UOgFAmUpMQY_UchpAABD]
+7/28/2022, 7:54:05 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:54:05 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 7:58:27 PM - INFO - New connected socket [id: LRC5UNPY8QAKabxCAABF]
+7/28/2022, 7:58:43 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:04:35 PM - INFO - New connected socket [id: y9_pabXGl8zjC8vOAABH]
+7/28/2022, 8:04:37 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:04:38 PM - INFO - New connected socket [id: 0CinkmVfKlY5DjhsAABJ]
+7/28/2022, 8:04:40 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:04:41 PM - INFO - New connected socket [id: rE6Xxqc9tilqEPBCAABL]
+7/28/2022, 8:05:35 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:05:36 PM - INFO - New connected socket [id: fVKSdry8WyLh-LahAABN]
+7/28/2022, 8:05:39 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:05:40 PM - INFO - New connected socket [id: dv89Vr0x3w8Km9V1AABP]
+7/28/2022, 8:05:57 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:05:58 PM - INFO - New connected socket [id: ayYsQ1vJgkXGglyTAABR]
+7/28/2022, 8:06:43 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:06:44 PM - INFO - New connected socket [id: OpAvyAB-1i8jSZydAABT]
+7/28/2022, 8:07:00 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:07:01 PM - INFO - New connected socket [id: gRZLmRdBYIcOPh5YAABV]
+7/28/2022, 8:07:13 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:07:14 PM - INFO - New connected socket [id: czU5-JCQVWdOzGF2AABX]
+7/28/2022, 8:08:23 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:08:24 PM - INFO - New connected socket [id: EoDRBhTQCZbPZYz2AABZ]
+7/28/2022, 8:08:33 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:08:34 PM - INFO - New connected socket [id: pWyc7IWA_V1v7kg7AABb]
+7/28/2022, 8:08:35 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:08:37 PM - INFO - Req was made
+7/28/2022, 8:08:37 PM - DEBUG - Getting Boards
+7/28/2022, 8:08:37 PM - INFO - New connected socket [id: fWQhKiPKhUXNGZz6AABd]
+7/28/2022, 8:09:51 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:09:52 PM - INFO - Req was made
+7/28/2022, 8:09:52 PM - DEBUG - Getting Boards
+7/28/2022, 8:09:52 PM - INFO - New connected socket [id: ot_xjI8QNA0fudJJAABf]
+7/28/2022, 8:09:54 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:09:55 PM - INFO - New connected socket [id: NC-f37tAYhQUu6jcAABh]
+7/28/2022, 8:09:57 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:09:58 PM - INFO - New connected socket [id: r9MuOjG0Tr8x62LEAABj]
+7/28/2022, 8:11:20 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:11:21 PM - INFO - New connected socket [id: 9kssa89l5ZIMtUSBAABl]
+7/28/2022, 8:11:26 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:11:27 PM - INFO - New connected socket [id: N0AuFFoqO3sxul9tAABn]
+7/28/2022, 8:11:29 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:11:30 PM - INFO - New connected socket [id: N6-0mFAHihOGE0czAABp]
+7/28/2022, 8:12:02 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:14:11 PM - INFO - New connected socket [id: BXPKtXSEaZGqpXlXAABr]
+7/28/2022, 8:14:19 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:14:20 PM - INFO - New connected socket [id: SoEV0_VPjk57U47RAABt]
+7/28/2022, 8:14:22 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:14:24 PM - INFO - Req was made
+7/28/2022, 8:14:24 PM - DEBUG - Getting Boards
+7/28/2022, 8:14:24 PM - INFO - New connected socket [id: L5LhPQsqxEqBRtRCAABv]
+7/28/2022, 8:21:12 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:21:13 PM - INFO - Req was made
+7/28/2022, 8:21:13 PM - DEBUG - Getting Boards
+7/28/2022, 8:21:13 PM - INFO - New connected socket [id: Gwc3t8dm9-nePY1AAABx]
+7/28/2022, 8:21:47 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:21:47 PM - INFO - Req was made
+7/28/2022, 8:21:47 PM - DEBUG - Getting Boards
+7/28/2022, 8:21:47 PM - INFO - New connected socket [id: OrIurV6x0tsFxqxnAABz]
+7/28/2022, 8:22:35 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:22:39 PM - INFO - Req was made
+7/28/2022, 8:22:39 PM - DEBUG - Getting Boards
+7/28/2022, 8:22:40 PM - INFO - New connected socket [id: sOMjcvjwiJuTGhwZAAB1]
+7/28/2022, 8:22:43 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:23:00 PM - INFO - Req was made
+7/28/2022, 8:23:00 PM - DEBUG - Getting Boards
+7/28/2022, 8:23:00 PM - INFO - New connected socket [id: 9bB_V-s51Ta3aIr9AAB3]
+7/28/2022, 8:23:11 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:23:11 PM - INFO - Req was made
+7/28/2022, 8:23:11 PM - DEBUG - Getting Boards
+7/28/2022, 8:23:12 PM - INFO - New connected socket [id: BNxjm2q90ES4V2BYAAB5]
+7/28/2022, 8:23:38 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:24:14 PM - INFO - Req was made
+7/28/2022, 8:24:14 PM - DEBUG - Getting Boards
+7/28/2022, 8:24:14 PM - INFO - New connected socket [id: zK7iytvXOcwRn9uUAAB7]
+7/28/2022, 8:25:17 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 8:25:17 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 8:27:55 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:27:55 PM - INFO - Req was made
+7/28/2022, 8:27:55 PM - DEBUG - Getting Boards
+7/28/2022, 8:27:55 PM - INFO - New connected socket [id: sDZALpVf1tzydFoKAAB9]
+7/28/2022, 8:28:08 PM - DEBUG - auth.service - login with username: Rimon123
+7/28/2022, 8:28:08 PM - ERROR - Failed to Login Error: Invalid username or password
+7/28/2022, 8:29:52 PM - DEBUG - auth.service - login with username: Rimon123
+7/28/2022, 8:29:52 PM - ERROR - Failed to Login Error: Invalid username or password
+7/28/2022, 8:30:35 PM - INFO - Server is running on port: 5173
+7/28/2022, 8:30:35 PM - INFO - New connected socket [id: 6WT5BFDC_w1Ko_VfAAAB]
+7/28/2022, 8:30:39 PM - INFO - Server is running on port: 5173
+7/28/2022, 8:30:39 PM - INFO - New connected socket [id: 3JVI2vUpO4hMC8rEAAAB]
+7/28/2022, 8:31:43 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 8:31:45 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 8:35:12 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:36:34 PM - INFO - New connected socket [id: PTnlbkZNmrtwUIGVAAAD]
+7/28/2022, 8:36:37 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:36:37 PM - INFO - New connected socket [id: qKpy3vaSGmYVCXWOAAAF]
+7/28/2022, 8:36:39 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:36:40 PM - INFO - New connected socket [id: myB5NRlEuSNxxOpQAAAH]
+7/28/2022, 8:36:43 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:36:43 PM - INFO - New connected socket [id: yFylibcefsWcxaRJAAAJ]
+7/28/2022, 8:36:44 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:36:45 PM - INFO - New connected socket [id: mE-v8vNs390iv57mAAAL]
+7/28/2022, 8:36:48 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:36:51 PM - INFO - New connected socket [id: N9RQgq3KEdLWg24hAAAN]
+7/28/2022, 8:36:53 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:36:53 PM - INFO - New connected socket [id: rKV7gtiGoaY0nZs5AAAP]
+7/28/2022, 8:36:57 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:36:58 PM - INFO - New connected socket [id: 1TdSaKGCY7nXfIrhAAAR]
+7/28/2022, 8:37:21 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:37:22 PM - INFO - New connected socket [id: vzVCVqttCcI0yOkGAAAT]
+7/28/2022, 8:37:51 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:37:52 PM - INFO - Req was made
+7/28/2022, 8:37:52 PM - DEBUG - Getting Boards
+7/28/2022, 8:37:52 PM - INFO - New connected socket [id: 06hRqtoll-h-alrsAAAV]
+7/28/2022, 8:37:58 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:37:59 PM - INFO - Req was made
+7/28/2022, 8:37:59 PM - DEBUG - Getting Boards
+7/28/2022, 8:37:59 PM - INFO - New connected socket [id: lBSiW6PVR_nvJctdAAAX]
+7/28/2022, 8:38:00 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:38:01 PM - INFO - Req was made
+7/28/2022, 8:38:01 PM - DEBUG - Getting Boards
+7/28/2022, 8:38:01 PM - INFO - New connected socket [id: nLlN8KzbWJw6jVvJAAAZ]
+7/28/2022, 8:38:09 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:38:10 PM - INFO - Req was made
+7/28/2022, 8:38:10 PM - DEBUG - Getting Boards
+7/28/2022, 8:38:11 PM - INFO - New connected socket [id: PUvrsXlcjIvZKooAAAAb]
+7/28/2022, 8:38:12 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:38:13 PM - INFO - Req was made
+7/28/2022, 8:38:13 PM - DEBUG - Getting Boards
+7/28/2022, 8:38:13 PM - INFO - New connected socket [id: 2gmXWTOza39pIss7AAAd]
+7/28/2022, 8:38:16 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:38:16 PM - INFO - Req was made
+7/28/2022, 8:38:16 PM - DEBUG - Getting Boards
+7/28/2022, 8:38:16 PM - INFO - New connected socket [id: ydd-BZkcMMeg2vuJAAAf]
+7/28/2022, 8:38:20 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:38:20 PM - INFO - Req was made
+7/28/2022, 8:38:20 PM - DEBUG - Getting Boards
+7/28/2022, 8:38:20 PM - INFO - New connected socket [id: nsxyjXq-DZrmuUKAAAAh]
+7/28/2022, 8:38:22 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:38:23 PM - INFO - New connected socket [id: MOwWZvVuEWafBi6fAAAj]
+7/28/2022, 8:38:23 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:38:24 PM - INFO - Req was made
+7/28/2022, 8:38:24 PM - DEBUG - Getting Boards
+7/28/2022, 8:38:25 PM - INFO - New connected socket [id: GTJMZqIxeEswRRsnAAAl]
+7/28/2022, 8:38:38 PM - DEBUG - auth.service - login with username: Rimon123
+7/28/2022, 8:38:38 PM - ERROR - Failed to Login Error: Invalid username or password
+7/28/2022, 8:38:48 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 8:38:48 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 8:40:06 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:40:07 PM - INFO - Req was made
+7/28/2022, 8:40:07 PM - DEBUG - Getting Boards
+7/28/2022, 8:40:07 PM - INFO - New connected socket [id: _H1DVRkXL-rONcp2AAAn]
+7/28/2022, 8:40:08 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:40:09 PM - INFO - Req was made
+7/28/2022, 8:40:09 PM - DEBUG - Getting Boards
+7/28/2022, 8:40:10 PM - INFO - New connected socket [id: n_hCsJhq1jVLw4sqAAAp]
+7/28/2022, 8:40:52 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:40:53 PM - INFO - Req was made
+7/28/2022, 8:40:53 PM - DEBUG - Getting Boards
+7/28/2022, 8:40:53 PM - INFO - New connected socket [id: L62kxNs3fh18MnN4AAAr]
+7/28/2022, 8:42:35 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 8:42:35 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 8:44:02 PM - DEBUG - auth.service - login with username: Rimon
+7/28/2022, 8:44:03 PM - ERROR - Failed to Login Error: Invalid username or password
+7/28/2022, 8:44:17 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 8:44:17 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 8:44:48 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 8:44:49 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 8:45:39 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 8:45:40 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 8:46:33 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 8:46:34 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 8:47:02 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 8:47:03 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 8:48:01 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:48:03 PM - INFO - Req was made
+7/28/2022, 8:48:03 PM - DEBUG - Getting Boards
+7/28/2022, 8:48:03 PM - INFO - New connected socket [id: tXYCr5wxmCpgadeaAAAt]
+7/28/2022, 8:48:09 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:48:10 PM - INFO - Req was made
+7/28/2022, 8:48:10 PM - DEBUG - Getting Boards
+7/28/2022, 8:48:10 PM - INFO - New connected socket [id: kGwpZE5WtGxoLbkeAAAv]
+7/28/2022, 8:48:12 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 8:48:13 PM - INFO - Req was made
+7/28/2022, 8:48:13 PM - DEBUG - Getting Boards
+7/28/2022, 8:48:13 PM - INFO - New connected socket [id: gxt31FD7hcYkwbw5AAAx]
+7/28/2022, 8:48:33 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 8:48:33 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 8:48:50 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 8:48:51 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 9:05:54 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 9:06:25 PM - INFO - Req was made
+7/28/2022, 9:06:25 PM - DEBUG - Getting Boards
+7/28/2022, 9:06:25 PM - INFO - New connected socket [id: _exQuH72nsk9fzOoAAAz]
+7/28/2022, 9:12:03 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 9:12:04 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 9:13:08 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 9:13:08 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 9:14:13 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 9:14:13 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 9:15:02 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 9:15:03 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 9:35:57 PM - ERROR - while finding board undefined | {}
+7/28/2022, 9:35:57 PM - ERROR - Failed to get board | {}
+7/28/2022, 9:36:54 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 9:36:54 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 9:40:31 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 9:40:32 PM - INFO - Req was made
+7/28/2022, 9:40:32 PM - DEBUG - Getting Boards
+7/28/2022, 9:40:32 PM - INFO - New connected socket [id: No_dcnkuoujipQt4AAA1]
+7/28/2022, 9:41:13 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 9:41:14 PM - INFO - Req was made
+7/28/2022, 9:41:14 PM - DEBUG - Getting Boards
+7/28/2022, 9:41:14 PM - INFO - New connected socket [id: n9ofFHr7xqDO6wVhAAA3]
+7/28/2022, 9:45:45 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 9:45:46 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 9:50:30 PM - DEBUG - auth.service - login with username: Rimonadlo123
+7/28/2022, 9:50:30 PM - ERROR - Failed to Login Error: Invalid username or password
+7/28/2022, 9:50:57 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 9:50:58 PM - INFO - Req was made
+7/28/2022, 9:50:58 PM - DEBUG - Getting Boards
+7/28/2022, 9:50:58 PM - INFO - New connected socket [id: AkM86hFNLDTDh0G0AAA5]
+7/28/2022, 9:51:00 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 9:51:01 PM - INFO - Req was made
+7/28/2022, 9:51:01 PM - DEBUG - Getting Boards
+7/28/2022, 9:51:01 PM - INFO - New connected socket [id: noYG3zSu4858fMtzAAA7]
+7/28/2022, 9:51:10 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 9:51:11 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 9:51:39 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 9:51:41 PM - INFO - Req was made
+7/28/2022, 9:51:41 PM - DEBUG - Getting Boards
+7/28/2022, 9:51:41 PM - INFO - New connected socket [id: AmvzQ9x4X696rOkeAAA9]
+7/28/2022, 9:51:56 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 9:51:57 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 9:53:23 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 9:53:24 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 9:54:55 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 9:54:55 PM - INFO - Req was made
+7/28/2022, 9:54:55 PM - DEBUG - Getting Boards
+7/28/2022, 9:54:55 PM - INFO - New connected socket [id: SfAdMLlFWAI_vuRJAAA_]
+7/28/2022, 9:55:17 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 9:55:17 PM - INFO - Req was made
+7/28/2022, 9:55:17 PM - DEBUG - Getting Boards
+7/28/2022, 9:55:17 PM - INFO - New connected socket [id: quRzpBgH0wb6HqxAAABB]
+7/28/2022, 9:55:18 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 9:55:18 PM - INFO - Req was made
+7/28/2022, 9:55:18 PM - DEBUG - Getting Boards
+7/28/2022, 9:55:18 PM - INFO - New connected socket [id: misy0jCUxdxh6fTeAABD]
+7/28/2022, 10:02:23 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:02:24 PM - INFO - New connected socket [id: pF2VEhbJCzWqQviJAABF]
+7/28/2022, 10:02:26 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:02:35 PM - INFO - Req was made
+7/28/2022, 10:02:35 PM - DEBUG - Getting Boards
+7/28/2022, 10:02:35 PM - INFO - New connected socket [id: Qjj9BmqkbYltcFYzAABH]
+7/28/2022, 10:02:35 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:02:36 PM - INFO - Req was made
+7/28/2022, 10:02:36 PM - DEBUG - Getting Boards
+7/28/2022, 10:02:36 PM - INFO - New connected socket [id: hu6FiV1_xru2n_QzAABJ]
+7/28/2022, 10:03:19 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:03:20 PM - INFO - Req was made
+7/28/2022, 10:03:20 PM - DEBUG - Getting Boards
+7/28/2022, 10:03:20 PM - INFO - New connected socket [id: OjZj-AbaYHrEBHoQAABL]
+7/28/2022, 10:04:24 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:04:24 PM - INFO - Req was made
+7/28/2022, 10:04:24 PM - DEBUG - Getting Boards
+7/28/2022, 10:04:24 PM - INFO - New connected socket [id: nnupQCfQ7Iy0u7T-AABN]
+7/28/2022, 10:04:33 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:04:34 PM - INFO - Req was made
+7/28/2022, 10:04:34 PM - DEBUG - Getting Boards
+7/28/2022, 10:04:34 PM - INFO - New connected socket [id: 2yEl2eDdJamPnvqUAABP]
+7/28/2022, 10:04:40 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:04:40 PM - INFO - New connected socket [id: 2Ov-Pbux4n5sY7MVAABR]
+7/28/2022, 10:04:42 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:04:42 PM - INFO - Req was made
+7/28/2022, 10:04:42 PM - DEBUG - Getting Boards
+7/28/2022, 10:04:42 PM - INFO - New connected socket [id: YLgNq3hGrwSS9fUzAABT]
+7/28/2022, 10:04:52 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:04:52 PM - INFO - Req was made
+7/28/2022, 10:04:52 PM - DEBUG - Getting Boards
+7/28/2022, 10:04:52 PM - INFO - New connected socket [id: 6D2u_8_U0ukxvdBkAABV]
+7/28/2022, 10:05:00 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:05:01 PM - INFO - Req was made
+7/28/2022, 10:05:01 PM - DEBUG - Getting Boards
+7/28/2022, 10:05:01 PM - INFO - New connected socket [id: Mulfi19dlaETn9u5AABX]
+7/28/2022, 10:06:59 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:07:00 PM - INFO - Req was made
+7/28/2022, 10:07:00 PM - DEBUG - Getting Boards
+7/28/2022, 10:07:00 PM - INFO - New connected socket [id: AgAq0kxFsbB_xYPtAABZ]
+7/28/2022, 10:29:23 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 10:29:24 PM - INFO - Req was made
+7/28/2022, 10:29:24 PM - DEBUG - Getting Boards
+7/28/2022, 10:29:24 PM - INFO - New connected socket [id: eYuDEHNjpi8u8AjLAABb]
+7/28/2022, 11:04:21 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:34:27 PM - INFO - Req was made
+7/28/2022, 11:34:27 PM - DEBUG - Getting Boards
+7/28/2022, 11:34:28 PM - INFO - New connected socket [id: iH9rKCZxyti9rhzcAABe]
+7/28/2022, 11:40:29 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:40:30 PM - INFO - Req was made
+7/28/2022, 11:40:30 PM - DEBUG - Getting Boards
+7/28/2022, 11:40:30 PM - INFO - New connected socket [id: YrR3tUxC03rl7l9QAABg]
+7/28/2022, 11:40:31 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:40:32 PM - INFO - Req was made
+7/28/2022, 11:40:32 PM - DEBUG - Getting Boards
+7/28/2022, 11:40:32 PM - INFO - New connected socket [id: MC19wvxTTQjcatnvAABi]
+7/28/2022, 11:40:43 PM - DEBUG - auth.service - signup with username: bb, fullname: undefined
+7/28/2022, 11:40:43 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 11:41:27 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:41:28 PM - INFO - Req was made
+7/28/2022, 11:41:28 PM - DEBUG - Getting Boards
+7/28/2022, 11:41:28 PM - INFO - New connected socket [id: C5-a6YT-LY0g3NyQAABk]
+7/28/2022, 11:41:33 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:41:34 PM - INFO - Req was made
+7/28/2022, 11:41:34 PM - DEBUG - Getting Boards
+7/28/2022, 11:41:34 PM - INFO - New connected socket [id: IKWw7z7_l7cnVVw4AABm]
+7/28/2022, 11:41:47 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:41:49 PM - INFO - Req was made
+7/28/2022, 11:41:49 PM - DEBUG - Getting Boards
+7/28/2022, 11:41:49 PM - INFO - New connected socket [id: jJM7Kwv-dAEB5Ix8AABo]
+7/28/2022, 11:41:49 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:41:50 PM - INFO - Req was made
+7/28/2022, 11:41:50 PM - DEBUG - Getting Boards
+7/28/2022, 11:41:50 PM - INFO - New connected socket [id: pChhrZcf6ZjKNYiLAABq]
+7/28/2022, 11:42:54 PM - DEBUG - auth.service - signup with username: asf, fullname: undefined
+7/28/2022, 11:42:54 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 11:43:39 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:43:40 PM - INFO - New connected socket [id: eQ4_CvxDtlUtGq6uAAAB]
+7/28/2022, 11:43:51 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:43:51 PM - INFO - New connected socket [id: jq8PusptaZz78AscAAAB]
+7/28/2022, 11:44:01 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:44:01 PM - INFO - New connected socket [id: ycd2V5vedriMVNuYAAAB]
+7/28/2022, 11:44:07 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:44:07 PM - INFO - New connected socket [id: 2k1hsQ84BUsKia03AAAB]
+7/28/2022, 11:44:15 PM - DEBUG - auth.service - login with username: Rimonaldo
+7/28/2022, 11:44:16 PM - ERROR - Failed to Login Error: Invalid username or password
+7/28/2022, 11:44:22 PM - DEBUG - auth.service - login with username: Rimonaldo123
+7/28/2022, 11:44:23 PM - INFO - User login:  | {"_id":"62e29fdfe76d2b9101ecada9","username":"Rimonaldo123","email":"Rimons2804@gmail.com","isAdmin":true,"avatar":{"imgUrl":"url","color":"#EF7564"}}
+7/28/2022, 11:44:41 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:44:42 PM - INFO - New connected socket [id: MAaEdIDuXo5uB5h2AAAB]
+7/28/2022, 11:44:53 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:44:53 PM - INFO - New connected socket [id: Uza4UdDs-jE4ahvZAAAB]
+7/28/2022, 11:45:00 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:45:01 PM - INFO - New connected socket [id: lIniBZQ8S65w0APZAAAB]
+7/28/2022, 11:45:07 PM - DEBUG - auth.service - signup with username: afs, fullname: undefined
+7/28/2022, 11:45:07 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 11:45:45 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:45:46 PM - INFO - Req was made
+7/28/2022, 11:45:46 PM - DEBUG - Getting Boards
+7/28/2022, 11:45:47 PM - INFO - Req was made
+7/28/2022, 11:45:47 PM - DEBUG - Getting Boards
+7/28/2022, 11:45:47 PM - INFO - New connected socket [id: Tr5-OTnXs-53Cws_AAAE]
+7/28/2022, 11:45:49 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:45:50 PM - INFO - Req was made
+7/28/2022, 11:45:50 PM - DEBUG - Getting Boards
+7/28/2022, 11:45:50 PM - INFO - New connected socket [id: soEC6BMUOJDMGTSAAAAG]
+7/28/2022, 11:45:51 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:45:52 PM - INFO - Req was made
+7/28/2022, 11:45:52 PM - DEBUG - Getting Boards
+7/28/2022, 11:45:52 PM - INFO - New connected socket [id: 3XBDhosAoTXMUgQnAAAI]
+7/28/2022, 11:45:54 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:45:55 PM - INFO - Req was made
+7/28/2022, 11:45:55 PM - DEBUG - Getting Boards
+7/28/2022, 11:45:56 PM - INFO - New connected socket [id: KlTbBgZxW3RCSS4gAAAK]
+7/28/2022, 11:45:56 PM - INFO - Socket disconnected [id: undefined]
+7/28/2022, 11:45:57 PM - INFO - Req was made
+7/28/2022, 11:45:57 PM - DEBUG - Getting Boards
+7/28/2022, 11:45:57 PM - INFO - New connected socket [id: LECyMA3inIDbBiohAAAM]
+7/28/2022, 11:46:02 PM - DEBUG - auth.service - signup with username: asf, fullname: undefined
+7/28/2022, 11:46:02 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 11:46:55 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:46:55 PM - INFO - New connected socket [id: LpZgkY8VwmasUTinAAAB]
+7/28/2022, 11:46:58 PM - DEBUG - auth.service - signup with username: saf, fullname: undefined
+7/28/2022, 11:46:58 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 11:47:20 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:47:21 PM - INFO - New connected socket [id: xAUaUg3-q_mu7FGLAAAB]
+7/28/2022, 11:47:25 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:47:25 PM - INFO - New connected socket [id: -f_rJhl3l_m6SrOKAAAB]
+7/28/2022, 11:47:26 PM - DEBUG - auth.service - signup with username: asf, fullname: undefined
+7/28/2022, 11:47:26 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 11:47:52 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:47:53 PM - INFO - New connected socket [id: E6o2z5G9bkMgpsBcAAAB]
+7/28/2022, 11:47:55 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:47:56 PM - INFO - New connected socket [id: V6eOT4VLBHg_U794AAAB]
+7/28/2022, 11:47:58 PM - DEBUG - auth.service - signup with username: dsfv, fullname: undefined
+7/28/2022, 11:47:58 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 11:48:39 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:48:39 PM - INFO - New connected socket [id: mykOYF97M0P3Z_6hAAAB]
+7/28/2022, 11:48:44 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:48:44 PM - INFO - New connected socket [id: lTqKH-QM3YoqtHQPAAAB]
+7/28/2022, 11:48:45 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:48:46 PM - INFO - New connected socket [id: NbOgaIV2Xf4HmgLuAAAB]
+7/28/2022, 11:48:53 PM - DEBUG - auth.service - signup with username: asf, email: undefined
+7/28/2022, 11:48:53 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 11:49:37 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:49:37 PM - INFO - New connected socket [id: QLGKxqFx3AmkkpNgAAAB]
+7/28/2022, 11:49:41 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:49:41 PM - INFO - New connected socket [id: SbYoSAqa0lXkMN5ZAAAB]
+7/28/2022, 11:49:44 PM - DEBUG - auth.service - signup with username: rg, email: undefined
+7/28/2022, 11:49:44 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 11:50:12 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:50:13 PM - INFO - New connected socket [id: K8MfH7NiOj60C5kqAAAB]
+7/28/2022, 11:50:14 PM - DEBUG - auth.service - signup with username: fas, email: asf
+7/28/2022, 11:50:14 PM - ERROR - Failed to signup email, username and password are required!
+7/28/2022, 11:50:25 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:50:26 PM - INFO - New connected socket [id: xC3_cG-u88oUmcFcAAAB]
+7/28/2022, 11:51:44 PM - DEBUG - auth.service - signup with username: adf, email: asf
+7/28/2022, 11:51:44 PM - ERROR - Failed to signup ReferenceError: isAdmin is not defined
+7/28/2022, 11:53:09 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:53:09 PM - INFO - New connected socket [id: x0vFaV1YkiyVNvY0AAAB]
+7/28/2022, 11:53:14 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:53:15 PM - INFO - New connected socket [id: ZRRKBgidXmNNV5HOAAAB]
+7/28/2022, 11:53:21 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:53:21 PM - INFO - New connected socket [id: AtJiXp37VY1QIEEfAAAB]
+7/28/2022, 11:53:38 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:53:38 PM - INFO - New connected socket [id: zhZ62-4q8gEgDw8nAAAB]
+7/28/2022, 11:53:55 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:53:55 PM - INFO - New connected socket [id: G-s9p4YfIUyuX507AAAB]
+7/28/2022, 11:53:58 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:53:59 PM - INFO - New connected socket [id: vsvWYh2hecR-cC2RAAAB]
+7/28/2022, 11:54:11 PM - INFO - Server is running on port: 5173
+7/28/2022, 11:54:11 PM - INFO - New connected socket [id: VI6ta28KFtl_UwfmAAAB]
+7/28/2022, 11:54:22 PM - DEBUG - auth.service - signup with username: ef, email: eq
+7/28/2022, 11:54:23 PM - DEBUG - auth.route - new account created: {"username":"ef","password":"$2b$10$GmjWztP5zeRU6IzqidcMq.mcX4f9maYi3JnWNeM0gKzgWAWHlxLMu","email":"eq","isAdmin":true,"avatar":{},"_id":"62e2f77f581bf6cbb6051ed0"}
+7/28/2022, 11:54:23 PM - DEBUG - auth.service - login with username: ef
+7/29/2022, 12:02:30 AM - DEBUG - auth.service - signup with username: asf, email: asf
+7/29/2022, 12:02:31 AM - DEBUG - auth.route - new account created: {"username":"asf","password":"$2b$10$YXpGA88quTukQtivNM3dwedyTN5hwfLtFokJsBhaaLnaEUBBCW0Qq","email":"asf","isAdmin":true,"avatar":{},"_id":"62e2f967581bf6cbb6051ed1"}
+7/29/2022, 12:02:31 AM - DEBUG - auth.service - login with username: asf
+7/29/2022, 12:04:08 AM - INFO - Req was made
+7/29/2022, 12:04:08 AM - DEBUG - Getting Boards
+7/29/2022, 12:04:46 AM - INFO - Req was made
+7/29/2022, 12:04:46 AM - DEBUG - Getting Boards
+7/29/2022, 12:04:48 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:04:49 AM - INFO - Req was made
+7/29/2022, 12:04:49 AM - DEBUG - Getting Boards
+7/29/2022, 12:04:49 AM - INFO - New connected socket [id: OAXfB2emJFH4Agj1AAAD]
+7/29/2022, 12:05:10 AM - DEBUG - auth.service - signup with username: admin, email: aasf
+7/29/2022, 12:05:10 AM - DEBUG - auth.route - new account created: {"username":"admin","password":"$2b$10$WhtJJbP2vkrfkvcns7CK6uy5nJm0EUxJRRMHJoYno5JrvpIjndsbS","email":"aasf","isAdmin":true,"avatar":{},"_id":"62e2fa06581bf6cbb6051ed2"}
+7/29/2022, 12:05:10 AM - DEBUG - auth.service - login with username: admin
+7/29/2022, 12:05:38 AM - INFO - Req was made
+7/29/2022, 12:05:38 AM - DEBUG - Getting Boards
+7/29/2022, 12:05:44 AM - INFO - Req was made
+7/29/2022, 12:05:44 AM - DEBUG - Getting Boards
+7/29/2022, 12:05:47 AM - INFO - Req was made
+7/29/2022, 12:05:47 AM - DEBUG - Getting Boards
+7/29/2022, 12:06:08 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:06:09 AM - INFO - Req was made
+7/29/2022, 12:06:09 AM - DEBUG - Getting Boards
+7/29/2022, 12:06:09 AM - INFO - New connected socket [id: xsyNvQ1bRF5Ybv8_AAAF]
+7/29/2022, 12:06:43 AM - DEBUG - auth.service - login with username: admin
+7/29/2022, 12:06:44 AM - INFO - User login:  | {"_id":"62e2fa06581bf6cbb6051ed2","username":"admin","email":"aasf","isAdmin":true,"avatar":{}}
+7/29/2022, 12:08:23 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:08:23 AM - INFO - Req was made
+7/29/2022, 12:08:23 AM - DEBUG - Getting Boards
+7/29/2022, 12:08:24 AM - INFO - New connected socket [id: SRiXl2W1vVPa8NDQAAAH]
+7/29/2022, 12:08:53 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:08:54 AM - INFO - Req was made
+7/29/2022, 12:08:54 AM - DEBUG - Getting Boards
+7/29/2022, 12:08:54 AM - INFO - New connected socket [id: psO44ZZGmKr6G35NAAAJ]
+7/29/2022, 12:09:03 AM - DEBUG - auth.service - login with username: admin
+7/29/2022, 12:09:03 AM - INFO - User login:  | {"_id":"62e2fa06581bf6cbb6051ed2","username":"admin","email":"aasf","isAdmin":true,"avatar":{}}
+7/29/2022, 12:12:54 AM - ERROR - while finding board undefined | {}
+7/29/2022, 12:12:54 AM - ERROR - Failed to get board | {}
+7/29/2022, 12:12:58 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:12:59 AM - INFO - Req was made
+7/29/2022, 12:12:59 AM - DEBUG - Getting Boards
+7/29/2022, 12:12:59 AM - INFO - New connected socket [id: QQqKBLaZLGt8frEZAAAL]
+7/29/2022, 12:13:15 AM - DEBUG - auth.service - login with username: admin
+7/29/2022, 12:13:16 AM - INFO - User login:  | {"_id":"62e2fa06581bf6cbb6051ed2","username":"admin","email":"aasf","isAdmin":true,"avatar":{}}
+7/29/2022, 12:13:23 AM - ERROR - while finding board undefined | {}
+7/29/2022, 12:13:23 AM - ERROR - Failed to get board | {}
+7/29/2022, 12:13:25 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:13:25 AM - INFO - Req was made
+7/29/2022, 12:13:25 AM - DEBUG - Getting Boards
+7/29/2022, 12:13:25 AM - INFO - New connected socket [id: 92OXG4KwvtsMn_22AAAN]
+7/29/2022, 12:13:46 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:13:47 AM - INFO - Req was made
+7/29/2022, 12:13:47 AM - DEBUG - Getting Boards
+7/29/2022, 12:13:47 AM - INFO - New connected socket [id: UWSfu2Rcs4tX0v7ZAAAP]
+7/29/2022, 12:14:14 AM - ERROR - while finding board undefined | {}
+7/29/2022, 12:14:14 AM - ERROR - Failed to get board | {}
+7/29/2022, 12:14:22 AM - DEBUG - auth.service - login with username: admin
+7/29/2022, 12:14:22 AM - INFO - User login:  | {"_id":"62e2fa06581bf6cbb6051ed2","username":"admin","email":"aasf","isAdmin":true,"avatar":{}}
+7/29/2022, 12:14:39 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:14:40 AM - INFO - Req was made
+7/29/2022, 12:14:40 AM - DEBUG - Getting Boards
+7/29/2022, 12:14:40 AM - INFO - New connected socket [id: uWtgvsSLwf0etZU5AAAR]
+7/29/2022, 12:14:42 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:14:43 AM - INFO - Req was made
+7/29/2022, 12:14:43 AM - DEBUG - Getting Boards
+7/29/2022, 12:14:43 AM - INFO - New connected socket [id: 98yarvYBpSuxEU9zAAAT]
+7/29/2022, 12:14:46 AM - ERROR - while finding board undefined | {}
+7/29/2022, 12:14:46 AM - ERROR - Failed to get board | {}
+7/29/2022, 12:14:47 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:14:48 AM - INFO - Req was made
+7/29/2022, 12:14:48 AM - DEBUG - Getting Boards
+7/29/2022, 12:14:48 AM - INFO - New connected socket [id: E3pcWbgoitd7Cv_oAAAV]
+7/29/2022, 12:21:21 AM - DEBUG - auth.service - login with username: admin
+7/29/2022, 12:21:21 AM - INFO - User login:  | {"_id":"62e2fa06581bf6cbb6051ed2","username":"admin","email":"aasf","isAdmin":true,"avatar":{}}
+7/29/2022, 12:21:43 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:21:44 AM - INFO - Req was made
+7/29/2022, 12:21:44 AM - DEBUG - Getting Boards
+7/29/2022, 12:21:44 AM - INFO - New connected socket [id: jIlcBhCsydaMsSyAAAAX]
+7/29/2022, 12:26:12 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:26:13 AM - INFO - Req was made
+7/29/2022, 12:26:13 AM - DEBUG - Getting Boards
+7/29/2022, 12:26:13 AM - INFO - New connected socket [id: sF3T7dhWio8rlzkRAAAZ]
+7/29/2022, 12:26:19 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:26:20 AM - INFO - Req was made
+7/29/2022, 12:26:20 AM - DEBUG - Getting Boards
+7/29/2022, 12:26:20 AM - INFO - New connected socket [id: RpnasMT3zShTehtOAAAb]
+7/29/2022, 12:26:33 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:26:33 AM - INFO - Req was made
+7/29/2022, 12:26:33 AM - DEBUG - Getting Boards
+7/29/2022, 12:26:34 AM - INFO - New connected socket [id: vzt_CA8SVFiAw1ElAAAd]
+7/29/2022, 12:26:41 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:26:41 AM - INFO - Req was made
+7/29/2022, 12:26:41 AM - DEBUG - Getting Boards
+7/29/2022, 12:26:42 AM - INFO - New connected socket [id: ido8lVTOnPbdrtdIAAAf]
+7/29/2022, 12:27:31 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:27:32 AM - INFO - Req was made
+7/29/2022, 12:27:32 AM - DEBUG - Getting Boards
+7/29/2022, 12:27:32 AM - INFO - New connected socket [id: xH4T7Os2iZ4b1LP9AAAh]
+7/29/2022, 12:28:35 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:28:36 AM - INFO - Req was made
+7/29/2022, 12:28:36 AM - DEBUG - Getting Boards
+7/29/2022, 12:28:36 AM - INFO - New connected socket [id: 9YZJLOSJtFDpgH-eAAAj]
+7/29/2022, 12:28:41 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:28:41 AM - INFO - Req was made
+7/29/2022, 12:28:41 AM - DEBUG - Getting Boards
+7/29/2022, 12:28:41 AM - INFO - New connected socket [id: WIl0p4XDcva53VXyAAAl]
+7/29/2022, 12:29:54 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:29:54 AM - INFO - Req was made
+7/29/2022, 12:29:54 AM - DEBUG - Getting Boards
+7/29/2022, 12:29:54 AM - INFO - New connected socket [id: yCrw3mqAL45B0DMiAAAn]
+7/29/2022, 12:48:08 AM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 12:48:10 AM - INFO - Req was made
+7/29/2022, 12:48:10 AM - DEBUG - Getting Boards
+7/29/2022, 12:48:10 AM - INFO - New connected socket [id: VIQpF_JchEyS2-aaAAAp]
+7/29/2022, 12:55:09 AM - DEBUG - auth.service - signup with username: asfasf, email: @adg
+7/29/2022, 12:55:09 AM - DEBUG - auth.route - new account created: {"username":"asfasf","password":"$2b$10$09j3shzTx3towpGZFYJa6eZV8A0PA7U.CwoBCbbRHknaNB6O4/V6K","email":"@adg","isAdmin":true,"avatar":{},"_id":"62e305bd581bf6cbb6051ed3"}
+7/29/2022, 12:55:09 AM - DEBUG - auth.service - login with username: asfasf
+7/29/2022, 12:55:24 AM - DEBUG - auth.service - login with username: dwqarfweqr
+7/29/2022, 12:55:24 AM - ERROR - Failed to Login Error: Invalid username or password
+7/29/2022, 12:55:35 AM - DEBUG - auth.service - login with username: admin
+7/29/2022, 12:55:35 AM - INFO - User login:  | {"_id":"62e2fa06581bf6cbb6051ed2","username":"admin","email":"aasf","isAdmin":true,"avatar":{}}
