@@ -1,5 +1,5 @@
 const logger = require('./logger.service')
-const boardService = require('../api/board/board.service')
+// const boardService = require('../api/board/board.service')
 
 var gIo = null
 
@@ -10,13 +10,11 @@ function setupSocketAPI(http) {
         }
     })
     gIo.on('connection', socket => {
-        console.log('new socket',socket.id);
-        socket.userId = socket.id
-        // logger.info(`New connected socket [id: ${socket.id}]`)
+        logger.info(`New connected socket [id: ${socket.id}]`)
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('connectin-board', topic => {
+        socket.on('board-set-topic', topic => {
             if (socket.myTopic === topic) return
             if (socket.myTopic) {
                 socket.leave(socket.myTopic)
@@ -24,9 +22,6 @@ function setupSocketAPI(http) {
             }
             socket.join(topic)
             socket.myTopic = topic
-        })
-        socket.on('updateGroup',async (group)=>{
-            gIo.to(socket.myTopic,group).emit('updateGroup',group)
         })
         socket.on('chat-send-msg', msg => {
             logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
@@ -51,11 +46,10 @@ function setupSocketAPI(http) {
 
     })
 }
-
 function emitTo({ type, data, label }) {
     if (label) gIo.to('watching:' + label).emit(type, data)
     else gIo.emit(type, data)
-}
+} 
 
 async function emitToUser({ type, data, userId }) {
     const socket = await _getUserSocket(userId)
@@ -88,6 +82,7 @@ async function broadcast({ type, data, room = null, userId }) {
         gIo.emit(type, data)
     }
 }
+
 
 async function _getUserSocket(userId) {
     const sockets = await _getAllSockets()
