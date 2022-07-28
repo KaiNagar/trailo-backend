@@ -6,7 +6,7 @@ const { broadcast } = require('../../services/socket.service.js')
 async function getBoards(req, res) {
   try {
     logger.debug("Getting Boards");
-    var queryParams = req.query;
+    const queryParams = req.query;
     const boards = await boardService.query(queryParams);
     res.json(boards);
   } catch (err) {

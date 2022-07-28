@@ -28,7 +28,7 @@ function setupSocketAPI(http) {
             // emits to all sockets:
             // gIo.emit('chat addMsg', msg)
             // emits only to sockets in the same room
-            gIo.to(socket.myTopic).emit('chat-add-msg', msg)
+            // gIo.to(socket.myTopic).emit('chat-add-msg', msg)
         })
         socket.on('user-watch', userId => {
             logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
@@ -46,22 +46,22 @@ function setupSocketAPI(http) {
 
     })
 }
-function emitTo({ type, data, label }) {
-    if (label) gIo.to('watching:' + label).emit(type, data)
-    else gIo.emit(type, data)
-} 
+// function emitTo({ type, data, label }) {
+//     if (label) gIo.to('watching:' + label).emit(type, data)
+//     else gIo.emit(type, data)
+// } 
 
-async function emitToUser({ type, data, userId }) {
-    const socket = await _getUserSocket(userId)
+// async function emitToUser({ type, data, userId }) {
+//     const socket = await _getUserSocket(userId)
 
-    if (socket) {
-        logger.info(`Emiting event: ${type} to user: ${userId} socket [id: ${socket.id}]`)
-        socket.emit(type, data)
-    }else {
-        logger.info(`No active socket for user: ${userId}`)
-        // _printSockets()
-    }
-}
+//     if (socket) {
+//         logger.info(`Emiting event: ${type} to user: ${userId} socket [id: ${socket.id}]`)
+//         socket.emit(type, data)
+//     }else {
+//         logger.info(`No active socket for user: ${userId}`)
+//         // _printSockets()
+//     }
+// }
 
 // If possible, send to all sockets BUT not the current socket 
 // Optionally, broadcast to a room / to all
@@ -106,12 +106,12 @@ function _printSocket(socket) {
 
 module.exports = {
     // set up the sockets service and define the API
-    setupSocketAPI,
+    // setupSocketAPI,
     // emit to everyone / everyone in a specific room (label)
-    emitTo, 
+    // emitTo, 
     // emit to a specific user (if currently active in system)
-    emitToUser, 
+    // emitToUser, 
     // Send to all sockets BUT not the current socket - if found
     // (otherwise broadcast to a room / to all)
-    broadcast,
+    // broadcast,
 }
