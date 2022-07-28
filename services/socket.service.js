@@ -14,39 +14,37 @@ function setupSocketAPI(http) {
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('board-set-topic', topic => {
-            if (socket.myTopic === topic) return
-            if (socket.myTopic) {
-                socket.leave(socket.myTopic)
-                logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
+        socket.on('board new-enter', boardId => {
+            if (socket.boardId === boardId) return;
+            if (socket.boardId) {
+                socket.leave(socket.boardId)
             }
-            socket.join(topic)
-            socket.myTopic = topic
+            socket.join(boardId)
+            socket.boardId = boardId
         })
-        socket.on('chat-send-msg', msg => {
-            logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
-            // emits to all sockets:
-            // gIo.emit('chat addMsg', msg)
-            // emits only to sockets in the same room
-            gIo.to(socket.myTopic).emit('chat-add-msg', msg)
+        socket.on('board updated', board => {
+            broadcast({type:'board pushed',data:board,room:socket.boardId,userId:socket.id})
         })
-        socket.on('user-watch', userId => {
-            logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
-            socket.join('watching:' + userId)
+
+        
+        // socket.on('user-watch', userId => {
+        //     logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
+        //     socket.join('watching:' + userId)
             
-        })
-        socket.on('set-user-socket', userId => {
-            logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
-            socket.userId = userId
-        })
-        socket.on('unset-user-socket', () => {
-            logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
-            delete socket.userId
-        })
+        // })
+        // socket.on('set-user-socket', userId => {
+        //     logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
+        //     socket.userId = userId
+        // })
+        // socket.on('unset-user-socket', () => {
+        //     logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
+        //     delete socket.userId
+        // })
 
     })
 }
 function emitTo({ type, data, label }) {
+    console.log('type, data, label',type, data, label);
     if (label) gIo.to('watching:' + label).emit(type, data)
     else gIo.emit(type, data)
 } 
@@ -59,7 +57,7 @@ async function emitToUser({ type, data, userId }) {
         socket.emit(type, data)
     }else {
         logger.info(`No active socket for user: ${userId}`)
-        // _printSockets()
+        _printSockets()
     }
 }
 
