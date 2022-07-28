@@ -32,7 +32,7 @@ async function addBoard(req, res) {
   try {
     const board = req.body;
     const addedBoard = await boardService.add(board);
-    broadcast({ type: 'something-changed', boardId: board._id })
+    // broadcast({ type: 'something-changed', boardId: board._id })
     console.log(addedBoard);
     return res.json(addedBoard);
   } catch (err) {
