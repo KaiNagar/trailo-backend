@@ -17,22 +17,24 @@ async function login(req, res) {
 }
 
 async function signup(req, res) {
+  console.log(req.body);
+
   try {
-    const { username, password, fullname, isAdmin } = req.body
+    const { username, password, email,} = req.body
     // Never log passwords
     // logger.debug(fullname + ', ' + username + ', ' + password)
     const account = await authService.signup(
       username,
       password,
-      fullname,
-      isAdmin,
+      email,
     )
+    console.log('account', account);
     logger.debug(`auth.route - new account created: ` + JSON.stringify(account))
-    const user = await authService.login(username, password)
+    const user = await authService.login(username, password )
     const loginToken = authService.getLoginToken(user)
-    logger.info('User login: ', user)
     res.cookie('loginToken', loginToken)
 
+    console.log('res user',user);
     res.json(user)
   } catch (err) {
     logger.error('Failed to signup ' + err)

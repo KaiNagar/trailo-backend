@@ -45,6 +45,7 @@ async function getByUsername(username) {
   try {
     const collection = await dbService.getCollection('user')
     const user = await collection.findOne({ username })
+    console.log('found user ', user);
     return user
   } catch (err) {
     logger.error(`while finding user ${username}`, err)
@@ -68,8 +69,7 @@ async function update(user) {
     const userToSave = {
       // _id: ObjectId(user._id),
       username: user.username,
-      fullname: user.fullname,
-      score: user.score,
+      email: user.email,
     }
     const collection = await dbService.getCollection('user')
     await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
@@ -81,14 +81,15 @@ async function update(user) {
 }
 
 async function add(user) {
+  console.log('user in user serivce:', user);
   try {
     // peek only updatable fields!
     const userToAdd = {
       username: user.username,
       password: user.password,
-      fullname: user.fullname,
+      email: user.email,
       isAdmin: user.isAdmin,
-      score: user.score || 1000,
+      avatar:user.avatar
     }
     const collection = await dbService.getCollection('user')
     await collection.insertOne(userToAdd)
