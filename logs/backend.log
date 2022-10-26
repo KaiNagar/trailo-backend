@@ -5525,6 +5525,7 @@
 7/29/2022, 12:54:23 AM - ERROR - Failed to get board | {}
 =======
 >>>>>>> 99dfca3f2562a3f5646e79e0f59ae5ce8a16e3c9
+<<<<<<< HEAD
 >>>>>>> 3d47d63323fd4d8ded75012bb37b8e1ffbb23517
 7/29/2022, 1:07:01 AM - INFO - Server is running on port: 5173
 7/29/2022, 1:07:53 AM - INFO - Req was made
@@ -10181,3 +10182,20 @@
 8/1/2022, 9:37:16 PM - INFO - Server is running on port: 5173
 8/1/2022, 9:37:16 PM - INFO - New connected socket [id: oQ5wlx9IbNZsaJ9JAAAB]
 8/1/2022, 9:37:16 PM - INFO - New connected socket [id: kYgAdAoWawasm4alAAAD]
+=======
+7/29/2022, 1:05:40 AM - INFO - Server is running on port: 5173
+7/29/2022, 1:08:23 AM - INFO - Req was made
+7/29/2022, 1:08:23 AM - DEBUG - Getting Boards
+7/29/2022, 1:08:30 AM - INFO - Req was made
+7/29/2022, 1:08:30 AM - DEBUG - Getting Boards
+7/29/2022, 1:08:37 AM - INFO - Req was made
+7/29/2022, 1:08:37 AM - DEBUG - Getting Boards
+7/29/2022, 1:08:41 AM - DEBUG - auth.service - login with username: admin
+7/29/2022, 1:08:42 AM - INFO - User login:  | {"_id":"62e2fa06581bf6cbb6051ed2","username":"admin","email":"aasf","isAdmin":true,"avatar":{}}
+7/29/2022, 1:09:05 AM - INFO - Req was made
+7/29/2022, 1:09:05 AM - DEBUG - Getting Boards
+7/29/2022, 1:09:48 AM - INFO - Server is running on port: 5173
+7/29/2022, 1:09:52 AM - INFO - New connected socket [id: lwgX8YuR0fh8vgm7AAAB]
+7/29/2022, 1:09:58 AM - DEBUG - auth.service - login with username: admin
+7/29/2022, 1:10:00 AM - INFO - User login:  | {"_id":"62e2fa06581bf6cbb6051ed2","username":"admin","email":"aasf","isAdmin":true,"avatar":{}}
+>>>>>>> 7ca627d6262fce4cd80ea59ae077c607b73bfb35
